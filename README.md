@@ -4,6 +4,10 @@
 
 学习从[时政与申论学习计划（审阅稿）](学习计划.md)开始；**唯一个人记录为根目录[进度.md](进度.md)**。已有资料分析九课沿用原教学规范，状态并入统一进度。资料入口见[素材库](素材库/README.md)，修正与重算见[统计复核报告](analysis/REPORT.md)。
 
+当前唯一工作副本：`C:\Projects\rush`（WSL路径`/mnt/c/Projects/rush`）。原WSL独立副本保留在`/home/fires/projects/rush-archive-20261116`作历史归档，`/home/fires/projects/rush`改为指向此处的入口。新课只读写根目录进度。
+
+本次采集已并入：[资料采集](资料采集/README.md)、[验收及后续更正](资料采集/验收-2026-11-16.md)。学习计划第6节安排专题，第7节逐题型对接新资料。Learn-to-Write审阅副本在`C:\Projects\tmp\ltw`，从`审阅入口.md`读起；是否接作文反馈另定。
+
 ## 目录
 
 ```

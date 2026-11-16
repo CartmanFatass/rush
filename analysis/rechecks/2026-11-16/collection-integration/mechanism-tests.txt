@@ -1,0 +1,15 @@
+test_actual_answer_projection_has_fifty_answers (test_recheck.ExamBoundaryTests.test_actual_answer_projection_has_fifty_answers) ... ok
+test_actual_primary_scope_is_complete_and_clean (test_recheck.ExamBoundaryTests.test_actual_primary_scope_is_complete_and_clean) ... ok
+test_first_reference_answer_excludes_prompt_alternatives_and_notes (test_recheck.ExamBoundaryTests.test_first_reference_answer_excludes_prompt_alternatives_and_notes) ... ok
+test_instructions_and_answers_are_not_last_material (test_recheck.ExamBoundaryTests.test_instructions_and_answers_are_not_last_material) ... ok
+test_political_dedup_preserves_city_and_province_appearances (test_recheck.ExamBoundaryTests.test_political_dedup_preserves_city_and_province_appearances) ... ok
+test_collection_prefix_does_not_make_a_publisher_official (test_recheck.SourceClassificationTests.test_collection_prefix_does_not_make_a_publisher_official) ... ok
+test_primary_source_path_must_be_a_component (test_recheck.SourceClassificationTests.test_primary_source_path_must_be_a_component) ... ok
+test_filter_precedes_top_k (test_recheck.TimeBoundaryTests.test_filter_precedes_top_k) ... ok
+test_reading_inventory_includes_october_without_prediction_score (test_recheck.TimeBoundaryTests.test_reading_inventory_includes_october_without_prediction_score) ... ok
+test_same_month_after_exam_is_not_pre_exam (test_recheck.TimeBoundaryTests.test_same_month_after_exam_is_not_pre_exam) ... ok
+
+----------------------------------------------------------------------
+Ran 10 tests in 0.189s
+
+OK

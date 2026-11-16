@@ -1,0 +1,217 @@
+{
+  "scope": "2022–2026 市地为主、副省为辅；既有资料的有限对接复核",
+  "input_sha256": {
+    "资料采集/01-材料溯源/2022.jsonl": "d23c82c0fe1c4aca5cc6a656276e92d4e4522034fc3b89940b789c74920b9d88",
+    "资料采集/01-材料溯源/2023.jsonl": "ce414f748b7e4d2c585ccdc7c5271c9c1b7baa7be242b72ae72d6ca7c47bb071",
+    "资料采集/01-材料溯源/2024.jsonl": "476c62f241503238bce829c45ab521d1139ec43427b1af8ea378160a615a9d94",
+    "资料采集/01-材料溯源/2025.jsonl": "7e94de8d0a5bd21ef483b8fe33941dbc911ee5cfc38997639f82fc7afd3b2bd1",
+    "资料采集/01-材料溯源/2026.jsonl": "e1500d03fb3fbe228d6615e1fbe7ce94adebf89db5e8813729d3e3606611f477",
+    "analysis/out/index.jsonl": "937d2e2f24c6af5d4466911c71da0673c729511e6d8e0320b021a95442550344",
+    "analysis/rechecks/2026-11-16/exam-inventory.csv": "f52774a8dc31e16bd6722d4659867a00073b78da9d05d6da1a3533a9a37d60e8",
+    "资料采集/03-关系对与方法论/关系对库.jsonl": "fc6990d759f2a24f5211aea10bf4bd94a62978973ada5a471677a0ee7046becc",
+    "资料采集/03-关系对与方法论/raw/2026-07-01_做焦裕禄式的县委书记.txt": "5d07f4c27fcfeeccfcc324f599910115a1984b54d5cafae302e8982357683d23",
+    "资料采集/03-关系对与方法论/raw/2026-10-01_加强普惠性、基础性、兜底性民生建设.txt": "5ac82ca7add219d2c4afeaa832208070d140f3d9fa709fcb3a69c2c9261e0a3e",
+    "资料采集/03-关系对与方法论/raw/2026-04-01_树立和践行正确政绩观.txt": "ad7f9ce090831e1b6c09b1771d8f2e5a96659e3151295d2bbb36eed9aa2f6f7d",
+    "资料采集/03-关系对与方法论/raw/2024-12-01_必须坚持守正创新.txt": "114b46023d2b69aeb4d361b6feddcce3d40b56d017b781f41fe8465f53bd51c3",
+    "资料采集/03-关系对与方法论/raw/2025-12-16_扩大内需是战略之举.txt": "530cd79fb7800f552176da82542f8df2699e1f513e31106362f5613b636a9ee8",
+    "资料采集/03-关系对与方法论/raw/2020-11-03_中共中央关于制定十四五规划和二〇三五年远景目标的建议.txt": "a17948b7acc7f460046b8b0e700d00356f978cc77cfc27bcb5d8b63f95fbc3a9",
+    "资料采集/03-关系对与方法论/raw/2025-06-16_用中长期规划指导经济社会发展是我们党治国理政的一种重要方式.txt": "65b88a5012e7d9208761a9b2e2a6b9ee893672568202a2269dd4415550dba03a",
+    "资料采集/03-关系对与方法论/raw/2021-11-16_中共中央关于党的百年奋斗重大成就和历史经验的决议.txt": "a64ef8b90caeeb63094af656e42af7a68f3c6799cbd5438eaf9ed749518f0a2e",
+    "资料采集/03-关系对与方法论/raw/2021-12-10_中央经济工作会议_新华社.txt": "970b1ca5d76e5d80d6f095cd30cb46589a01016e6451a8adcbd0a5b99aeefeb6",
+    "资料采集/03-关系对与方法论/raw/2022-05-15_正确认识和把握我国发展重大理论和实践问题_习近平.txt": "8cd6f037716b0ad6c35f34006fd76bdedb7ced5bd9cb6a4cc2ba2cd6a0da8863",
+    "资料采集/03-关系对与方法论/raw/2022-10-16_党的二十大报告_习近平.txt": "302806fb1f9cfbdeff6cfcd12e7b5bff059b003befbb2b848650756203f0fa65",
+    "资料采集/03-关系对与方法论/raw/2022-12-16_中央经济工作会议_新华社.txt": "97273ea142da695fe766ed6699f68385daf9f4f3356a13385b2632a8645eee21",
+    "资料采集/03-关系对与方法论/raw/2025-01-01_以中国式现代化全面推进强国建设、民族复兴伟业.txt": "e0b4008742682bceb4ab9cd5b40ae0a3f6b42ffca021513c8d530391b6369913",
+    "资料采集/03-关系对与方法论/raw/2025-08-01_在全国生态环境保护大会上的讲话.txt": "6ec7dc6b85e687176076b19bf04c0a44d226f973280d5e4f0945c89052cb456f",
+    "资料采集/03-关系对与方法论/raw/2023-12-12_中央经济工作会议_新华社.txt": "a12da77547adf40fde3da1a8c82124f265ab6adeb252c781a9ef35eae8ede636",
+    "资料采集/03-关系对与方法论/raw/2026-02-01_走好中国特色金融发展之路，建设金融强国.txt": "69db2f526fdc139e45d88ef52b8e5c40a3cfd635080c24a2743ad92c11e267e3",
+    "资料采集/03-关系对与方法论/raw/2025-04-01_朝着建成科技强国的宏伟目标奋勇前进.txt": "69fb9151b7a86c2f63589170425192498f86934fb6d516a553a4462f63b7bd42",
+    "资料采集/03-关系对与方法论/raw/2024-07-18_中共中央关于进一步全面深化改革、推进中国式现代化的决定.txt": "2412c282fdb224a875a69e5be2ce81a14c0cb9e176dae52829c338992d491cb1",
+    "资料采集/03-关系对与方法论/raw/2025-01-16_进一步全面深化改革中的几个重大理论和实践问题.txt": "9deff644ac81fc21df944318bc717e6d3eb878a8f2370717991647fd3de9383c",
+    "资料采集/03-关系对与方法论/raw/2025-06-01_加快建设教育强国.txt": "54951f0cddc277c7a96bf293cab25489edd42ace238c9ac25a15a0a25af4529b",
+    "资料采集/03-关系对与方法论/raw/2025-03-01_经济工作必须统筹好几对重要关系.txt": "0c2acc7590d2e057dfa68fb3045af042af0b8ebcfdee7e07292dec1641639931",
+    "资料采集/03-关系对与方法论/raw/2025-05-16_锲而不舍落实中央八项规定精神，以优良党风引领社风民风.txt": "6c59f652c1742ee59f1b194b02dc6896ed75bafcec69c4dc5637e872faf3d343",
+    "资料采集/03-关系对与方法论/raw/2026-01-16_在中央城市工作会议上的讲话.txt": "e49dc37b0c81a27f4970225c9897179a759d7b795ecca2cffdfe82f79ca2af35",
+    "资料采集/03-关系对与方法论/raw/2025-10-28_中共中央关于制定国民经济和社会发展第十五个五年规划的建议.txt": "1407f307ad2058332e686fb169afa8e820e1a3cf1ffa004209737d4c6a22f795",
+    "资料采集/03-关系对与方法论/raw/2025-10-28_关于制定十五五规划建议的说明_习近平.txt": "8c8b6dc3fc61c8d8b6fc083b2687c70b777eca92ce061bbf0f5deb4b08d0e2ee",
+    "资料采集/03-关系对与方法论/raw/2025-12-11_中央经济工作会议_新华社.txt": "9d42b3b66898cfbea84453e5e38962afc50b5d1c239b7d51ec6082ca72f11c12",
+    "资料采集/03-关系对与方法论/raw/2026-02-16_当前经济工作的重点任务.txt": "aefd6513333b966e0373b2a4e754e7851074686db127ea383af91fde048ea611",
+    "资料采集/03-关系对与方法论/raw/2026-05-01_在省部级主要领导干部学习贯彻党的二十届四中全会精神专题研讨班上的讲话.txt": "34c109009df928a34d38bc51762639c022663f5b99cccf4e6098e40d72a16039",
+    "资料采集/03-关系对与方法论/raw/2026-07-16_在庆祝中国共产党成立105周年大会上的讲话.txt": "f4a32de0c61461b9b6611ea2d950c48a4ef8687e8edbd758485727d3f15c581f",
+    "资料采集/03-关系对与方法论/raw/2026-11-01_中共中央关于持之以恒推进全面从严治党若干重大问题的决定.txt": "6047d18dca0e83c6ed617d3c3680dc5faadb22b01802d5634da94c0149b49c7c"
+  },
+  "materials": 47,
+  "annotated_prototype_candidates": 34,
+  "by_year": {
+    "2022": {
+      "materials": 10,
+      "annotated_candidates": 8
+    },
+    "2023": {
+      "materials": 10,
+      "annotated_candidates": 7
+    },
+    "2024": {
+      "materials": 10,
+      "annotated_candidates": 7
+    },
+    "2025": {
+      "materials": 8,
+      "annotated_candidates": 6
+    },
+    "2026": {
+      "materials": 9,
+      "annotated_candidates": 6
+    }
+  },
+  "report_mentions": 72,
+  "distinct_report_urls": 67,
+  "repeated_urls": {
+    "http://phtp-www.plus.jlntv.cn/folder5351/folder5353/folder5357/2021-07-21/KrwoWEnB8I2S2ObM.html": 3,
+    "http://paper.ce.cn/jjrb/html/2021-06/16/content_445111.htm": 2,
+    "https://jjc.cq.gov.cn/html/2022-04/11/content_51884133.htm": 3
+  },
+  "media_distribution": "未认证；媒体字段混合原作者、机构和转载平台，不采用46/12结论",
+  "ministry_records": 355,
+  "ministry_months": {
+    "2021-11": 7,
+    "2021-12": 7,
+    "2025-03": 1,
+    "2025-10": 1,
+    "2025-11": 3,
+    "2025-12": 10,
+    "2026-01": 2,
+    "2026-02": 2,
+    "2026-03": 11,
+    "2026-04": 8,
+    "2026-05": 17,
+    "2026-06": 33,
+    "2026-07": 74,
+    "2026-08": 172,
+    "2026-09": 7
+  },
+  "ministry_from_2025_12": 336,
+  "ministry_date_coverage": [
+    {
+      "year": "2022",
+      "paper": "地市级",
+      "exam_date": "2021-11-28",
+      "ministry_records": 355,
+      "strictly_pre_exam": 2,
+      "unknown_or_non_day_dates": 0
+    },
+    {
+      "year": "2023",
+      "paper": "地市级",
+      "exam_date": "2023-01-08",
+      "ministry_records": 355,
+      "strictly_pre_exam": 14,
+      "unknown_or_non_day_dates": 0
+    },
+    {
+      "year": "2024",
+      "paper": "地市级",
+      "exam_date": "2023-11-26",
+      "ministry_records": 355,
+      "strictly_pre_exam": 14,
+      "unknown_or_non_day_dates": 0
+    },
+    {
+      "year": "2025",
+      "paper": "地市级",
+      "exam_date": "2024-12-01",
+      "ministry_records": 355,
+      "strictly_pre_exam": 14,
+      "unknown_or_non_day_dates": 0
+    },
+    {
+      "year": "2026",
+      "paper": "地市级",
+      "exam_date": "2025-11-30",
+      "ministry_records": 355,
+      "strictly_pre_exam": 19,
+      "unknown_or_non_day_dates": 0
+    },
+    {
+      "year": "2022",
+      "paper": "副省级",
+      "exam_date": "2021-11-28",
+      "ministry_records": 355,
+      "strictly_pre_exam": 2,
+      "unknown_or_non_day_dates": 0
+    },
+    {
+      "year": "2023",
+      "paper": "副省级",
+      "exam_date": "2023-01-08",
+      "ministry_records": 355,
+      "strictly_pre_exam": 14,
+      "unknown_or_non_day_dates": 0
+    },
+    {
+      "year": "2024",
+      "paper": "副省级",
+      "exam_date": "2023-11-26",
+      "ministry_records": 355,
+      "strictly_pre_exam": 14,
+      "unknown_or_non_day_dates": 0
+    },
+    {
+      "year": "2025",
+      "paper": "副省级",
+      "exam_date": "2024-12-01",
+      "ministry_records": 355,
+      "strictly_pre_exam": 14,
+      "unknown_or_non_day_dates": 0
+    },
+    {
+      "year": "2026",
+      "paper": "副省级",
+      "exam_date": "2025-11-30",
+      "ministry_records": 355,
+      "strictly_pre_exam": 19,
+      "unknown_or_non_day_dates": 0
+    }
+  ],
+  "relation_quotes": {
+    "normalization": "去空白、统一引号、去引句边界标点，至少4字符；仅在各条自己标注的raw文件中查找",
+    "checked": 424,
+    "matched": 420,
+    "short_fields_not_checked": 80,
+    "exceptions": [
+      {
+        "record": 9,
+        "field": "各项原文",
+        "text": "国内大局",
+        "noted_as_paraphrase": true
+      },
+      {
+        "record": 9,
+        "field": "各项原文",
+        "text": "国际大局",
+        "noted_as_paraphrase": true
+      },
+      {
+        "record": 97,
+        "field": "各项原文",
+        "text": "严管和厚爱",
+        "noted_as_paraphrase": true
+      },
+      {
+        "record": 97,
+        "field": "各项原文",
+        "text": "激励和约束",
+        "noted_as_paraphrase": true
+      }
+    ],
+    "record75_own_source_matched": true,
+    "limits": "字符串核对不认证来源网页真实性、关系类型、历史首次发表日期或教学结论"
+  },
+  "limits": [
+    "原型覆盖复现采集标注，不是对全部原型和改写关系的独立语义验收",
+    "URL去重不是独立稿件去重；同稿异址、转载和片段仍需逐篇判断",
+    "未重新抓网页；未认证各媒体首发身份或全部存档的完整性",
+    "部委日期来自当前索引，仍须区分首发、转载、采集日期",
+    "程序测试通过只说明切分、过滤等机制符合测试条件"
+  ]
+}

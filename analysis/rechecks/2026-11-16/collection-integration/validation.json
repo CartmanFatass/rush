@@ -1,0 +1,100 @@
+{
+  "date": "2026-11-16",
+  "working_copy": "/mnt/c/Projects/rush",
+  "base_commit": "72226be9c3a7354291dbe6892616afe16d13e01d",
+  "tests": [
+    {
+      "name": "mechanism-tests",
+      "command": [
+        "python3",
+        "-m",
+        "unittest",
+        "discover",
+        "-s",
+        "analysis",
+        "-p",
+        "test_recheck.py",
+        "-v"
+      ],
+      "exit_code": 0,
+      "elapsed_seconds": 0.517,
+      "log": "mechanism-tests.txt"
+    },
+    {
+      "name": "collection-check",
+      "command": [
+        "python3",
+        "资料采集/check_collect.py"
+      ],
+      "exit_code": 0,
+      "elapsed_seconds": 3.538,
+      "log": "collection-check.txt"
+    }
+  ],
+  "mechanism_test_count": 10,
+  "collection_script_reported_problems": 0,
+  "collection_script_limit": "跨整个raw目录查引文，不能认证各条出处",
+  "research_file_preservation": {
+    "original_files": 1191,
+    "changed_original_files": [
+      "HANDOFF.md",
+      "资料采集/README.md",
+      "资料采集/验收-2026-11-16.md"
+    ],
+    "all_other_original_bytes_preserved": true,
+    "old_progress_preserved": true,
+    "missing_document_links": []
+  },
+  "relation_source_check": {
+    "normalization": "去空白、统一引号、去引句边界标点，至少4字符；仅在各条自己标注的raw文件中查找",
+    "checked": 424,
+    "matched": 420,
+    "short_fields_not_checked": 80,
+    "exceptions": [
+      {
+        "record": 9,
+        "field": "各项原文",
+        "text": "国内大局",
+        "noted_as_paraphrase": true
+      },
+      {
+        "record": 9,
+        "field": "各项原文",
+        "text": "国际大局",
+        "noted_as_paraphrase": true
+      },
+      {
+        "record": 97,
+        "field": "各项原文",
+        "text": "严管和厚爱",
+        "noted_as_paraphrase": true
+      },
+      {
+        "record": 97,
+        "field": "各项原文",
+        "text": "激励和约束",
+        "noted_as_paraphrase": true
+      }
+    ],
+    "record75_own_source_matched": true,
+    "limits": "字符串核对不认证来源网页真实性、关系类型、历史首次发表日期或教学结论"
+  },
+  "all_report_input_hashes_match": true,
+  "old_wsl_copy_archive": "/home/fires/projects/rush-archive-20261116",
+  "old_wsl_path_is_alias": true,
+  "learner_work_completed": 0,
+  "limits": [
+    "未整体重做九项研究",
+    "未重新获取全部网页原文",
+    "未接入Learn-to-Write反馈或运行模型",
+    "测试通过不证明评分准确或学习收益"
+  ],
+  "changed_documentation_code_whitespace_check": "passed",
+  "preserved_source_whitespace_warnings": {
+    "warnings": 960,
+    "files": 55,
+    "all_affected_files_unchanged_from_backup": true,
+    "action": "保留原文/CSV原始换行及空白，不为格式检查改写源材料"
+  },
+  "supplement_program_sha256": "cc3f38dcdfec2f8ae1f9094734a957977609d14813c2c1af725c780f2b883d23"
+}
