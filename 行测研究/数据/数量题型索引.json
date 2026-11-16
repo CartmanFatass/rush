@@ -1,0 +1,1804 @@
+{
+  "schema_version": "1.0",
+  "title": "2022—2026国考副省级、地市级数量关系题型索引",
+  "updated_at": "2026-11-16",
+  "source_revision": "64a9b2472e706cd0840ab120f767d2baa997d502",
+  "scope": {
+    "years": [
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "paper_types": [
+      "副省级",
+      "地市级"
+    ],
+    "source": "仓库行测主目录真题及必要的Xtest网友回忆版原序号校验",
+    "excluded": "行政执法卷及省考不纳入主样本"
+  },
+  "counting": {
+    "deduplication_key": [
+      "year",
+      "qid"
+    ],
+    "unique_questions": 101,
+    "question_positions": 125,
+    "main_quantity_section_positions": 122,
+    "reclassified_positions": 3,
+    "by_year": [
+      {
+        "year": 2022,
+        "main_quantity_section_positions": 25,
+        "reclassified_positions": 0,
+        "corrected_positions": 25,
+        "unique_questions": 19
+      },
+      {
+        "year": 2023,
+        "main_quantity_section_positions": 23,
+        "reclassified_positions": 2,
+        "corrected_positions": 25,
+        "unique_questions": 20
+      },
+      {
+        "year": 2024,
+        "main_quantity_section_positions": 24,
+        "reclassified_positions": 1,
+        "corrected_positions": 25,
+        "unique_questions": 22
+      },
+      {
+        "year": 2025,
+        "main_quantity_section_positions": 25,
+        "reclassified_positions": 0,
+        "corrected_positions": 25,
+        "unique_questions": 20
+      },
+      {
+        "year": 2026,
+        "main_quantity_section_positions": 25,
+        "reclassified_positions": 0,
+        "corrected_positions": 25,
+        "unique_questions": 20
+      }
+    ],
+    "interpretation": "共享题在同年按qid合并，保留全部卷别题位。统计用于材料覆盖核对，不将题位视为独立样本，也不用于预测命题比例。"
+  },
+  "numbering": {
+    "number": "仓库主目录题号；不默认等同于原卷题号。",
+    "original_number": "仅对已核查的Xtest回忆版填写原序号。未提供时不推定相同。",
+    "source_path": "相对于仓库根目录的路径。",
+    "original_source_path": "相对于仓库根目录的Xtest回忆版路径。",
+    "misclassified_in": "题目在主目录被归入其他模块时，记录该模块；null表示未发现此类错放。"
+  },
+  "classification": {
+    "mode": "每题一个人工主类",
+    "purpose": "按主要任务组织知识与检索例题；一道题仍可能用到跨类方法。",
+    "not_official_taxonomy": true,
+    "classes": [
+      {
+        "id": "方程比例平均年龄",
+        "label": "方程、比例、平均数、年龄",
+        "boundary": "基础数量关系。具体经济、工程、行程等模型优先归入相应类别；整数限制可作为辅助方法。",
+        "count": 16
+      },
+      {
+        "id": "工程效率资源调配",
+        "label": "工程、效率、资源调配",
+        "boundary": "固定工作量、效率变化、开工时间以及跨产品或跨项目的产能分配。",
+        "count": 12
+      },
+      {
+        "id": "行程",
+        "label": "行程",
+        "boundary": "主要求速度、距离、时间、相遇或追及；几何条件若只用于确定路程，仍归此类。",
+        "count": 12
+      },
+      {
+        "id": "经济采购利润分段计费",
+        "label": "经济、采购、利润、分段计费",
+        "boundary": "主要处理单价、采购、收入、成本、利润、折扣或分段收费。",
+        "count": 15
+      },
+      {
+        "id": "排列组合概率",
+        "label": "排列组合、概率",
+        "boundary": "主要求方案数或概率；先用极值确定组人数、最终求概率的混合题归此类。",
+        "count": 18
+      },
+      {
+        "id": "几何",
+        "label": "几何",
+        "boundary": "主要求长度、面积、体积、表面积及其比值，可含注水、浮力等应用；几何辅助行程的题归行程。",
+        "count": 12
+      },
+      {
+        "id": "容斥集合",
+        "label": "容斥、集合",
+        "boundary": "主要处理集合交并、仅有几项、至少一项或都没有。",
+        "count": 4
+      },
+      {
+        "id": "最值极限构造",
+        "label": "最值、极限构造",
+        "boundary": "主要求整数、互异、范围等约束下的极限值；具体工程最短工期归工程，最终求概率的题归概率。",
+        "count": 5
+      },
+      {
+        "id": "周期日期",
+        "label": "周期、日期",
+        "boundary": "主要求星期、日期、周期事件次数或重合。",
+        "count": 3
+      },
+      {
+        "id": "等差数列应用",
+        "label": "等差数列应用",
+        "boundary": "以日量、月量或累计量的等差关系为主要任务；不是独立数字推理。经济模型中的等差销量作为辅助时归经济。",
+        "count": 4
+      }
+    ]
+  },
+  "stem_note": "stem保留原题Markdown/HTML及正确选项标记；图片路径仍以对应原题文档为参照。文本抽取可能缺失公式、图表内容，需结合原卷阅读，不宜视为可脱离原卷完整渲染的题库。",
+  "questions": [
+    {
+      "year": 2022,
+      "qid": "4639352",
+      "primary_class": "方程比例平均年龄",
+      "positions": [
+        {
+          "paper": "2022国考行测（副省级）",
+          "number": 60,
+          "misclassified_in": null,
+          "source_path": "行测/2022国考行测（副省级）.md",
+          "original_number": 61,
+          "original_source_path": "Xtest/行测/2022/2022年国家公务员录用考试《行测》题（副省级网友回忆版）.md"
+        }
+      ],
+      "stem": "某企业职工筹款给甲村学龄儿童购买学习用具，如按100元/人的标准执行则资金剩余550元，如按120元/人的标准执行则还需筹集630元。现额外筹集2510元，且最终按80元/人的标准，正好能给甲、乙两村的学龄儿童购买学习用具。问乙村学龄儿童有多少人？\n\n- **A**. 50\n- **B**. 53　√\n- **C**. 56\n- **D**. 59"
+    },
+    {
+      "year": 2022,
+      "qid": "4637224",
+      "primary_class": "工程效率资源调配",
+      "positions": [
+        {
+          "paper": "2022国考行测（地市级）",
+          "number": 61,
+          "misclassified_in": null,
+          "source_path": "行测/2022国考行测（地市级）.md"
+        }
+      ],
+      "stem": "<p>某单位办事大厅有3个相同的办事窗口，2天最多可以办理600笔业务，每个窗口办理单笔业务的用时均相同。现对该办事大厅进行流程优化，增设2个与以前相同的办事窗口，且每个办事窗口办理每笔业务的用时缩短到以前的<img flag=\"tex\" src=\"图片/90-图片/公式图/formula-9fcb0180f973b16e.png\" />。问优化后的办事大厅办理6000笔业务最少需要多少天？</p>\n\n- **A**. 8　√\n- **B**. 10\n- **C**. 12\n- **D**. 15"
+    },
+    {
+      "year": 2022,
+      "qid": "4639353",
+      "primary_class": "方程比例平均年龄",
+      "positions": [
+        {
+          "paper": "2022国考行测（副省级）",
+          "number": 61,
+          "misclassified_in": null,
+          "source_path": "行测/2022国考行测（副省级）.md",
+          "original_number": 62,
+          "original_source_path": "Xtest/行测/2022/2022年国家公务员录用考试《行测》题（副省级网友回忆版）.md"
+        }
+      ],
+      "stem": "甲、乙、丙、丁、戊5名职工参加党史知识测验，每人得分均不相同。甲和乙的平均分比丙多2分，丁和戊的平均分比丁多5分，甲、乙的平均分比丙、丁、戊的平均分多3分。问丙、丁、戊三人得分的排序为：\n\n- **A**. <p>丙&gt;丁&gt;戊</p>\n- **B**. <p>丙&gt;戊&gt;丁</p>\n- **C**. <p>丁&gt;丙&gt;戊</p>\n- **D**. <p>戊&gt;丙&gt;丁</p>　√"
+    },
+    {
+      "year": 2022,
+      "qid": "4637507",
+      "primary_class": "经济采购利润分段计费",
+      "positions": [
+        {
+          "paper": "2022国考行测（副省级）",
+          "number": 62,
+          "misclassified_in": null,
+          "source_path": "行测/2022国考行测（副省级）.md",
+          "original_number": 63,
+          "original_source_path": "Xtest/行测/2022/2022年国家公务员录用考试《行测》题（副省级网友回忆版）.md"
+        },
+        {
+          "paper": "2022国考行测（地市级）",
+          "number": 62,
+          "misclassified_in": null,
+          "source_path": "行测/2022国考行测（地市级）.md"
+        }
+      ],
+      "stem": "企业列出500万元设备采购预算，如用于购买x台进口设备，最后剩余20万元。经董事会研究后，决定购买质量更高的同类国产设备，单价仅为进口设备的75%。当前预算可购买x+3台，最后剩余5万元。问国产设备的单价在以下哪个范围内？\n\n- **A**. 不到30万元/台\n- **B**. 30—40万元/台之间\n- **C**. 40—50万元/台之间　√\n- **D**. 50万元/台以上"
+    },
+    {
+      "year": 2022,
+      "qid": "4639355",
+      "primary_class": "方程比例平均年龄",
+      "positions": [
+        {
+          "paper": "2022国考行测（副省级）",
+          "number": 63,
+          "misclassified_in": null,
+          "source_path": "行测/2022国考行测（副省级）.md",
+          "original_number": 64,
+          "original_source_path": "Xtest/行测/2022/2022年国家公务员录用考试《行测》题（副省级网友回忆版）.md"
+        }
+      ],
+      "stem": "甲和乙两个乡村图书室共有5000本藏书，其中甲图书室的藏书比乙图书室多3x本。现从甲图书室中取出150本书放入乙图书室后，甲图书室的藏书仍比乙图书室多2x本。问甲图书室原有图书多少本？\n\n- **A**. 2500\n- **B**. 2750\n- **C**. 2950　√\n- **D**. 3500"
+    },
+    {
+      "year": 2022,
+      "qid": "4637226",
+      "primary_class": "工程效率资源调配",
+      "positions": [
+        {
+          "paper": "2022国考行测（地市级）",
+          "number": 64,
+          "misclassified_in": null,
+          "source_path": "行测/2022国考行测（地市级）.md"
+        }
+      ],
+      "stem": "张和李2名社区工作者上门统计某小区内住户的新冠疫苗接种情况，两人各负责1栋住宅楼，每访问1户居民均需要5分钟。李因处理公文比张晚出发一段时间。已知14：00时两人共访问63户，15：00时张访问的户数是李的2倍。问李访问完50户居民是在什么时候？\n\n- **A**. 16：30\n- **B**. 16：45　√\n- **C**. 17：00\n- **D**. 17：15"
+    },
+    {
+      "year": 2022,
+      "qid": "4637227",
+      "primary_class": "行程",
+      "positions": [
+        {
+          "paper": "2022国考行测（副省级）",
+          "number": 64,
+          "misclassified_in": null,
+          "source_path": "行测/2022国考行测（副省级）.md",
+          "original_number": 65,
+          "original_source_path": "Xtest/行测/2022/2022年国家公务员录用考试《行测》题（副省级网友回忆版）.md"
+        }
+      ],
+      "stem": "李某骑车从甲地出发前往乙地，出发时的速度为15千米/小时，此后均匀加速，骑行25%的路程后速度达到21千米/小时。剩余路段保持此速度骑行，总行程前半段比后半段多用时3分钟。问甲、乙两地之间的距离在以下哪个范围内？\n\n- **A**. 不到23千米\n- **B**. 在23~24千米之间\n- **C**. 在24~25千米之间\n- **D**. 超过25千米　√"
+    },
+    {
+      "year": 2022,
+      "qid": "4637435",
+      "primary_class": "方程比例平均年龄",
+      "positions": [
+        {
+          "paper": "2022国考行测（副省级）",
+          "number": 65,
+          "misclassified_in": null,
+          "source_path": "行测/2022国考行测（副省级）.md",
+          "original_number": 66,
+          "original_source_path": "Xtest/行测/2022/2022年国家公务员录用考试《行测》题（副省级网友回忆版）.md"
+        },
+        {
+          "paper": "2022国考行测（地市级）",
+          "number": 69,
+          "misclassified_in": null,
+          "source_path": "行测/2022国考行测（地市级）.md"
+        }
+      ],
+      "stem": "高校某专业70多名毕业生中，有96%在毕业后去西部省区支援国家建设。其中去偏远中小学支教的毕业生占该专业毕业生总数的20%，比任职大学生村官的毕业生少2人，比在西部地区参军入伍的毕业生多1人，其余的毕业生选择去国有企业西部边远岗位工作。问去国有企业西部边远岗位工作的毕业生有多少人？\n\n- **A**. 32\n- **B**. 29\n- **C**. 26　√\n- **D**. 23"
+    },
+    {
+      "year": 2022,
+      "qid": "4637509",
+      "primary_class": "经济采购利润分段计费",
+      "positions": [
+        {
+          "paper": "2022国考行测（副省级）",
+          "number": 66,
+          "misclassified_in": null,
+          "source_path": "行测/2022国考行测（副省级）.md",
+          "original_number": 67,
+          "original_source_path": "Xtest/行测/2022/2022年国家公务员录用考试《行测》题（副省级网友回忆版）.md"
+        },
+        {
+          "paper": "2022国考行测（地市级）",
+          "number": 63,
+          "misclassified_in": null,
+          "source_path": "行测/2022国考行测（地市级）.md"
+        }
+      ],
+      "stem": "某地引进新的杂交水稻品种，今年每亩稻谷产量比上年增加了20%，且由于口感改善，每斤稻谷的售价从1.5元提升到1.65元。以此计算，今年每亩稻谷的销售收入比上年高660元。问今年的稻谷亩产是多少斤？\n\n- **A**. 2200\n- **B**. 1980\n- **C**. 1650　√\n- **D**. 1375"
+    },
+    {
+      "year": 2022,
+      "qid": "4637231",
+      "primary_class": "行程",
+      "positions": [
+        {
+          "paper": "2022国考行测（副省级）",
+          "number": 67,
+          "misclassified_in": null,
+          "source_path": "行测/2022国考行测（副省级）.md",
+          "original_number": 68,
+          "original_source_path": "Xtest/行测/2022/2022年国家公务员录用考试《行测》题（副省级网友回忆版）.md"
+        }
+      ],
+      "stem": "甲地在丙地正西17千米，乙地在丙地正北8千米。张从甲地、李从乙地同时出发，分别向正东和正南方向匀速行走。两人速度均为整数千米/小时，且1小时后两人的直线距离为13千米，又经过3小时后两人均经过了丙地且直线距离为5千米。已知李的速度是张的60%，则张经过丙地的时间比李：\n\n- **A**. 早不到10分钟\n- **B**. 早10分钟以上\n- **C**. 晚不到10分钟\n- **D**. 晚10分钟以上　√"
+    },
+    {
+      "year": 2022,
+      "qid": "4637223",
+      "primary_class": "排列组合概率",
+      "positions": [
+        {
+          "paper": "2022国考行测（地市级）",
+          "number": 68,
+          "misclassified_in": null,
+          "source_path": "行测/2022国考行测（地市级）.md"
+        }
+      ],
+      "stem": "某企业将5台不同的笔记本电脑和5台不同的平板电脑捐赠给甲、乙两所小学，每所学校分配5台电脑。如在所有可能的分配方式中随机选取一种，两所学校分得的平板电脑数量均不超过3台的概率为：\n\n- **A**. <p><img flag=\"tex\" src=\"图片/90-图片/公式图/formula-11e209594132d161.png\" /></p>　√\n- **B**. <p><img flag=\"tex\" src=\"图片/90-图片/公式图/formula-099f80b322adf5cb.png\" /></p>\n- **C**. <p><img flag=\"tex\" src=\"图片/90-图片/公式图/formula-e35a9aa1b2f2e4b4.png\" /></p>\n- **D**. <p><img flag=\"tex\" src=\"图片/90-图片/公式图/formula-c373474d99d87356.png\" /></p>"
+    },
+    {
+      "year": 2022,
+      "qid": "4637431",
+      "primary_class": "排列组合概率",
+      "positions": [
+        {
+          "paper": "2022国考行测（副省级）",
+          "number": 68,
+          "misclassified_in": null,
+          "source_path": "行测/2022国考行测（副省级）.md",
+          "original_number": 69,
+          "original_source_path": "Xtest/行测/2022/2022年国家公务员录用考试《行测》题（副省级网友回忆版）.md"
+        },
+        {
+          "paper": "2022国考行测（地市级）",
+          "number": 65,
+          "misclassified_in": null,
+          "source_path": "行测/2022国考行测（地市级）.md"
+        }
+      ],
+      "stem": "某县通过发展旅游业来实现乡村振兴，引进了甲、乙、丙、丁、戊和己6名专家。其中甲、乙、丙是环境保护专家，丁、戊、己是旅游行业专家，甲、丁、戊熟悉社交媒体宣传。现要将6名专家平均分成2个小组，每个小组都要有环境保护专家、旅游行业专家和熟悉社交媒体宣传的人，问有多少种不同的分组方式？\n\n- **A**. 12\n- **B**. 24\n- **C**. 4\n- **D**. 8　√"
+    },
+    {
+      "year": 2022,
+      "qid": "4637230",
+      "primary_class": "等差数列应用",
+      "positions": [
+        {
+          "paper": "2022国考行测（副省级）",
+          "number": 69,
+          "misclassified_in": null,
+          "source_path": "行测/2022国考行测（副省级）.md",
+          "original_number": 70,
+          "original_source_path": "Xtest/行测/2022/2022年国家公务员录用考试《行测》题（副省级网友回忆版）.md"
+        },
+        {
+          "paper": "2022国考行测（地市级）",
+          "number": 66,
+          "misclassified_in": null,
+          "source_path": "行测/2022国考行测（地市级）.md"
+        }
+      ],
+      "stem": "某水果种植特色镇创办水果加工厂，从去年年初开始通过电商平台销售桃汁、橙汁两种产品。从去年2月开始，每个月桃汁的销量都比上个月多5000盒，橙汁的销量都比上个月多2000盒。已知去年第一季度桃汁的总销量比橙汁少4.5万盒，则去年桃汁的销量比橙汁：\n\n- **A**. 少不到5万盒　√\n- **B**. 少5万盒以上\n- **C**. 多不到5万盒\n- **D**. 多5万盒以上"
+    },
+    {
+      "year": 2022,
+      "qid": "4637229",
+      "primary_class": "排列组合概率",
+      "positions": [
+        {
+          "paper": "2022国考行测（地市级）",
+          "number": 70,
+          "misclassified_in": null,
+          "source_path": "行测/2022国考行测（地市级）.md"
+        }
+      ],
+      "stem": "甲、乙等16人参加乒乓球淘汰赛。每轮对所有未被淘汰选手进行抽签分组两两比赛，胜者进入下一轮。已知除甲以外，其余任意两人比赛时双方胜率均为50%。甲对乙的胜率为0%，对其他14人的胜率均为100%。则甲夺冠的概率为：\n\n- **A**. <p><img flag=\"tex\" src=\"图片/90-图片/公式图/formula-691116604bea748e.png\" /></p>\n- **B**. <p><img flag=\"tex\" src=\"图片/90-图片/公式图/formula-6f1ddfdbfc9b400c.png\" /></p>\n- **C**. <p><img flag=\"tex\" src=\"图片/90-图片/公式图/formula-1112cd7f24e2c4aa.png\" /></p>　√\n- **D**. <p><img flag=\"tex\" src=\"图片/90-图片/公式图/formula-022cf5526918a853.png\" /></p>"
+    },
+    {
+      "year": 2022,
+      "qid": "4639320",
+      "primary_class": "方程比例平均年龄",
+      "positions": [
+        {
+          "paper": "2022国考行测（副省级）",
+          "number": 70,
+          "misclassified_in": null,
+          "source_path": "行测/2022国考行测（副省级）.md",
+          "original_number": 71,
+          "original_source_path": "Xtest/行测/2022/2022年国家公务员录用考试《行测》题（副省级网友回忆版）.md"
+        }
+      ],
+      "stem": "救灾部门紧急运送两批大米分给受灾群众。已知甲村人数是丙村的2倍，如果两批大米都给甲村，每人正好能分24斤；如果第一批大米分给乙村，每人正好能分12斤，第二批大米分给甲、乙、丙三个村，每人正好能分4斤。为尽量保障受灾群众的基本需求，现决定另运送一批面粉分给甲村，并将两批大米都分给乙、丙两村。问乙、丙两村平均每人分到的大米重量在以下哪个范围内？\n\n- **A**. 不到14斤\n- **B**. 14～15斤之间　√\n- **C**. 15～16斤之间\n- **D**. 16斤以上"
+    },
+    {
+      "year": 2022,
+      "qid": "4637225",
+      "primary_class": "经济采购利润分段计费",
+      "positions": [
+        {
+          "paper": "2022国考行测（副省级）",
+          "number": 71,
+          "misclassified_in": null,
+          "source_path": "行测/2022国考行测（副省级）.md",
+          "original_number": 72,
+          "original_source_path": "Xtest/行测/2022/2022年国家公务员录用考试《行测》题（副省级网友回忆版）.md"
+        }
+      ],
+      "stem": "为降低碳排放，企业对生产设备进行改造，改造后日产量下降了10%，但生产每件产品的能耗成本下降了50%，其他成本和出厂价不变的情况下每天的利润提高了10%。已知单件利润=出厂价-能耗成本-其他成本，且改造前产品的出厂价是单件利润的3倍，则改造前能耗成本为其他成本的：\n\n- **A**. <p>不到<img flag=\"tex\" src=\"图片/90-图片/公式图/formula-ff6fcfdeec885072.png\" /></p>\n- **B**. <p><img flag=\"tex\" src=\"图片/90-图片/公式图/formula-ff6fcfdeec885072.png\" />-<img flag=\"tex\" src=\"图片/90-图片/公式图/formula-d966217474ccbe8a.png\" />之间</p>　√\n- **C**. <p><img flag=\"tex\" src=\"图片/90-图片/公式图/formula-d966217474ccbe8a.png\" />-<img flag=\"tex\" src=\"图片/90-图片/公式图/formula-592d855ac6c4179e.png\" />之间</p>\n- **D**. <p>超过<img flag=\"tex\" src=\"图片/90-图片/公式图/formula-592d855ac6c4179e.png\" /></p>"
+    },
+    {
+      "year": 2022,
+      "qid": "4637209",
+      "primary_class": "几何",
+      "positions": [
+        {
+          "paper": "2022国考行测（副省级）",
+          "number": 72,
+          "misclassified_in": null,
+          "source_path": "行测/2022国考行测（副省级）.md",
+          "original_number": 73,
+          "original_source_path": "Xtest/行测/2022/2022年国家公务员录用考试《行测》题（副省级网友回忆版）.md"
+        },
+        {
+          "paper": "2022国考行测（地市级）",
+          "number": 67,
+          "misclassified_in": null,
+          "source_path": "行测/2022国考行测（地市级）.md"
+        }
+      ],
+      "stem": "一个圆柱体零件的高为1，其圆形底面上的内接正方形边长正好也为1。现将圆柱体零件切割4次，得到棱长为1的正方体，则切去部分的总表面积为：\n\n- **A**. <p><img flag=\"tex\" src=\"图片/90-图片/公式图/formula-b7bcb88933438bd9.png\" /></p>\n- **B**. <p><img flag=\"tex\" src=\"图片/90-图片/公式图/formula-a69ffa2cb90898b3.png\" /></p>\n- **C**. <p><img flag=\"tex\" src=\"图片/90-图片/公式图/formula-d7d7f7cc660251c6.png\" /></p>　√\n- **D**. <p><img flag=\"tex\" src=\"图片/90-图片/公式图/formula-c5d0b741553aa491.png\" /></p>"
+    },
+    {
+      "year": 2022,
+      "qid": "4639327",
+      "primary_class": "工程效率资源调配",
+      "positions": [
+        {
+          "paper": "2022国考行测（副省级）",
+          "number": 73,
+          "misclassified_in": null,
+          "source_path": "行测/2022国考行测（副省级）.md",
+          "original_number": 74,
+          "original_source_path": "Xtest/行测/2022/2022年国家公务员录用考试《行测》题（副省级网友回忆版）.md"
+        }
+      ],
+      "stem": "甲和乙两条效率相同的生产线从早上不同时间开始生产同一种产品，到中午12：00时分别正好生产了x件和y件。已知乙生产x件时，甲生产了54件；甲生产y件时，乙生产了1.5x件。如乙从9：00开始生产且12：00后两条生产线仍保持原有速度，问两条生产线生产的产品总量达到500件是在什么时候？\n\n- **A**. 16：30之前\n- **B**. 16：30～17：00之间\n- **C**. 17：00～17：30之间\n- **D**. 17：30之后　√"
+    },
+    {
+      "year": 2022,
+      "qid": "4637228",
+      "primary_class": "经济采购利润分段计费",
+      "positions": [
+        {
+          "paper": "2022国考行测（副省级）",
+          "number": 74,
+          "misclassified_in": null,
+          "source_path": "行测/2022国考行测（副省级）.md",
+          "original_number": 75,
+          "original_source_path": "Xtest/行测/2022/2022年国家公务员录用考试《行测》题（副省级网友回忆版）.md"
+        }
+      ],
+      "stem": "某种商品的定价为成本的1.5倍，如果在降价30元/件的基础上再打八折，则销售5件这种商品的利润比原价销售1件时多130元。问用以下哪种折扣销售时，1.5万元能买到的件数正好比原价销售时多4件？\n\n- **A**. 先降价50元/件再打八折\n- **B**. 先打九折再降价50元/件　√\n- **C**. 降价150元/件\n- **D**. 打八五折"
+    },
+    {
+      "year": 2023,
+      "qid": "5445874",
+      "primary_class": "经济采购利润分段计费",
+      "positions": [
+        {
+          "paper": "2023国考行测（副省级）",
+          "number": 61,
+          "misclassified_in": null,
+          "source_path": "行测/2023国考行测（副省级）.md",
+          "original_number": 61,
+          "original_source_path": "Xtest/行测/2023/2023年国家公务员录用考试《行测》题（副省级网友回忆版）.md"
+        },
+        {
+          "paper": "2023国考行测（地市级）",
+          "number": 61,
+          "misclassified_in": null,
+          "source_path": "行测/2023国考行测（地市级）.md",
+          "original_number": 61,
+          "original_source_path": "Xtest/行测/2023/2023年国家公务员录用考试《行测》题（地市级网友回忆版）.md"
+        }
+      ],
+      "stem": "商店销售某种商品，打八折销售时卖2件的利润与按定价销售时卖1件的利润相同，相当于降价120元/件销售时卖3件的利润。问该商品的定价为多少元/件？\n\n- **A**. 360\n- **B**. 450　√\n- **C**. 540\n- **D**. 720"
+    },
+    {
+      "year": 2023,
+      "qid": "5445717",
+      "primary_class": "工程效率资源调配",
+      "positions": [
+        {
+          "paper": "2023国考行测（副省级）",
+          "number": 62,
+          "misclassified_in": null,
+          "source_path": "行测/2023国考行测（副省级）.md",
+          "original_number": 62,
+          "original_source_path": "Xtest/行测/2023/2023年国家公务员录用考试《行测》题（副省级网友回忆版）.md"
+        }
+      ],
+      "stem": "一项工作甲独立完成需要3小时，乙独立完成的用时比其与甲合作完成多4小时，且乙和丙合作完成需要4小时。问丙独立完成需要多少小时？\n\n- **A**. 10\n- **B**. 12　√\n- **C**. 6\n- **D**. 8"
+    },
+    {
+      "year": 2023,
+      "qid": "5445938",
+      "primary_class": "最值极限构造",
+      "positions": [
+        {
+          "paper": "2023国考行测（副省级）",
+          "number": 63,
+          "misclassified_in": null,
+          "source_path": "行测/2023国考行测（副省级）.md",
+          "original_number": 63,
+          "original_source_path": "Xtest/行测/2023/2023年国家公务员录用考试《行测》题（副省级网友回忆版）.md"
+        }
+      ],
+      "stem": "工厂生产甲、乙两种设备，需要用到A、B、C三种零件。其中生产1台甲设备需要5个A零件和11个B零件，生产1台乙设备需要4个B零件和9个C零件。工厂某日生产的一批设备共用A、B、C三种零件不超过200个，其中C零件的用量超过100个。问最多可能生产了多少台甲设备？\n\n- **A**. 1\n- **B**. 2　√\n- **C**. 3\n- **D**. 4"
+    },
+    {
+      "year": 2023,
+      "qid": "5445879",
+      "primary_class": "工程效率资源调配",
+      "positions": [
+        {
+          "paper": "2023国考行测（地市级）",
+          "number": 64,
+          "misclassified_in": null,
+          "source_path": "行测/2023国考行测（地市级）.md",
+          "original_number": 64,
+          "original_source_path": "Xtest/行测/2023/2023年国家公务员录用考试《行测》题（地市级网友回忆版）.md"
+        }
+      ],
+      "stem": "甲和乙两个工程队共同承担某项工程的施工任务。两队合作时各自的效率均比单独施工时高20%。已知两队合作施工需要25天完工；如甲先施工15天后乙加入，两队合作15天后剩余工作乙单独施工还需要10天完成。问甲队的效率是乙队的多少倍？\n\n- **A**. <p><img flag=\"tex\" src=\"图片/90-图片/公式图/formula-30f5d9b760b72f4e.png\" /></p>\n- **B**. <p><img flag=\"tex\" src=\"图片/90-图片/公式图/formula-4b92e0886f8c26ec.png\" /></p>\n- **C**. <p><img flag=\"tex\" src=\"图片/90-图片/公式图/formula-478a48f2934d67c5.png\" /></p>\n- **D**. <p><img flag=\"tex\" src=\"图片/90-图片/公式图/formula-c78a8e94c1c7e5df.png\" /></p>　√"
+    },
+    {
+      "year": 2023,
+      "qid": "5445927",
+      "primary_class": "几何",
+      "positions": [
+        {
+          "paper": "2023国考行测（副省级）",
+          "number": 64,
+          "misclassified_in": null,
+          "source_path": "行测/2023国考行测（副省级）.md",
+          "original_number": 64,
+          "original_source_path": "Xtest/行测/2023/2023年国家公务员录用考试《行测》题（副省级网友回忆版）.md"
+        }
+      ],
+      "stem": "<p>一个三角形公园ABC内的道路如下图中实线所示。已知AE=EF=FB，AD=DC，且黑色部分为人工湖。问公园总面积是人工湖面积的多少倍？</p><p><img width=\"192px\" height=\"147px\" src=\"图片/90-图片/题目图/185924b26e34e78.png\" /></p>\n\n- **A**. 9\n- **B**. 12\n- **C**. 16\n- **D**. 18　√"
+    },
+    {
+      "year": 2023,
+      "qid": "5445716",
+      "primary_class": "几何",
+      "positions": [
+        {
+          "paper": "2023国考行测（地市级）",
+          "number": 65,
+          "misclassified_in": null,
+          "source_path": "行测/2023国考行测（地市级）.md",
+          "original_number": 65,
+          "original_source_path": "Xtest/行测/2023/2023年国家公务员录用考试《行测》题（地市级网友回忆版）.md"
+        }
+      ],
+      "stem": "<p>公园里有一片四边形草坪，沿对角线修建的小道相交于O点，O到四个顶点A、B、C、D的距离之比正好为1：2：3：4，一名工人花费1天正好完成AOB区域的修剪，问第二天至少需要额外增加多少名效率相同的工人一起工作，才能在当天内完成剩余草坪的修剪？</p><p><img width=\"178px\" height=\"194px\" src=\"图片/90-图片/题目图/185912c9ca10c74.png\" /></p>\n\n- **A**. 8\n- **B**. 10　√\n- **C**. 11\n- **D**. 12"
+    },
+    {
+      "year": 2023,
+      "qid": "5445725",
+      "primary_class": "排列组合概率",
+      "positions": [
+        {
+          "paper": "2023国考行测（副省级）",
+          "number": 65,
+          "misclassified_in": null,
+          "source_path": "行测/2023国考行测（副省级）.md",
+          "original_number": 65,
+          "original_source_path": "Xtest/行测/2023/2023年国家公务员录用考试《行测》题（副省级网友回忆版）.md"
+        }
+      ],
+      "stem": "某单位有甲和乙2个办公室，分别有职工5人和4人。每周从这9名职工中随机抽取1人下沉社区担任志愿者（同一人有可能被连续、重复选中）。问7月前2周的志愿者均来自甲办公室的概率在以下哪个范围内？\n\n- **A**. 不到25%\n- **B**. 25%~35%之间　√\n- **C**. 35%~45%之间\n- **D**. 超过45%"
+    },
+    {
+      "year": 2023,
+      "qid": "5445928",
+      "primary_class": "工程效率资源调配",
+      "positions": [
+        {
+          "paper": "2023国考行测（副省级）",
+          "number": 66,
+          "misclassified_in": null,
+          "source_path": "行测/2023国考行测（副省级）.md",
+          "original_number": 66,
+          "original_source_path": "Xtest/行测/2023/2023年国家公务员录用考试《行测》题（副省级网友回忆版）.md"
+        }
+      ],
+      "stem": "甲和乙两个实验室共同承接10000份样本的检验工作。甲实验室每小时可检验200份样本，每检验一份样本的费用为100元；乙实验室每小时可检验500份样本，每检验一份样本的费用为200元。问如要求15小时内检验完毕，最低总检验费用比要求18小时内检验完毕时高多少万元？\n\n- **A**. 3\n- **B**. 4\n- **C**. 5\n- **D**. 6　√"
+    },
+    {
+      "year": 2023,
+      "qid": "5445739",
+      "primary_class": "几何",
+      "positions": [
+        {
+          "paper": "2023国考行测（副省级）",
+          "number": 67,
+          "misclassified_in": null,
+          "source_path": "行测/2023国考行测（副省级）.md",
+          "original_number": 67,
+          "original_source_path": "Xtest/行测/2023/2023年国家公务员录用考试《行测》题（副省级网友回忆版）.md"
+        }
+      ],
+      "stem": "在一块正方形土地中，画一条经过某个顶点的规划线，将其分割为三角形和梯形两块土地，且梯形土地的面积正好是三角形土地的2倍。问三角形和梯形土地的周长之比是多少？\n\n- **A**. <p>1：2</p>\n- **B**. <p>5：7</p>\n- **C**. <p><img flag=\"tex\" src=\"图片/90-图片/公式图/formula-7e9e42fcd973b30c.png\" /></p>\n- **D**. <p><img flag=\"tex\" src=\"图片/90-图片/公式图/formula-c790096637392f6c.png\" /></p>　√"
+    },
+    {
+      "year": 2023,
+      "qid": "5445876",
+      "primary_class": "等差数列应用",
+      "positions": [
+        {
+          "paper": "2023国考行测（地市级）",
+          "number": 67,
+          "misclassified_in": null,
+          "source_path": "行测/2023国考行测（地市级）.md",
+          "original_number": 67,
+          "original_source_path": "Xtest/行测/2023/2023年国家公务员录用考试《行测》题（地市级网友回忆版）.md"
+        }
+      ],
+      "stem": "工厂从某周第一天开始生产某种零件，每周生产7天，从第二天开始每一天都比前一天多生产200件。已知工厂第三周的产量是第一周的2倍，问第几天其日产量第一次达到1万件？\n\n- **A**. 37\n- **B**. 38\n- **C**. 39\n- **D**. 40　√"
+    },
+    {
+      "year": 2023,
+      "qid": "5445880",
+      "primary_class": "行程",
+      "positions": [
+        {
+          "paper": "2023国考行测（地市级）",
+          "number": 68,
+          "misclassified_in": null,
+          "source_path": "行测/2023国考行测（地市级）.md",
+          "original_number": 69,
+          "original_source_path": "Xtest/行测/2023/2023年国家公务员录用考试《行测》题（地市级网友回忆版）.md"
+        }
+      ],
+      "stem": "从A地前往B地的道路前40%的路程为上坡路，其余为下坡路。张某驾驶满载的汽车从A地去B地卸货，然后空车返回A地。已知他满载时上坡的速度是下坡速度的一半，空车时上、下坡的速度分别是满载时的1.5倍和1.2倍。问他返程的用时是去程的多少倍？\n\n- **A**. <p><img flag=\"tex\" src=\"图片/90-图片/公式图/formula-f965a32f38088929.png\" /></p>\n- **B**. <p><img flag=\"tex\" src=\"图片/90-图片/公式图/formula-4c3aec0e7d115c6e.png\" /></p>\n- **C**. <p><img flag=\"tex\" src=\"图片/90-图片/公式图/formula-21f85e5271167119.png\" /></p>　√\n- **D**. <p><img flag=\"tex\" src=\"图片/90-图片/公式图/formula-dce6c43629457963.png\" /></p>"
+    },
+    {
+      "year": 2023,
+      "qid": "5445930",
+      "primary_class": "排列组合概率",
+      "positions": [
+        {
+          "paper": "2023国考行测（副省级）",
+          "number": 68,
+          "misclassified_in": null,
+          "source_path": "行测/2023国考行测（副省级）.md",
+          "original_number": 68,
+          "original_source_path": "Xtest/行测/2023/2023年国家公务员录用考试《行测》题（副省级网友回忆版）.md"
+        }
+      ],
+      "stem": "将5个相邻的铺位出租给2家餐厅和2家水果店。要求租完不能有空余铺位，每家餐厅可以租用1个铺位，也可以租用并打通2个相邻的铺位作为其营业场所，每家水果店只能租用1个铺位，且相同类型的两个租户之间至少要间隔1个铺位。问有多少种不同的安排方式？\n\n- **A**. 24\n- **B**. 48\n- **C**. 8\n- **D**. 16　√"
+    },
+    {
+      "year": 2023,
+      "qid": "5445877",
+      "primary_class": "排列组合概率",
+      "positions": [
+        {
+          "paper": "2023国考行测（副省级）",
+          "number": 69,
+          "misclassified_in": null,
+          "source_path": "行测/2023国考行测（副省级）.md",
+          "original_number": 69,
+          "original_source_path": "Xtest/行测/2023/2023年国家公务员录用考试《行测》题（副省级网友回忆版）.md"
+        },
+        {
+          "paper": "2023国考行测（地市级）",
+          "number": 63,
+          "misclassified_in": null,
+          "source_path": "行测/2023国考行测（地市级）.md",
+          "original_number": 63,
+          "original_source_path": "Xtest/行测/2023/2023年国家公务员录用考试《行测》题（地市级网友回忆版）.md"
+        }
+      ],
+      "stem": "社区计划采购10份年货礼包发放给10户独居老人，每户发放1份。年货礼包有100元/份和150元/份的两种供选择，总预算不能超过1250元。如采购了150元/份的年货礼包，则需要优先在3户孤寡老人中选择发放对象。问共有多少种不同的发放方式？\n\n- **A**. 21\n- **B**. 28\n- **C**. 36　√\n- **D**. 55"
+    },
+    {
+      "year": 2023,
+      "qid": "5445882",
+      "primary_class": "排列组合概率",
+      "positions": [
+        {
+          "paper": "2023国考行测（地市级）",
+          "number": 69,
+          "misclassified_in": null,
+          "source_path": "行测/2023国考行测（地市级）.md",
+          "original_number": 70,
+          "original_source_path": "Xtest/行测/2023/2023年国家公务员录用考试《行测》题（地市级网友回忆版）.md"
+        }
+      ],
+      "stem": "甲、乙两名职工负责国庆7天长假的值班工作，每天安排1人值班。已知乙至少值了2天班，且在国庆期间任一天结束后，甲的累计值班天数都比乙的多。问两人的值班日期安排有多少种不同的可能？\n\n- **A**. 6\n- **B**. 9\n- **C**. 10\n- **D**. 14　√"
+    },
+    {
+      "year": 2023,
+      "qid": "5445875",
+      "primary_class": "容斥集合",
+      "positions": [
+        {
+          "paper": "2023国考行测（副省级）",
+          "number": 70,
+          "misclassified_in": null,
+          "source_path": "行测/2023国考行测（副省级）.md",
+          "original_number": 70,
+          "original_source_path": "Xtest/行测/2023/2023年国家公务员录用考试《行测》题（副省级网友回忆版）.md"
+        },
+        {
+          "paper": "2023国考行测（地市级）",
+          "number": 62,
+          "misclassified_in": null,
+          "source_path": "行测/2023国考行测（地市级）.md",
+          "original_number": 62,
+          "original_source_path": "Xtest/行测/2023/2023年国家公务员录用考试《行测》题（地市级网友回忆版）.md"
+        }
+      ],
+      "stem": "农科院在某村287名淡水鱼养殖人员中开展防病培训和育种培训。已知参加防病培训的养殖人员中，参加育种培训的人数比未参加的多21%；参加育种培训的养殖人员中，参加防病培训的人数比未参加的多76人。问共有多少人未参加任何一项培训？\n\n- **A**. 21　√\n- **B**. 23\n- **C**. 25\n- **D**. 27"
+    },
+    {
+      "year": 2023,
+      "qid": "5445934",
+      "primary_class": "排列组合概率",
+      "positions": [
+        {
+          "paper": "2023国考行测（副省级）",
+          "number": 71,
+          "misclassified_in": null,
+          "source_path": "行测/2023国考行测（副省级）.md",
+          "original_number": 71,
+          "original_source_path": "Xtest/行测/2023/2023年国家公务员录用考试《行测》题（副省级网友回忆版）.md"
+        }
+      ],
+      "stem": "某次招标活动中，甲、乙、丙、丁、戊和己6家投标企业依次对自己的设计进行讲解。已知甲和乙均不能安排在第一个或最后一个，丙只能安排在第三个或第四个，如在满足以上条件的次序中随机选择一个，则丁和戊的讲解次序相邻的概率为：\n\n- **A**. <p><img flag=\"tex\" src=\"图片/90-图片/公式图/formula-b5e5939a00cdec8b.png\" /></p>　√\n- **B**. <p><img flag=\"tex\" src=\"图片/90-图片/公式图/formula-8b172bed76e3d6da.png\" /></p>\n- **C**. <p><img flag=\"tex\" src=\"图片/90-图片/公式图/formula-fc8c6963b720e608.png\" /></p>\n- **D**. <p><img flag=\"tex\" src=\"图片/90-图片/公式图/formula-f5960529fd774c99.png\" /></p>"
+    },
+    {
+      "year": 2023,
+      "qid": "5445881",
+      "primary_class": "行程",
+      "positions": [
+        {
+          "paper": "2023国考行测（副省级）",
+          "number": 72,
+          "misclassified_in": null,
+          "source_path": "行测/2023国考行测（副省级）.md",
+          "original_number": 72,
+          "original_source_path": "Xtest/行测/2023/2023年国家公务员录用考试《行测》题（副省级网友回忆版）.md"
+        },
+        {
+          "paper": "2023国考行测（地市级）",
+          "number": 66,
+          "misclassified_in": null,
+          "source_path": "行测/2023国考行测（地市级）.md",
+          "original_number": 66,
+          "original_source_path": "Xtest/行测/2023/2023年国家公务员录用考试《行测》题（地市级网友回忆版）.md"
+        }
+      ],
+      "stem": "甲和乙两人8：00同时从A地出发前往B地，其中乙全程匀速，甲出发时的速度是乙的一半，但全程均匀加速。已知10：00甲追上乙，11：00甲到达B地。问乙什么时间到达B地？\n\n- **A**. 11：30\n- **B**. 11：45　√\n- **C**. 12：00\n- **D**. 12：15"
+    },
+    {
+      "year": 2023,
+      "qid": "5445712",
+      "primary_class": "经济采购利润分段计费",
+      "positions": [
+        {
+          "paper": "2023国考行测（副省级）",
+          "number": 73,
+          "misclassified_in": null,
+          "source_path": "行测/2023国考行测（副省级）.md",
+          "original_number": 74,
+          "original_source_path": "Xtest/行测/2023/2023年国家公务员录用考试《行测》题（副省级网友回忆版）.md"
+        }
+      ],
+      "stem": "甲、乙、丙三家科技企业2021年的收入之和比2020年提升了20%。其中甲企业的收入上升了400万元，乙企业的收入下降了100万元且是甲企业收入的一半，丙企业的收入上升了30%且其2020年的收入与甲、乙两企业同年收入之和相同。问2020年甲企业的收入比乙企业高多少万元？\n\n- **A**. 900\n- **B**. 1100\n- **C**. 400\n- **D**. 600　√"
+    },
+    {
+      "year": 2023,
+      "qid": "5445926",
+      "primary_class": "几何",
+      "positions": [
+        {
+          "paper": "2023国考行测（副省级）",
+          "number": 74,
+          "misclassified_in": null,
+          "source_path": "行测/2023国考行测（副省级）.md",
+          "original_number": 75,
+          "original_source_path": "Xtest/行测/2023/2023年国家公务员录用考试《行测》题（副省级网友回忆版）.md"
+        }
+      ],
+      "stem": "将一个高度为x的实心圆锥体零件尖部朝下放入密度为1的液体A中，浮出液面的高度为0.1x。如将其尖部朝上放入密度为1.5的液体B中，浮出液面的高度将在以下哪个范围内？\n\n- **A**. 超过0.8x　√\n- **B**. 0.7x~0.8x之间\n- **C**. 0.6x~0.7x之间\n- **D**. 不到0.6x"
+    },
+    {
+      "year": 2023,
+      "qid": "5445878",
+      "primary_class": "经济采购利润分段计费",
+      "positions": [
+        {
+          "paper": "2023国考行测（副省级）",
+          "number": 135,
+          "misclassified_in": "资料分析",
+          "source_path": "行测/2023国考行测（副省级）.md",
+          "original_number": 73,
+          "original_source_path": "Xtest/行测/2023/2023年国家公务员录用考试《行测》题（副省级网友回忆版）.md"
+        },
+        {
+          "paper": "2023国考行测（地市级）",
+          "number": 130,
+          "misclassified_in": "资料分析",
+          "source_path": "行测/2023国考行测（地市级）.md",
+          "original_number": 68,
+          "original_source_path": "Xtest/行测/2023/2023年国家公务员录用考试《行测》题（地市级网友回忆版）.md"
+        }
+      ],
+      "stem": "甲、乙二人合伙成立公司，约定每年利润的60%留作公司发展用途，40%按二人投资比例分配。已知公司成立第三年的利润比第二年高300万元，是第一年利润的3倍；甲第二年分配的金额是第三年的一半，且比第一年多20万元。问乙的投资额占比为多少？\n\n- **A**. 40%\n- **B**. 50%　√\n- **C**. 60%\n- **D**. 75%"
+    },
+    {
+      "year": 2024,
+      "qid": "5893532",
+      "primary_class": "方程比例平均年龄",
+      "positions": [
+        {
+          "paper": "2024国考行测（地市级）",
+          "number": 61,
+          "misclassified_in": null,
+          "source_path": "行测/2024国考行测（地市级）.md",
+          "original_number": 62,
+          "original_source_path": "Xtest/行测/2024/2024年国家公务员录用考试《行测》题（地市级网友回忆版）.md"
+        }
+      ],
+      "stem": "某企业招聘笔试参考人员均来自甲、乙、丙三所高校。笔试结束后，在进入面试的100人中，来自甲高校人员占比从笔试时的50%下降至当前的40%，乙高校人员占比下降了15个百分点，丙高校的有50人。问笔试时来自甲、乙、丙三所高校的人员比例是多少？\n\n- **A**. 2：1：1　√\n- **B**. 2：3：2\n- **C**. 3：1：2\n- **D**. 3：2：1"
+    },
+    {
+      "year": 2024,
+      "qid": "5893586",
+      "primary_class": "方程比例平均年龄",
+      "positions": [
+        {
+          "paper": "2024国考行测（副省级）",
+          "number": 61,
+          "misclassified_in": null,
+          "source_path": "行测/2024国考行测（副省级）.md"
+        }
+      ],
+      "stem": "甲、乙、丙三人的年龄之比为3：4：5。8年之后，甲、乙的年龄之和是丙的1.5倍，且这一年甲、乙、丙、丁四人的平均年龄为43岁。问再过15年，甲、乙、丙、丁中有几人将超过60岁?\n\n- **A**. 4\n- **B**. 3\n- **C**. 2　√\n- **D**. 1"
+    },
+    {
+      "year": 2024,
+      "qid": "5893760",
+      "primary_class": "方程比例平均年龄",
+      "positions": [
+        {
+          "paper": "2024国考行测（副省级）",
+          "number": 62,
+          "misclassified_in": null,
+          "source_path": "行测/2024国考行测（副省级）.md"
+        }
+      ],
+      "stem": "甲、乙、丙和丁四个汽车租赁公司可用汽车数量比为5：4：3：2，现甲公司调度4辆汽车到丙公司，丁公司调度1辆汽车到乙公司后，丁公司可用汽车数量正好是丙公司的60%。问此时甲公司的可用汽车数量比乙公司：\n\n- **A**. 少22辆\n- **B**. 多22辆\n- **C**. 少12辆\n- **D**. 多12辆　√"
+    },
+    {
+      "year": 2024,
+      "qid": "5893827",
+      "primary_class": "行程",
+      "positions": [
+        {
+          "paper": "2024国考行测（地市级）",
+          "number": 62,
+          "misclassified_in": null,
+          "source_path": "行测/2024国考行测（地市级）.md",
+          "original_number": 63,
+          "original_source_path": "Xtest/行测/2024/2024年国家公务员录用考试《行测》题（地市级网友回忆版）.md"
+        }
+      ],
+      "stem": "甲、乙分别从一个环形跑道的A、B两点同时出发，分别以顺时针、逆时针方向匀速跑步，甲跑15秒后与乙相遇，又跑了20秒后到达B点，又跑了45秒后回到A点，问此时乙还要跑多久才能再次回到B点（    ）。\n\n- **A**. 40秒　√\n- **B**. 50秒\n- **C**. 20秒\n- **D**. 30秒"
+    },
+    {
+      "year": 2024,
+      "qid": "5893761",
+      "primary_class": "经济采购利润分段计费",
+      "positions": [
+        {
+          "paper": "2024国考行测（副省级）",
+          "number": 63,
+          "misclassified_in": null,
+          "source_path": "行测/2024国考行测（副省级）.md"
+        }
+      ],
+      "stem": "市政部门采购了一批灯带用于美化夜景，有30灯珠/条的M型和60灯珠/条的N型两种规格，单价分别是20元/条和30元/条。已知所采购M型灯带的总灯珠数量是N型的2倍，M型灯带的总价比N型多3万元，问共采购灯带多少条？\n\n- **A**. 2400\n- **B**. 2700\n- **C**. 3000　√\n- **D**. 3300"
+    },
+    {
+      "year": 2024,
+      "qid": "5893536",
+      "primary_class": "最值极限构造",
+      "positions": [
+        {
+          "paper": "2024国考行测（地市级）",
+          "number": 64,
+          "misclassified_in": null,
+          "source_path": "行测/2024国考行测（地市级）.md",
+          "original_number": 65,
+          "original_source_path": "Xtest/行测/2024/2024年国家公务员录用考试《行测》题（地市级网友回忆版）.md"
+        }
+      ],
+      "stem": "甲、乙、丙三个研发团队共有研发人员300多人，其中甲的人数比乙多26%。现丙调3人去乙后，两个团队人数相同。问此时甲至少调多少人去丙后，才能保证丙的人数是甲的2倍以上？\n\n- **A**. 49\n- **B**. 35\n- **C**. 50　√\n- **D**. 40"
+    },
+    {
+      "year": 2024,
+      "qid": "5893758",
+      "primary_class": "经济采购利润分段计费",
+      "positions": [
+        {
+          "paper": "2024国考行测（副省级）",
+          "number": 64,
+          "misclassified_in": null,
+          "source_path": "行测/2024国考行测（副省级）.md"
+        }
+      ],
+      "stem": "某企业去年全年收入1200万元，支出960万元。今年上半年和下半年，企业支出比去年同期分别减少20%和15%，且全年收入与去年相同，总体盈余（收入-支出）比去年增加172万元。问今年上半年支出比下半年：\n\n- **A**. 少160万元\n- **B**. 多160万元\n- **C**. 少108万元\n- **D**. 多108万元　√"
+    },
+    {
+      "year": 2024,
+      "qid": "5893763",
+      "primary_class": "等差数列应用",
+      "positions": [
+        {
+          "paper": "2024国考行测（副省级）",
+          "number": 65,
+          "misclassified_in": null,
+          "source_path": "行测/2024国考行测（副省级）.md"
+        }
+      ],
+      "stem": "甲乙两条生产线同一天开始生产某种产品，甲每天比前一天多生产m件，乙每天比前一天少生产2m件，第5天两条生产线的当日产量相同，且前5天乙的累计产量是甲的2倍。问第一天乙的产量是甲的多少倍？\n\n- **A**. 6\n- **B**. 7\n- **C**. 4　√\n- **D**. 5"
+    },
+    {
+      "year": 2024,
+      "qid": "5893829",
+      "primary_class": "方程比例平均年龄",
+      "positions": [
+        {
+          "paper": "2024国考行测（地市级）",
+          "number": 65,
+          "misclassified_in": null,
+          "source_path": "行测/2024国考行测（地市级）.md",
+          "original_number": 66,
+          "original_source_path": "Xtest/行测/2024/2024年国家公务员录用考试《行测》题（地市级网友回忆版）.md"
+        }
+      ],
+      "stem": "2023年王的年龄比张的年龄的2倍小2岁，2025年张的年龄是李的年龄的1.5倍，2030年张和李的年龄之和与王的年龄相同。问3人的年龄之和在哪一年第一次超过120岁？\n\n- **A**. 2037年\n- **B**. 2036年\n- **C**. 2035年\n- **D**. 2034年　√"
+    },
+    {
+      "year": 2024,
+      "qid": "5893559",
+      "primary_class": "排列组合概率",
+      "positions": [
+        {
+          "paper": "2024国考行测（地市级）",
+          "number": 66,
+          "misclassified_in": null,
+          "source_path": "行测/2024国考行测（地市级）.md",
+          "original_number": 67,
+          "original_source_path": "Xtest/行测/2024/2024年国家公务员录用考试《行测》题（地市级网友回忆版）.md"
+        }
+      ],
+      "stem": "甲、乙、丙三人未来3周均要去A、B、C三个地方调研，每人每个地方调研时长为1周，如每个人随机安排顺序，则每周三个人去的地方都不同的概率为：\n\n- **A**. <p><img flag=\"tex\" src=\"图片/90-图片/公式图/formula-a7179dbeaeb05a07.png\" /></p>\n- **B**. <p><img flag=\"tex\" src=\"图片/90-图片/公式图/formula-3f0fdae0d8b2a24c.png\" /></p>\n- **C**. <p><img flag=\"tex\" src=\"图片/90-图片/公式图/formula-b560398d042cdf63.png\" /></p>　√\n- **D**. <p><img flag=\"tex\" src=\"图片/90-图片/公式图/formula-b0ce887854c7807f.png\" /></p>"
+    },
+    {
+      "year": 2024,
+      "qid": "5893784",
+      "primary_class": "行程",
+      "positions": [
+        {
+          "paper": "2024国考行测（副省级）",
+          "number": 66,
+          "misclassified_in": null,
+          "source_path": "行测/2024国考行测（副省级）.md"
+        }
+      ],
+      "stem": "甲和乙两辆车同时从A地出发匀速开往B地，甲车出发时的速度比乙车快20%，但乙车行驶1个小时后速度加快30千米/小时继续匀速行驶，又用了3小时与甲车同时抵达，问A、B两地相距多少千米（    ）：\n\n- **A**. 540　√\n- **B**. 510\n- **C**. 600\n- **D**. 570"
+    },
+    {
+      "year": 2024,
+      "qid": "5893786",
+      "primary_class": "经济采购利润分段计费",
+      "positions": [
+        {
+          "paper": "2024国考行测（副省级）",
+          "number": 67,
+          "misclassified_in": null,
+          "source_path": "行测/2024国考行测（副省级）.md"
+        }
+      ],
+      "stem": "甲、乙、丙三种农产品价格分别为30元/包、24元/包和20元/包。某日销售三种农产品共240包，总销售额为6000元，已知甲的销售量是乙的2倍，问丙销售了多少包？\n\n- **A**. 90　√\n- **B**. 75\n- **C**. 60\n- **D**. 45"
+    },
+    {
+      "year": 2024,
+      "qid": "5893787",
+      "primary_class": "排列组合概率",
+      "positions": [
+        {
+          "paper": "2024国考行测（副省级）",
+          "number": 68,
+          "misclassified_in": null,
+          "source_path": "行测/2024国考行测（副省级）.md"
+        },
+        {
+          "paper": "2024国考行测（地市级）",
+          "number": 63,
+          "misclassified_in": null,
+          "source_path": "行测/2024国考行测（地市级）.md",
+          "original_number": 64,
+          "original_source_path": "Xtest/行测/2024/2024年国家公务员录用考试《行测》题（地市级网友回忆版）.md"
+        }
+      ],
+      "stem": "公司有六个编号依次为1—6的研发团队，现安排这6个团队参与甲、乙两个科研课题，要求每个团队参与一个课题。每个课题最少安排2个团队，每个课题安排一个团队负责，且负责团队不能是该课题所有参与团队中编号最小的团队。问有多少种不同的安排方式？\n\n- **A**. 300\n- **B**. 340\n- **C**. 150\n- **D**. 170　√"
+    },
+    {
+      "year": 2024,
+      "qid": "5893562",
+      "primary_class": "几何",
+      "positions": [
+        {
+          "paper": "2024国考行测（地市级）",
+          "number": 69,
+          "misclassified_in": null,
+          "source_path": "行测/2024国考行测（地市级）.md",
+          "original_number": 70,
+          "original_source_path": "Xtest/行测/2024/2024年国家公务员录用考试《行测》题（地市级网友回忆版）.md"
+        }
+      ],
+      "stem": "<p>某小区内部的道路如下图所示，道路转弯处的<img flag=\"tex\" src=\"图片/90-图片/公式图/formula-7515492eba11ff0f.png\" />、<img flag=\"tex\" src=\"图片/90-图片/公式图/formula-68c4d7e4a5375678.png\" />、<img flag=\"tex\" src=\"图片/90-图片/公式图/formula-33aaa689ec9780f6.png\" />均为直角，<img flag=\"tex\" src=\"图片/90-图片/公式图/formula-091f394ea57c383f.png\" />。已知AB、CD、EA的长度分别为40米、50米、60米，问整圈道路的总长度在以下哪个范围内？</p><p><img width=\"363px\" height=\"323px\" src=\"图片/90-图片/题目图/18c0a7e3c253266.png\" /></p>\n\n- **A**. 在200~210米之间\n- **B**. 在210~220米之间　√\n- **C**. 不到200米\n- **D**. 超过220米"
+    },
+    {
+      "year": 2024,
+      "qid": "5893789",
+      "primary_class": "最值极限构造",
+      "positions": [
+        {
+          "paper": "2024国考行测（副省级）",
+          "number": 69,
+          "misclassified_in": null,
+          "source_path": "行测/2024国考行测（副省级）.md"
+        }
+      ],
+      "stem": "某次考试有20道选择题和20道判断题，每题答对得3分，答错得0分，不答得1分。考生小王成绩为82分，且他选择题的答错数比答对数多，问他判断题至少答对了多少道？\n\n- **A**. 17　√\n- **B**. 18\n- **C**. 15\n- **D**. 16"
+    },
+    {
+      "year": 2024,
+      "qid": "5893774",
+      "primary_class": "几何",
+      "positions": [
+        {
+          "paper": "2024国考行测（副省级）",
+          "number": 70,
+          "misclassified_in": null,
+          "source_path": "行测/2024国考行测（副省级）.md"
+        }
+      ],
+      "stem": "<p>某公园内的道路如下图所示，其中AB、BC分别为正南北向和正东西向道路，AB、AC分别长100米和200米。且BCD为正三角形，如要用直线道路连接AD，则该道路的长度为多少米？</p><p><img width=\"251px\" height=\"301px\" src=\"图片/90-图片/题目图/18c0c0492793a18.png\" /></p>\n\n- **A**. <p><img flag=\"tex\" src=\"图片/90-图片/公式图/formula-272166dcc3347cbc.png\" /></p>\n- **B**. <p><img flag=\"tex\" src=\"图片/90-图片/公式图/formula-8641f20895ee202b.png\" /></p>\n- **C**. <p><img flag=\"tex\" src=\"图片/90-图片/公式图/formula-4e4bd17b46ba4144.png\" /></p>　√\n- **D**. <p><img flag=\"tex\" src=\"图片/90-图片/公式图/formula-806e4b8bfc4f033b.png\" /></p>"
+    },
+    {
+      "year": 2024,
+      "qid": "5893780",
+      "primary_class": "几何",
+      "positions": [
+        {
+          "paper": "2024国考行测（副省级）",
+          "number": 71,
+          "misclassified_in": null,
+          "source_path": "行测/2024国考行测（副省级）.md"
+        }
+      ],
+      "stem": "<p>设计师将一个正方形的大厅分给如下图所示的几个区域，已知所有的三角形都是等腰直角三角形，梯形都是等腰梯形，且所有三角形和梯形面积均相等。在三角形的区域铺设地砖，在中间的正方形区域铺设木地板。问地砖和木地板的面积比是多少？</p><p><img width=\"331px\" height=\"328px\" src=\"图片/90-图片/题目图/18c0c2574329941.png\" /></p>\n\n- **A**. 2：3\n- **B**. 4：3\n- **C**. 8：9　√\n- **D**. 16：9"
+    },
+    {
+      "year": 2024,
+      "qid": "5893783",
+      "primary_class": "工程效率资源调配",
+      "positions": [
+        {
+          "paper": "2024国考行测（副省级）",
+          "number": 72,
+          "misclassified_in": null,
+          "source_path": "行测/2024国考行测（副省级）.md"
+        }
+      ],
+      "stem": "<p>某工程队接到一项任务，甲、乙合作6天后完成总任务量的25%，乙、丙合作15天后又完成剩余任务量的<img flag=\"tex\" src=\"图片/90-图片/公式图/formula-d4fb610fbf0adb67.png\" />，剩下全部任务由乙单独工作11天完成。已知乙与他人合作时效率比其单独工作时高10%，问甲、乙、丙合作完成这项任务需要多少天？</p>\n\n- **A**. 16\n- **B**. 20　√\n- **C**. 24\n- **D**. 28"
+    },
+    {
+      "year": 2024,
+      "qid": "5893542",
+      "primary_class": "容斥集合",
+      "positions": [
+        {
+          "paper": "2024国考行测（副省级）",
+          "number": 73,
+          "misclassified_in": null,
+          "source_path": "行测/2024国考行测（副省级）.md"
+        },
+        {
+          "paper": "2024国考行测（地市级）",
+          "number": 67,
+          "misclassified_in": null,
+          "source_path": "行测/2024国考行测（地市级）.md",
+          "original_number": 68,
+          "original_source_path": "Xtest/行测/2024/2024年国家公务员录用考试《行测》题（地市级网友回忆版）.md"
+        }
+      ],
+      "stem": "某高校外国语学院中，会俄语的学生都会英语，其中一半还会法语；会英语的学生中有一半会法语；这三种语言都会的学生有50人，只会其中两种语言的有100人，只会其中一种语言的有150人。问会法语的学生有多少人？\n\n- **A**. 100\n- **B**. 200　√\n- **C**. 50\n- **D**. 150"
+    },
+    {
+      "year": 2024,
+      "qid": "5893759",
+      "primary_class": "排列组合概率",
+      "positions": [
+        {
+          "paper": "2024国考行测（副省级）",
+          "number": 74,
+          "misclassified_in": null,
+          "source_path": "行测/2024国考行测（副省级）.md"
+        }
+      ],
+      "stem": "甲、乙等36人分为6个小组参加某项活动，要求任意2组人数不同，每个组都不少于3人，且任何一组人数不得超过另一组的3倍。问甲和乙至少有1人分到人数第二多的小组的概率为（    ）。\n\n- **A**. 35%\n- **B**. 40%　√\n- **C**. 25%\n- **D**. 30%"
+    },
+    {
+      "year": 2024,
+      "qid": "5893551",
+      "primary_class": "周期日期",
+      "positions": [
+        {
+          "paper": "2024国考行测（副省级）",
+          "number": 75,
+          "misclassified_in": null,
+          "source_path": "行测/2024国考行测（副省级）.md"
+        },
+        {
+          "paper": "2024国考行测（地市级）",
+          "number": 68,
+          "misclassified_in": null,
+          "source_path": "行测/2024国考行测（地市级）.md",
+          "original_number": 69,
+          "original_source_path": "Xtest/行测/2024/2024年国家公务员录用考试《行测》题（地市级网友回忆版）.md"
+        }
+      ],
+      "stem": "小张每周二、周五和周日固定参加骑行社团活动。某年9月和10月，小张分别参加了13次和14次活动。问当年他最后一次参加活动是在哪一天？\n\n- **A**. 12月31日　√\n- **B**. 12月30日\n- **C**. 12月29日\n- **D**. 12月28日"
+    },
+    {
+      "year": 2024,
+      "qid": "5893530",
+      "primary_class": "经济采购利润分段计费",
+      "positions": [
+        {
+          "paper": "2024国考行测（地市级）",
+          "number": 130,
+          "misclassified_in": "资料分析",
+          "source_path": "行测/2024国考行测（地市级）.md",
+          "original_number": 61,
+          "original_source_path": "Xtest/行测/2024/2024年国家公务员录用考试《行测》题（地市级网友回忆版）.md"
+        }
+      ],
+      "stem": "某地为工业企业提供相当于营业额2%的税收优惠，当地的A工厂原本预计当年会产生相当于营业额0.8%的亏损，在享受优惠政策后预计可以盈利300万元。问A工厂当年的预计营业额为多少亿元？\n\n- **A**. 4\n- **B**. 3.6\n- **C**. 3\n- **D**. 2.5　√"
+    },
+    {
+      "year": 2025,
+      "qid": "19283740",
+      "primary_class": "行程",
+      "positions": [
+        {
+          "paper": "2025国考行测（地市级）",
+          "number": 66,
+          "misclassified_in": null,
+          "source_path": "行测/2025国考行测（地市级）.md"
+        }
+      ],
+      "stem": "张某8：00开车从A地出发，在A、B两地之间往返行驶。8：30第一次到达A、B之间的C点时加速30%继续行驶，并于9：00第二次到达C点。问AC距离是BC距离的多少倍？\n\n- **A**. <p><img flag=\"tex\" src=\"图片/90-图片/公式图/formula-f6553ac2a635a5e7.png\" /></p>\n- **B**. <p><img flag=\"tex\" src=\"图片/90-图片/公式图/formula-0bcc220c3988e070.png\" /></p>\n- **C**. <p><img flag=\"tex\" src=\"图片/90-图片/公式图/formula-f40a316ec7d06665.png\" /></p>　√\n- **D**. <p><img flag=\"tex\" src=\"图片/90-图片/公式图/formula-be88625f93990d96.png\" /></p>"
+    },
+    {
+      "year": 2025,
+      "qid": "19283955",
+      "primary_class": "方程比例平均年龄",
+      "positions": [
+        {
+          "paper": "2025国考行测（副省级）",
+          "number": 66,
+          "misclassified_in": null,
+          "source_path": "行测/2025国考行测（副省级）.md"
+        }
+      ],
+      "stem": "运送一批货物，第一趟派出10辆大车，第二趟又增派15辆小车，运输量比第一趟高50%。问每辆大车的载货量是小车的多少倍？\n\n- **A**. 3　√\n- **B**. 2.5\n- **C**. 2\n- **D**. 1.5"
+    },
+    {
+      "year": 2025,
+      "qid": "19283726",
+      "primary_class": "方程比例平均年龄",
+      "positions": [
+        {
+          "paper": "2025国考行测（地市级）",
+          "number": 67,
+          "misclassified_in": null,
+          "source_path": "行测/2025国考行测（地市级）.md"
+        }
+      ],
+      "stem": "甲、乙、丙、丁四个部门共有210名员工，且甲部门员工数比丁部门多10人。现乙部门调动20名员工到丙部门且其剩余员工并入丁部门后，甲、丙、丁三个部门的员工数之比为3：3：4。问原乙部门有多少名员工？\n\n- **A**. 41\n- **B**. 46\n- **C**. 51　√\n- **D**. 56"
+    },
+    {
+      "year": 2025,
+      "qid": "19283954",
+      "primary_class": "方程比例平均年龄",
+      "positions": [
+        {
+          "paper": "2025国考行测（副省级）",
+          "number": 67,
+          "misclassified_in": null,
+          "source_path": "行测/2025国考行测（副省级）.md"
+        }
+      ],
+      "stem": "某企业今年3月节电量是1月的1.2倍、2月的1.5倍，已知2月节电量比1月少4万度，问今年一季度企业节电量为多少万度？\n\n- **A**. 48\n- **B**. 52\n- **C**. 56\n- **D**. 60　√"
+    },
+    {
+      "year": 2025,
+      "qid": "19283932",
+      "primary_class": "经济采购利润分段计费",
+      "positions": [
+        {
+          "paper": "2025国考行测（地市级）",
+          "number": 68,
+          "misclassified_in": null,
+          "source_path": "行测/2025国考行测（地市级）.md"
+        }
+      ],
+      "stem": "化工商店出售200千克某种试剂，前60千克打2折出售，之后60千克打5折出售，剩余部分原价出售。以下坐标图中，最能准确反映该试剂销量和销售收入之间关系的是：\n\n- **A**. <p><img width=\"207px\" height=\"192px\" src=\"图片/90-图片/题目图/1938230c68cd368.png\" /></p>　√\n- **B**. <p><img width=\"207px\" height=\"195px\" src=\"图片/90-图片/题目图/1938230d4e599e2.png\" /></p>\n- **C**. <p><img width=\"207px\" height=\"202px\" src=\"图片/90-图片/题目图/1938230e37042ed.png\" /></p>\n- **D**. <p><img width=\"207px\" height=\"192px\" src=\"图片/90-图片/题目图/1938230f0d88bec.png\" /></p>"
+    },
+    {
+      "year": 2025,
+      "qid": "19283964",
+      "primary_class": "行程",
+      "positions": [
+        {
+          "paper": "2025国考行测（副省级）",
+          "number": 68,
+          "misclassified_in": null,
+          "source_path": "行测/2025国考行测（副省级）.md"
+        }
+      ],
+      "stem": "甲和乙从环形跑道的同一点出发，向相反方向匀速慢跑，乙的速度是甲的一半。两人3分钟后第一次相遇，此后乙加速又跑了正好半圈后和甲第二次相遇。问两人第一次到第二次相遇间隔了多长时间？\n\n- **A**. 2分10秒\n- **B**. 2分15秒　√\n- **C**. 2分20秒\n- **D**. 2分30秒"
+    },
+    {
+      "year": 2025,
+      "qid": "19283758",
+      "primary_class": "容斥集合",
+      "positions": [
+        {
+          "paper": "2025国考行测（地市级）",
+          "number": 69,
+          "misclassified_in": null,
+          "source_path": "行测/2025国考行测（地市级）.md"
+        }
+      ],
+      "stem": "某单位65名职工中，拥有甲、乙、丙三项认证中至少一项的职工正好占80%，没有甲认证的职工与有乙认证的职工人数一样多，仅有丙认证的职工有3人，三项认证都有的职工有6人，问有多少人仅拥有甲、乙两项认证？\n\n- **A**. 10　√\n- **B**. 13\n- **C**. 16\n- **D**. 19"
+    },
+    {
+      "year": 2025,
+      "qid": "19283958",
+      "primary_class": "容斥集合",
+      "positions": [
+        {
+          "paper": "2025国考行测（副省级）",
+          "number": 69,
+          "misclassified_in": null,
+          "source_path": "行测/2025国考行测（副省级）.md"
+        }
+      ],
+      "stem": "某研发小组员工中，60％的人参与了A项目，45％的人参与了B项目，两个项目都参与的人比两个项目都不参与的多2人。问该研发小组有多少人？\n\n- **A**. 100\n- **B**. 50\n- **C**. 40　√\n- **D**. 20"
+    },
+    {
+      "year": 2025,
+      "qid": "19283966",
+      "primary_class": "最值极限构造",
+      "positions": [
+        {
+          "paper": "2025国考行测（副省级）",
+          "number": 70,
+          "misclassified_in": null,
+          "source_path": "行测/2025国考行测（副省级）.md"
+        }
+      ],
+      "stem": "2024年甲、乙、丙三人的年龄之和与2034年甲的年龄相同，且甲、乙的年龄之差大于乙、丙的年龄之差。已知乙的年龄小于甲但大于丙，问2024年甲的年龄最小可能为多少岁？\n\n- **A**. 13\n- **B**. 11\n- **C**. 10\n- **D**. 9　√"
+    },
+    {
+      "year": 2025,
+      "qid": "19283725",
+      "primary_class": "工程效率资源调配",
+      "positions": [
+        {
+          "paper": "2025国考行测（副省级）",
+          "number": 71,
+          "misclassified_in": null,
+          "source_path": "行测/2025国考行测（副省级）.md"
+        }
+      ],
+      "stem": "甲、乙、丙3台收割机每小时均能收割2亩小麦，三台机器上午先后开始收割工作，12：00时甲收割的面积是乙的1.5倍，且比丙多收割6亩，16：00时3台收割机共收割了50亩，问乙是何时开始工作的？\n\n- **A**. 6：00\n- **B**. 7：00\n- **C**. 8：00　√\n- **D**. 9：00"
+    },
+    {
+      "year": 2025,
+      "qid": "19283729",
+      "primary_class": "方程比例平均年龄",
+      "positions": [
+        {
+          "paper": "2025国考行测（地市级）",
+          "number": 72,
+          "misclassified_in": null,
+          "source_path": "行测/2025国考行测（地市级）.md"
+        }
+      ],
+      "stem": "张、王、李、赵4人的平均年龄为28岁，张、王的年龄之和比李大25岁，李、赵的年龄之和比张大27岁。已知张比王大2岁，问他们4人中年龄最大的比最小的大几岁？\n\n- **A**. 5\n- **B**. 6　√\n- **C**. 3\n- **D**. 4"
+    },
+    {
+      "year": 2025,
+      "qid": "19283924",
+      "primary_class": "排列组合概率",
+      "positions": [
+        {
+          "paper": "2025国考行测（副省级）",
+          "number": 72,
+          "misclassified_in": null,
+          "source_path": "行测/2025国考行测（副省级）.md"
+        },
+        {
+          "paper": "2025国考行测（地市级）",
+          "number": 70,
+          "misclassified_in": null,
+          "source_path": "行测/2025国考行测（地市级）.md"
+        }
+      ],
+      "stem": "某竞赛由5道次序固定的判断题组成，参赛者起始为0分，每答对1题加1分，每答错1题扣1分。小王作答了所有试题，答完每道题时当前的得分都不低于1分。问他的答题情况有多少种不同的可能？\n\n- **A**. 7\n- **B**. 6　√\n- **C**. 4\n- **D**. 3"
+    },
+    {
+      "year": 2025,
+      "qid": "19283934",
+      "primary_class": "工程效率资源调配",
+      "positions": [
+        {
+          "paper": "2025国考行测（副省级）",
+          "number": 73,
+          "misclassified_in": null,
+          "source_path": "行测/2025国考行测（副省级）.md"
+        },
+        {
+          "paper": "2025国考行测（地市级）",
+          "number": 71,
+          "misclassified_in": null,
+          "source_path": "行测/2025国考行测（地市级）.md"
+        }
+      ],
+      "stem": "某种机械由3个A模块和2个B模块组成。甲车间每天可生产6个A模块或3个B模块，乙车间每天可生产1个A模块或2个B模块。现两车间合作生产40台该机械所需模块，问至少需要多少天？\n\n- **A**. 24\n- **B**. 26\n- **C**. 28　√\n- **D**. 30"
+    },
+    {
+      "year": 2025,
+      "qid": "19283930",
+      "primary_class": "行程",
+      "positions": [
+        {
+          "paper": "2025国考行测（副省级）",
+          "number": 74,
+          "misclassified_in": null,
+          "source_path": "行测/2025国考行测（副省级）.md"
+        },
+        {
+          "paper": "2025国考行测（地市级）",
+          "number": 73,
+          "misclassified_in": null,
+          "source_path": "行测/2025国考行测（地市级）.md"
+        }
+      ],
+      "stem": "<p>甲船在A港正东n海里，乙船在A港正南<img flag=\"tex\" src=\"图片/90-图片/公式图/formula-896913815875733f.png\" />海里，两船相距120海里，同时出发向A港匀速行驶。已知乙船的速度是甲船的<img flag=\"tex\" src=\"图片/90-图片/公式图/formula-f79d5d70302c74ad.png\" />倍，比甲船早3小时到A港。问甲船的速度是多少海里/小时？</p>\n\n- **A**. <p>10</p>　√\n- **B**. <p>15</p>\n- **C**. <p><img flag=\"tex\" src=\"图片/90-图片/公式图/formula-42b958315346f613.png\" /></p>\n- **D**. <p><img flag=\"tex\" src=\"图片/90-图片/公式图/formula-79b8a2b06baf374e.png\" /></p>"
+    },
+    {
+      "year": 2025,
+      "qid": "19283970",
+      "primary_class": "周期日期",
+      "positions": [
+        {
+          "paper": "2025国考行测（副省级）",
+          "number": 75,
+          "misclassified_in": null,
+          "source_path": "行测/2025国考行测（副省级）.md"
+        }
+      ],
+      "stem": "某门店星期一至星期五的日营业额均为1万元，星期六和星期日的日营业额均为2万元。某月1-16日的总营业额为22万元，问该月8日为：\n\n- **A**. 星期三\n- **B**. 星期四\n- **C**. 星期五\n- **D**. 星期六　√"
+    },
+    {
+      "year": 2025,
+      "qid": "19283756",
+      "primary_class": "经济采购利润分段计费",
+      "positions": [
+        {
+          "paper": "2025国考行测（副省级）",
+          "number": 76,
+          "misclassified_in": null,
+          "source_path": "行测/2025国考行测（副省级）.md"
+        }
+      ],
+      "stem": "某种商品在定价基础上打八折销售，打折之前每天卖40件，开始打折第一天起，每天都比前一天多卖10件。打折销售15天的利润总额与打折之前销售20天的利润总额相同，问这种商品的成本是定价的：\n\n- **A**. 60%\n- **B**. 64%　√\n- **C**. 70%\n- **D**. 75%"
+    },
+    {
+      "year": 2025,
+      "qid": "19283731",
+      "primary_class": "排列组合概率",
+      "positions": [
+        {
+          "paper": "2025国考行测（副省级）",
+          "number": 77,
+          "misclassified_in": null,
+          "source_path": "行测/2025国考行测（副省级）.md"
+        }
+      ],
+      "stem": "将甲、乙两种设备各5件全部分配给A、B、C三个车间，要求每个车间分配两种设备至少各1件，A车间分配的设备总数比其他任一车间都多，B车间分配的甲设备多于乙设备，问有多少种不同的分配方式？\n\n- **A**. 3　√\n- **B**. 6\n- **C**. 12\n- **D**. 24"
+    },
+    {
+      "year": 2025,
+      "qid": "19283757",
+      "primary_class": "几何",
+      "positions": [
+        {
+          "paper": "2025国考行测（副省级）",
+          "number": 78,
+          "misclassified_in": null,
+          "source_path": "行测/2025国考行测（副省级）.md"
+        }
+      ],
+      "stem": "<p>某厂区如图所示，其中ABCD为矩形，ABEF为直角梯形，AB与DE相交于G点，其中阴影区域ADGF为涉密区域。已知AD、AF、AB长度分别为240米、150米、100米，问涉密区域的面积为多少万平方米？</p><p><img width=\"199px\" height=\"154px\" src=\"图片/90-图片/题目图/1938142939d5529.png\" /></p>\n\n- **A**. 1.2　√\n- **B**. 1.3\n- **C**. 1.4\n- **D**. 1.5"
+    },
+    {
+      "year": 2025,
+      "qid": "19283935",
+      "primary_class": "排列组合概率",
+      "positions": [
+        {
+          "paper": "2025国考行测（副省级）",
+          "number": 79,
+          "misclassified_in": null,
+          "source_path": "行测/2025国考行测（副省级）.md"
+        },
+        {
+          "paper": "2025国考行测（地市级）",
+          "number": 74,
+          "misclassified_in": null,
+          "source_path": "行测/2025国考行测（地市级）.md"
+        }
+      ],
+      "stem": "小王计划在7天假期自学甲、乙两门在线课程，每门课程需要连学2整天。如在所有可能的安排中随机选择1种，不用学习的3天均不相邻的概率为：\n\n- **A**. <p><img flag=\"tex\" src=\"图片/90-图片/公式图/formula-32e31ac7d846d347.png\" /></p>\n- **B**. <p><img flag=\"tex\" src=\"图片/90-图片/公式图/formula-0097b60f28ef1a78.png\" /></p>\n- **C**. <p><img flag=\"tex\" src=\"图片/90-图片/公式图/formula-5b8b299c31a50473.png\" /></p>\n- **D**. <p><img flag=\"tex\" src=\"图片/90-图片/公式图/formula-051bf4328b9fc402.png\" /></p>　√"
+    },
+    {
+      "year": 2025,
+      "qid": "19283938",
+      "primary_class": "几何",
+      "positions": [
+        {
+          "paper": "2025国考行测（副省级）",
+          "number": 80,
+          "misclassified_in": null,
+          "source_path": "行测/2025国考行测（副省级）.md"
+        },
+        {
+          "paper": "2025国考行测（地市级）",
+          "number": 75,
+          "misclassified_in": null,
+          "source_path": "行测/2025国考行测（地市级）.md"
+        }
+      ],
+      "stem": "一个容器的下部分为高12厘米的倒立圆锥体，上部分为圆柱体，且圆锥和圆柱的底面半径相等。现匀速向容器中注入水，1分钟后液面高6厘米，又过30分钟后注满。问整个容器的高度为多少厘米？\n\n- **A**. 22\n- **B**. 22.5\n- **C**. 23\n- **D**. 23.5　√"
+    },
+    {
+      "year": 2026,
+      "qid": "19526419",
+      "primary_class": "方程比例平均年龄",
+      "positions": [
+        {
+          "paper": "2026国考行测（副省级）",
+          "number": 66,
+          "misclassified_in": null,
+          "source_path": "行测/2026国考行测（副省级）.md"
+        }
+      ],
+      "stem": "某园区种植甲、乙、丙三种花卉共10公顷，甲的种植面积是乙的2倍，丙的种植面积比乙少2公顷。问丙的种植面积为多少公顷？\n\n- **A**. 1　√\n- **B**. 2\n- **C**. 3\n- **D**. 4"
+    },
+    {
+      "year": 2026,
+      "qid": "19526237",
+      "primary_class": "排列组合概率",
+      "positions": [
+        {
+          "paper": "2026国考行测（地市级）",
+          "number": 67,
+          "misclassified_in": null,
+          "source_path": "行测/2026国考行测（地市级）.md"
+        }
+      ],
+      "stem": "某部门7人分两组到甲、乙两市进行调研。已知到甲市人数超过一半，老张和小王均到乙市，问共有多少种不同的分组方式？\n\n- **A**. 10\n- **B**. 8\n- **C**. 6　√\n- **D**. 5"
+    },
+    {
+      "year": 2026,
+      "qid": "19526420",
+      "primary_class": "工程效率资源调配",
+      "positions": [
+        {
+          "paper": "2026国考行测（副省级）",
+          "number": 67,
+          "misclassified_in": null,
+          "source_path": "行测/2026国考行测（副省级）.md"
+        }
+      ],
+      "stem": "甲和乙两个工厂共同生产5天，能生产w件产品。甲的效率是乙的m倍，如果甲效率提升50%，乙效率提升为原来的n倍，则3天就能生产w件产品。问m和n的关系为：\n\n- **A**. m=3n-5\n- **B**. m=6n-10　√\n- **C**. m=5-3n\n- **D**. m=10-6n"
+    },
+    {
+      "year": 2026,
+      "qid": "19526239",
+      "primary_class": "行程",
+      "positions": [
+        {
+          "paper": "2026国考行测（地市级）",
+          "number": 68,
+          "misclassified_in": null,
+          "source_path": "行测/2026国考行测（地市级）.md"
+        }
+      ],
+      "stem": "小王从甲地匀速前往乙地，到达后立刻匀速返回。已知他去程的用时比返程多3小时，去程的速度是返程的40%，且往返的平均速度为40千米/小时，问甲、乙两地相距多少千米？\n\n- **A**. 70\n- **B**. 140　√\n- **C**. 210\n- **D**. 280"
+    },
+    {
+      "year": 2026,
+      "qid": "19526421",
+      "primary_class": "经济采购利润分段计费",
+      "positions": [
+        {
+          "paper": "2026国考行测（副省级）",
+          "number": 68,
+          "misclassified_in": null,
+          "source_path": "行测/2026国考行测（副省级）.md"
+        }
+      ],
+      "stem": "某企业2023年开始拓展海外业务，当年海外业务亏损m元，但2024年海外业务实现利润2m元。在国内市场每年利润保持不变的前提下，2024年总利润是2023年的1.2倍。问该企业每年国内市场利润为多少元？\n\n- **A**. 13m\n- **B**. 14m\n- **C**. 15m\n- **D**. 16m　√"
+    },
+    {
+      "year": 2026,
+      "qid": "19526236",
+      "primary_class": "经济采购利润分段计费",
+      "positions": [
+        {
+          "paper": "2026国考行测（地市级）",
+          "number": 69,
+          "misclassified_in": null,
+          "source_path": "行测/2026国考行测（地市级）.md"
+        }
+      ],
+      "stem": "某种商品若按每件100元出售，每天售出m件；若降价10%，日销量将提高25%且单日利润与降价前相同。问该商品成本为多少元/件？\n\n- **A**. 50　√\n- **B**. 60\n- **C**. 70\n- **D**. 80"
+    },
+    {
+      "year": 2026,
+      "qid": "19526357",
+      "primary_class": "方程比例平均年龄",
+      "positions": [
+        {
+          "paper": "2026国考行测（副省级）",
+          "number": 69,
+          "misclassified_in": null,
+          "source_path": "行测/2026国考行测（副省级）.md"
+        },
+        {
+          "paper": "2026国考行测（地市级）",
+          "number": 66,
+          "misclassified_in": null,
+          "source_path": "行测/2026国考行测（地市级）.md"
+        }
+      ],
+      "stem": "某企业采购了A、B、C三个品牌的电脑共54台，其中采购A品牌电脑的台数比B品牌电脑少35%。问采购的C品牌电脑比B品牌电脑：\n\n- **A**. 少1台\n- **B**. 少2台\n- **C**. 多1台　√\n- **D**. 多2台"
+    },
+    {
+      "year": 2026,
+      "qid": "19526358",
+      "primary_class": "工程效率资源调配",
+      "positions": [
+        {
+          "paper": "2026国考行测（地市级）",
+          "number": 70,
+          "misclassified_in": null,
+          "source_path": "行测/2026国考行测（地市级）.md"
+        }
+      ],
+      "stem": "甲、乙两车间每天可加工2000个零件。若甲、乙车间效率分别提升10%和20%，则两车间每天可加工2260个零件。问效率提升前甲车间每天可加工多少个零件？\n\n- **A**. 1100\n- **B**. 1200\n- **C**. 1300\n- **D**. 1400　√"
+    },
+    {
+      "year": 2026,
+      "qid": "19526424",
+      "primary_class": "排列组合概率",
+      "positions": [
+        {
+          "paper": "2026国考行测（副省级）",
+          "number": 70,
+          "misclassified_in": null,
+          "source_path": "行测/2026国考行测（副省级）.md"
+        }
+      ],
+      "stem": "4人参加乒乓球比赛，每2人对战一场，甲战胜乙的概率是0.4，乙战胜丙的概率是丙战胜丁概率的2倍。已知乙在比赛中对甲、丙均取胜的概率是0.18，问丙战胜丁的概率是：\n\n- **A**. 0.1\n- **B**. 0.12\n- **C**. 0.15　√\n- **D**. 0.3"
+    },
+    {
+      "year": 2026,
+      "qid": "19526422",
+      "primary_class": "行程",
+      "positions": [
+        {
+          "paper": "2026国考行测（副省级）",
+          "number": 71,
+          "misclassified_in": null,
+          "source_path": "行测/2026国考行测（副省级）.md"
+        }
+      ],
+      "stem": "甲、乙两地的中点为丙。张从甲出发在甲、乙之间往返匀速慢跑，同时王从乙出发在乙、丙之间往返匀速慢跑。出发后王第5次到达乙地时，张正好第4次到达乙地。问张的速度是王的多少倍？\n\n- **A**. <p><img flag=\"tex\" src=\"图片/90-图片/公式图/formula-4c3aec0e7d115c6e.png\" /></p>\n- **B**. <p><img flag=\"tex\" src=\"图片/90-图片/公式图/formula-7d52e61283d50531.png\" /></p>　√\n- **C**. <p><img flag=\"tex\" src=\"图片/90-图片/公式图/formula-a56aed8103a348c2.png\" /></p>\n- **D**. <p><img flag=\"tex\" src=\"图片/90-图片/公式图/formula-1e2b18ede53fce7f.png\" /></p>"
+    },
+    {
+      "year": 2026,
+      "qid": "19526423",
+      "primary_class": "几何",
+      "positions": [
+        {
+          "paper": "2026国考行测（副省级）",
+          "number": 72,
+          "misclassified_in": null,
+          "source_path": "行测/2026国考行测（副省级）.md"
+        }
+      ],
+      "stem": "甲和乙两个长方体零件的体积比为3：2，且甲和乙均有2个面为边长n厘米的正方形。将甲和乙粘接为一个长方体之后，表面积比原来2个零件的表面积之和减少了20%。问乙最短棱的长度是最长棱的：\n\n- **A**. <p><img flag=\"tex\" src=\"图片/90-图片/公式图/formula-c78a8e94c1c7e5df.png\" /></p>\n- **B**. <p><img flag=\"tex\" src=\"图片/90-图片/公式图/formula-fd5e1f161d7360e1.png\" /></p>\n- **C**. <p><img flag=\"tex\" src=\"图片/90-图片/公式图/formula-18300212d83e7967.png\" /></p>　√\n- **D**. <p><img flag=\"tex\" src=\"图片/90-图片/公式图/formula-d4f6feee9debb020.png\" /></p>"
+    },
+    {
+      "year": 2026,
+      "qid": "19526319",
+      "primary_class": "排列组合概率",
+      "positions": [
+        {
+          "paper": "2026国考行测（副省级）",
+          "number": 73,
+          "misclassified_in": null,
+          "source_path": "行测/2026国考行测（副省级）.md"
+        },
+        {
+          "paper": "2026国考行测（地市级）",
+          "number": 71,
+          "misclassified_in": null,
+          "source_path": "行测/2026国考行测（地市级）.md"
+        }
+      ],
+      "stem": "某单位从所有职工中随机选3人参加某个会议，张立和李磊2人中只有1人被选中的概率是2人均被选中概率的30倍。问该单位有职工多少人？\n\n- **A**. 15\n- **B**. 17\n- **C**. 29\n- **D**. 33　√"
+    },
+    {
+      "year": 2026,
+      "qid": "19526325",
+      "primary_class": "最值极限构造",
+      "positions": [
+        {
+          "paper": "2026国考行测（副省级）",
+          "number": 74,
+          "misclassified_in": null,
+          "source_path": "行测/2026国考行测（副省级）.md"
+        }
+      ],
+      "stem": "某考试有30人参加，每人得分都是0~100之间的整数且互不相同。已知得分不低于90的人平均分为93.8分，小姜得了92分，问他的成绩排名最低可能是第几名？\n\n- **A**. 4　√\n- **B**. 5\n- **C**. 7\n- **D**. 8"
+    },
+    {
+      "year": 2026,
+      "qid": "19526340",
+      "primary_class": "几何",
+      "positions": [
+        {
+          "paper": "2026国考行测（副省级）",
+          "number": 75,
+          "misclassified_in": null,
+          "source_path": "行测/2026国考行测（副省级）.md"
+        },
+        {
+          "paper": "2026国考行测（地市级）",
+          "number": 72,
+          "misclassified_in": null,
+          "source_path": "行测/2026国考行测（地市级）.md"
+        }
+      ],
+      "stem": "<p>一块梯形场地如下图所示，已知OA=0.6OD，现在需要将这块场地拓展为一块长方形场地，问扩展后场地面积比原来至少增加：</p><p><img width=\"300px\" height=\"282px\" src=\"图片/90-图片/题目图/19ad3e050a29865.png\" /></p>\n\n- **A**. 20%\n- **B**. 25%　√\n- **C**. 40%\n- **D**. 50%"
+    },
+    {
+      "year": 2026,
+      "qid": "19526403",
+      "primary_class": "排列组合概率",
+      "positions": [
+        {
+          "paper": "2026国考行测（地市级）",
+          "number": 75,
+          "misclassified_in": null,
+          "source_path": "行测/2026国考行测（地市级）.md"
+        }
+      ],
+      "stem": "<p>某新技术论坛在3个分会场安排4个领域的12场报告，安排如下表。小华希望在同一天听4个领域的报告各1场，问他有多少种不同的选择方式？</p><p><img width=\"600px\" height=\"180px\" src=\"图片/90-图片/题目图/19ad4be10680729.png\" /></p>\n\n- **A**. 6\n- **B**. 8\n- **C**. 10\n- **D**. 12　√"
+    },
+    {
+      "year": 2026,
+      "qid": "19526360",
+      "primary_class": "方程比例平均年龄",
+      "positions": [
+        {
+          "paper": "2026国考行测（副省级）",
+          "number": 76,
+          "misclassified_in": null,
+          "source_path": "行测/2026国考行测（副省级）.md"
+        },
+        {
+          "paper": "2026国考行测（地市级）",
+          "number": 73,
+          "misclassified_in": null,
+          "source_path": "行测/2026国考行测（地市级）.md"
+        }
+      ],
+      "stem": "甲和乙办公室各有4名职工，乙办公室职工平均年龄为32岁。现从甲办公室调动1人到乙办公室，2个办公室职工平均年龄都增加了2岁。问调动后甲办公室职工的平均年龄为多少岁？\n\n- **A**. 50　√\n- **B**. 48\n- **C**. 46\n- **D**. 44"
+    },
+    {
+      "year": 2026,
+      "qid": "19526316",
+      "primary_class": "工程效率资源调配",
+      "positions": [
+        {
+          "paper": "2026国考行测（副省级）",
+          "number": 77,
+          "misclassified_in": null,
+          "source_path": "行测/2026国考行测（副省级）.md"
+        }
+      ],
+      "stem": "<p>甲、乙两个工程队单独完成A、B、C三个工程，所需时间如下：</p><p><img width=\"489px\" height=\"104px\" src=\"图片/90-图片/题目图/19ad3c789ed3cef.png\" /></p><p>问两队合作完成这3个工程至少需要多少天（不足1天算1天）？</p>\n\n- **A**. 18\n- **B**. 17\n- **C**. 16\n- **D**. 15　√"
+    },
+    {
+      "year": 2026,
+      "qid": "19526328",
+      "primary_class": "周期日期",
+      "positions": [
+        {
+          "paper": "2026国考行测（副省级）",
+          "number": 78,
+          "misclassified_in": null,
+          "source_path": "行测/2026国考行测（副省级）.md"
+        },
+        {
+          "paper": "2026国考行测（地市级）",
+          "number": 74,
+          "misclassified_in": null,
+          "source_path": "行测/2026国考行测（地市级）.md"
+        }
+      ],
+      "stem": "某社区干部每周一参加工作例会，每月10日、20日接访群众。已知8月与9月共有2次接访群众与工作例会在同一天，问当年9月1日是：\n\n- **A**. 周三\n- **B**. 周二\n- **C**. 周六　√\n- **D**. 周五"
+    },
+    {
+      "year": 2026,
+      "qid": "19526425",
+      "primary_class": "行程",
+      "positions": [
+        {
+          "paper": "2026国考行测（副省级）",
+          "number": 79,
+          "misclassified_in": null,
+          "source_path": "行测/2026国考行测（副省级）.md"
+        }
+      ],
+      "stem": "甲、乙、丙三辆车同时从环形道路同一点出发匀速行驶，其中甲和乙顺时针行驶，丙逆时针行驶，且甲、乙、丙的速度比为4：5：6。已知甲丙和乙丙第一次相遇的时间间隔为5秒，问出发后多久乙第一次追上甲？\n\n- **A**. 不到8分钟\n- **B**. 8分钟~9分钟之间\n- **C**. 9分钟~10分钟之间　√\n- **D**. 超过10分钟"
+    },
+    {
+      "year": 2026,
+      "qid": "19526426",
+      "primary_class": "等差数列应用",
+      "positions": [
+        {
+          "paper": "2026国考行测（副省级）",
+          "number": 80,
+          "misclassified_in": null,
+          "source_path": "行测/2026国考行测（副省级）.md"
+        }
+      ],
+      "stem": "公司1月销售额为w元，从2月开始每个月的销售额都比上个月高k元。已知一季度完成全年销售目标的18%，上半年完成全年销售目标的48%，问公司全年实际销售额将比销售目标高多少元？\n\n- **A**. 21k\n- **B**. 28k\n- **C**. 33k　√\n- **D**. 44k"
+    }
+  ]
+}
