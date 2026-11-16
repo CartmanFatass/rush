@@ -2,16 +2,16 @@
 
 语料本体在 `/home/fires/projects/Learn-to-Write/corpus/`，**不在本仓库**。本文件是它的索引，由 `analysis/corpus_manifest.py` 生成，保证分析可复现。
 
-合计 **29,111 个文件 / 166 MB**。
+合计 **29,195 个文件 / 167 MB**。
 
 ## 按层
 
 | 层 | 文件 | 大小 |
 |---|---:|---:|
-| `A0_中央文件` | 40 | 1 MB |
+| `A0_中央文件` | 75 | 2 MB |
 | `A1_部委发布` | 788 | 5 MB |
 | `B1_英文媒体` | 6,834 | 59 MB |
-| `B_主流媒体` | 7,248 | 34 MB |
+| `B_主流媒体` | 7,297 | 34 MB |
 | `C1_地方党报` | 11,489 | 46 MB |
 | `C_地方实践` | 472 | 1 MB |
 | `D_学术智库` | 178 | 5 MB |
@@ -29,20 +29,20 @@
 | `huanqiu` | B_主流媒体 | 456 | 2.5 MB | 2026-01-04 → 2026-07-19 | 456/456 |
 | `inbox` | B_主流媒体 | 382 | 1.8 MB | 2025-01-02 → 2026-09-17 | 382/382 |
 | `guangming` | B_主流媒体 | 378 | 2.0 MB | 2021-10-26 → 2026-11-16 | 378/378 |
+| `qiushi` | B_主流媒体 | 254 | 1.9 MB | 2024-11-16 → 2026-11-16 | 205/254 |
 | `jingjiwang` | B_主流媒体 | 235 | 1.0 MB | 2025-06-23 → 2026-11-16 | 235/235 |
 | `liaowang` | B_主流媒体 | 216 | 2.0 MB | 2024-09-18 → 2026-11-10 | 216/216 |
-| `qiushi` | B_主流媒体 | 205 | 1.3 MB | 2025-05-30 → 2026-11-16 | 205/205 |
 | `banyuetan` | B_主流媒体 | 199 | 0.7 MB | 2026-01-04 → 2026-11-16 | 199/199 |
 | `osint-yicai_news` | A1_部委发布 | 156 | 1.1 MB | 2026-08-21 → 2026-10-02 | 0/156 |
 | `aisixiang` | D_学术智库 | 131 | 3.9 MB | 2026-05-21 → 2026-07-20 | 131/131 |
 | `osint-21jingji_news` | A1_部委发布 | 130 | 0.9 MB | 2026-08-20 → 2026-10-02 | 0/130 |
 | `xuexi-shibao` | B_主流媒体 | 113 | 0.9 MB | 2026-05-31 → 2026-11-16 | 113/113 |
 | `rss` | B_主流媒体 | 100 | 0.4 MB | 2025-05-24 → 2025-06-05 | 100/100 |
+| `_primary-sources` | A0_中央文件 | 75 | 2.1 MB | 2020-05-29 → 2026-11-01 | 40/75 |
 | `osint-stcn_news` | A1_部委发布 | 56 | 0.4 MB | 2026-08-21 → 2026-08-31 | 0/56 |
 | `osint-ndrc_news` | A1_部委发布 | 49 | 0.1 MB | 2025-12-25 → 2026-08-28 | 0/49 |
 | `_academic` | D_学术智库 | 47 | 0.9 MB | 2024-04-02 → 2026-10-06 | 47/47 |
 | `osint-mofcom_news` | A1_部委发布 | 43 | 0.1 MB | 2026-07-04 → 2026-08-31 | 0/43 |
-| `_primary-sources` | A0_中央文件 | 40 | 1.4 MB | 2020-05-29 → 2026-03-05 | 40/40 |
 | `osint-safe_news` | A1_部委发布 | 40 | 0.2 MB | 2026-04-24 → 2026-08-28 | 0/40 |
 | `osint-stats_nbs` | A1_部委发布 | 39 | 0.2 MB | 2026-05-15 → 2026-08-31 | 0/39 |
 | `osint-nea_news` | A1_部委发布 | 35 | 0.1 MB | 2025-10-29 → 2026-08-28 | 0/35 |
@@ -103,6 +103,12 @@ python -m tools.collect.download_globaltimes_opinion
 python -m tools.collect.download_guangming_commentary lilun pinglun wenhua --start-date 2020-01-01
 ```
 
+**求是**
+
+```bash
+python -m tools.collect.download_qiushi_theory qswp shelunpinglun liwenxuan --start-date 2020-01-01
+```
+
 **经济日报**
 
 ```bash
@@ -113,12 +119,6 @@ python -m tools.collect.download_jingjiwang_commentary ent --start-date 2020-01-
 
 ```bash
 python -m tools.collect.download_liaowang_commentary sp2 dyxx zglzjs szcl rgc sz zcjm rdjx tbbd lwft --start-date 2020-01-01
-```
-
-**求是**
-
-```bash
-python -m tools.collect.download_qiushi_theory qswp shelunpinglun liwenxuan --start-date 2020-01-01
 ```
 
 **半月谈**
@@ -157,6 +157,12 @@ python -m tools.collect.download_studytimes_commentary llwp llsd sxll whjy --sta
 python -m tools.collect.download_rss_feeds
 ```
 
+**中央文件（政府工作报告/五年规划/党代会报告/国务院文件）**
+
+```bash
+python -m tools.collect.download_primary_sources
+```
+
 **stcn_news**
 
 ```bash
@@ -173,12 +179,6 @@ osint 采集器
 
 ```bash
 osint 采集器
-```
-
-**中央文件（政府工作报告/五年规划/党代会报告/国务院文件）**
-
-```bash
-python -m tools.collect.download_primary_sources
 ```
 
 **safe_news**

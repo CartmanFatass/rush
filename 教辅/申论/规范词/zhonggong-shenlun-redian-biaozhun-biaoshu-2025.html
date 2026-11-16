@@ -1,0 +1,226 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+	<meta charset="UTF-8">
+	<meta name="keywords" content="书名,中公公考2025公务员录用考试专项教材考公国考省考市考题库资料备考：申论热点标准表述,作者,李永新 张红军 著,人民日报出版社,2024.10,7511537200, 9787511537201,购买,价格,邮购,网购,二手,出售,定价,打折,优惠" />
+	<meta name="description" content="《中公公考2025公务员录用考试专项教材考公国考省考市考题库资料备考：申论热点标准表述》作者 李永新 张红军 著，出版：人民日报出版社 2024.10，isbn：7511537200, 9787511537201。缺书网提供准确的比价，齐全的书目检索。" />
+	<title>中公公考2025公务员录用考试专项教材考公国考省考市考题库资料备考：申论热点标准表述 - 李永新 张红军 著 - 缺书网</title><link href="/css.css?_=1689777057" rel="stylesheet" type="text/css" /></head>
+<body>
+<div id="wrap">
+
+<script type="text/javascript">
+
+var userid = 0
+function $(id)
+{
+	return (document.getElementById(id))
+}
+
+function displayNode(id_node)
+{
+	$(id_node).style.display = ""
+}
+
+function concealNode(id_node)
+{
+	$(id_node).style.display = "none"
+}
+
+var xmlhttp
+function getXMLDoc(url, cfunc)
+{
+	if(window.XMLHttpRequest)
+		xmlhttp=new XMLHttpRequest()
+	else
+		xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+	xmlhttp.onreadystatechange=cfunc;
+	xmlhttp.open("GET", url, true);
+	xmlhttp.send();
+}
+
+function postXMLDoc(url,post_text,cfunc)
+{
+	if(window.XMLHttpRequest)
+		xmlhttp=new XMLHttpRequest()
+	else
+		xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+	xmlhttp.onreadystatechange=cfunc;
+	xmlhttp.open("POST",url,true);
+	xmlhttp.send(post_text);
+}
+
+</script>
+
+	<div id="top">
+		<div id="top_c">
+		<div class="top_right"><a target="_blank" href="http://weibo.com/queshu" title="缺书网官方认证微博"><i class="weibo_image"></i></a><a href="/about/weixin" onmouseover="displayNode('weixin_more')" onmouseout="concealNode('weixin_more')"><i class="weixin_image"></i></a><div id="weixin_more" class="more_share" style="display: none;" onblur="this.style.display='none'"><span><em></em></span><img alt="" src="http://www.queshu.com/pic/gongzhong_120.jpg" width="180"><p>微信公众号：缺书网</p></div><a class="" href="/account/reg">注 册</a><a class="top_link last_right" href="/account/login">登 录</a></div>
+		</div>
+	</div>
+	<div id="header">
+		<div id="header_c">
+			<a id="logo" href="/"><img alt="queshu_logo" src="/pic/logo2.png" border="0"></a>
+			<ul class="nav_ul">
+				<!-- <li class="nav_li"><a href="/i/">原版书</a></li> -->
+				<li class="nav_li"><a href="/sale/">促销</a></li>
+				<li class="nav_li"><a href="/jianlou/">捡漏</a></li>
+			</ul>
+			<div id="search">
+				<form id="search_c" name="input" action="/search/" method="get"><input id="search_input" maxlength="100" type="text" name="c" value="输入书名、作者或ISBN，开始比价" onblur="this.style.color='#999999';if(this.value=='') this.value='输入书名、作者或ISBN，开始比价';" onfocus="this.style.color='#000000';if(this.value=='输入书名、作者或ISBN，开始比价') this.value='';">					<input id="search_btn" type="submit" value="搜 书">
+				</form>
+			</div>
+		</div>
+
+	</div>
+
+
+<script type="text/javascript">
+
+var userpic = ""
+var username = ""
+
+function favorite(type,id,read,ck)
+{
+	if(userid <= 0)
+	{
+		$("favorite_3").innerHTML = '<span id="cheng">请登录</span>'
+		window.location.replace('/account/login')
+		return
+	}
+
+	var have_ini = $("have_ini").value
+	var read_ini = $("read_ini").value
+	var vote_ini = $("vote_ini").value
+	
+	if (type == "wishbook" || (type == "havebook" && id < 0)) {
+		if (type == "havebook" && id < 0) {
+			if ((read == 0 && read_ini == 0) || (read > 0 && have_ini == 0)) {
+				if (!confirm("确认从书架中删除？")) {
+					return
+				}
+			}
+		}
+
+		var url_fav = "/ajax/favorite?type="+type+"&id="+id+"&read="+read+"&ck="+ck
+		getXMLDoc(url_fav, function() {
+			if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
+				if (xmlhttp.responseText == "OK" || xmlhttp.responseText == "deleted") {
+					//wish
+					if (type == "wishbook" && id > 0) {
+						$("favorite_1").innerHTML = '<span id="favorite_wish" class="btn_favorite"><span class="favorite_text">想&nbsp;要<a title="从购书单中除去" onclick="favorite(\'wishbook\',-48342656,0,\'\')" href="javascript:;"><span id="favorite_1_s" class="btn_selected">　</span></a></span></span>'
+						$("favorite_3").innerHTML = '<span class="qian">成功收入购书单</span>'
+						$("wish_ini").value = 1
+					}
+					//unwish
+					else if (type == "wishbook") {
+						$("favorite_1").innerHTML = '<a title="加入购书单比价" onclick="favorite(\'wishbook\',48342656,0,\'\')" href="javascript:;"><span id="favorite_wish" class="btn_favorite"><span class="favorite_text">想&nbsp;要　</span></span></a>'
+						$("favorite_3").innerHTML = '<span class="qian">取消想要成功</span>'
+						$("wish_ini").value = 0
+					}
+					//have、unhave、unread
+					else {
+						if (id > 0) {
+							$("favorite_3").innerHTML = '<span class="qian">收入书架成功</span>'
+						}
+						else if (xmlhttp.responseText == "deleted") {
+							$("favorite_3").innerHTML = '<span class="qian">删除成功</span>'
+						}
+						else {
+							$("favorite_3").innerHTML = '<span class="qian">取消成功</span>'
+						}
+						window.location.reload()
+					}
+				}
+
+				else if (xmlhttp.responseText == "0") {
+					$("favorite_3").innerHTML='<span id="cheng">请登录</span>'
+					window.location.replace('/account/login')
+				}
+				else if (xmlhttp.responseText == "-5") {
+					$("favorite_3").innerHTML = '<span id="cheng">正在刷新页面</span>'
+					window.location.reload() 
+				}
+				else {
+					$("favorite_3").innerHTML = '<span class="qian">请刷新页面后重试</span>'
+				}
+				$("favorite_3").style.display = ""
+				setTimeout(function(){$("favorite_3").innerHTML = "";},1500)
+			}
+		})
+	}
+
+	else  //show box
+	{
+		$("have_box").value = have_ini
+		$("read_box").value = read_ini
+		$("vote_box").value = vote_ini
+
+		for(var i = 0; i < 4; i++)  //四个按钮
+		{
+			if(i == read || (i == 0 && (have_ini == 1 || read > 0)) || (read == 0 && i == read_ini))
+				$("box_btn_2" + i).className = "box_btn_s"
+			else
+				$("box_btn_2" + i).className = "box_btn"
+		}
+
+		for(i = 1; i <= 2; i++)  //评价按钮
+		{
+			if(i == vote_ini || (i == 1 && vote_ini == ''))
+				$("box_btn_1" + i).className = "news_dig_" + i + i
+			else
+				$("box_btn_1" + i).className = "news_dig_" + i
+		}
+
+		if(read == 0)  //处理下tag
+		{
+			$("have_box").value = 1
+			$("box_tag_1").innerHTML = ar_tag_read[read_ini]
+			$("box_tag_2").innerHTML = "拥有，"
+		}
+		else if(read >= 1 && read <= 3)  //选我读
+		{
+			$("read_box").value = read
+			$("box_tag_1").innerHTML = ar_tag_read[read]
+
+			$("box_tag_2").innerHTML = "拥有，"
+			$("have_box").value = 1
+		}
+		$("box").style.top = (getScrollTop() + 120) + "px"
+		displayNode("overlay")
+		displayNode("box")
+	}
+}
+
+</script>
+
+<script type="text/javascript" src="/js/book.js"></script>
+
+<script type="text/javascript" src="/js/dig.js"></script>
+
+<div id="body_main"><div id="main"><div id="main_book"><div id="book_left"><h1 id="h1">中公公考2025公务员录用考试专项教材考公国考省考市考题库资料备考：申论热点标准表述</h1><div class="bookinfo"><div id="book_pic"><div id="pic200"><img class="img200" height="200" alt="中公公考2025公务员录用考试专项教材考公国考省考市考题库资料备考：申论热点标准表述" src="http://img11.360buyimg.com/n7/jfs/t1/264439/23/8253/76688/6779f5b2Ff401cde5/6e0597b6f7aaf370.jpg" onerror="this.onerror=null;this.src='/pic/no_image_200.jpg'"></div></div><div class="book_info"><span class="qian">作者：</span>李永新 张红军 著<br><span class="qian">出版：</span><a href="/press/1000327/">人民日报出版社</a> 2024.10<br><span class="qian">丛书：</span>公务员录用考试专项教材<br><span class="qian">页数：</span>304<br><span class="qian">定价：</span>59.00 元<br><span class="qian">ISBN-13：</span>9787511537201<br><span class="qian">ISBN-10：</span>7511537200&emsp;<a target="_blank" href="http://book.douban.com/isbn/9787511537201/">去豆瓣看看&nbsp;<i class="out_link" style="margin-top:5px;"></i></a></div><div class="book_info"><div id="favorite"><div id="favorite_1"><a title="加入购书单比价" onclick="favorite('wishbook',48342656,0,'')" href="javascript:;"><span id="favorite_wish" class="btn_favorite"><span class="favorite_text">想&nbsp;要　</span></span></a></div><div id="favorite_2" onmouseover="visibleNode('dropdown_favorite')" onmouseout="invisibleNode('dropdown_favorite')"><div id="favorite_have"><a href="javascript:;"><span class="btn_favorite favorite_20"><span class="favorite_text">拥&nbsp;有　</span></span></a></div><div id="dropdown_favorite" style="visibility: hidden;"><div id="favorite_20"><a onclick="favorite('havebook',48342656,0,'')" href="javascript:;"><span class="btn_favorite favorite_20"><span class="favorite_text">拥&nbsp;有　</span></span></a></div><div id="favorite_21"><a onclick="favorite('havebook',48342656,1,'')" href="javascript:;"><span class="btn_favorite favorite_21"><span class="favorite_text">想&nbsp;读　</span></span></a></div><div id="favorite_22"><a onclick="favorite('havebook',48342656,2,'')" href="javascript:;"><span class="btn_favorite favorite_22"><span class="favorite_text">读&nbsp;过　</span></span></a></div><div id="favorite_23"><a onclick="favorite('havebook',48342656,3,'')" href="javascript:;"><span class="btn_favorite favorite_23"><span class="favorite_text">在&nbsp;读　</span></span></a></div></div></div><div id="favorite_3" style="display: none;"></div></div></div></div><div class="bookinfo"><div id="dig_book_48342656" class="dig_book"><a onclick="dig('book',1,48342656,'',1)" href="javascript:;" title="好"><span id="dig_book_48342656_1" class="news_dig_1"><span id="vote_book_48342656_1" class="dig_vote">0</span></span></a><a onclick="dig('book',2,48342656,'',1)" href="javascript:;" title="孬"><span id="dig_book_48342656_2" class="news_dig_2"><span id="vote_book_48342656_2" class="dig_vote">0</span></span></a><span id="book_48342656_info" class="news_dig_info"><span class="font_12">暂无人评价...</span></span></div></div><div class="detail bookinfo" id="detail_catalog" style="display: none;"><div class="detail_head"><span class="sale_btn sale_btn0 right">目　录</span><a href="javascript:;" onclick="concealNode('detail_catalog'); displayNode('detail_intro');"><span id="sale_btn0" class="sale_btn right">内容简介</span></a></div><div class="detail_body">　　目录<br>　　第一篇必备理论政策<br>　　第一章习近平新时代中国特色社会主义思想<br>　　第二章中共中央及国务院重要会议精神<br>　　第一节党的二十大报告（要点）<br>　　第二节党的二十届三中全会《决定》（要点）<br>　　第三节其他重要文件及重要讲话（要点）<br>　　第二篇考点深度剖析<br>　　第一章法治兴则国家兴<br>　　——法治是中国式现代化的重要保障<br>　　主题剖析<br>　　考点精讲<br>　　考点1法治思维<br>　　考点2高质量司法服务<br>　　考点3高素质执法队伍建设<br>　　考点4执法为民<br>　　考点5法治文化建设<br>　　考点6乡村法治建设<br>　　第二章服务至上暖人心<br>　　——“放管服”改出满满获得感<br>　　主题剖析<br>　　考点精讲<br>　　考点1简政放权<br>　　考点2放管结合<br>　　考点3优化政务服务<br>　　考点4公共服务高质量发展<br>　　第三章国泰民安万家宁<br>　　——推进国家安全体系和能力现代化<br>　　主题剖析<br>　　主题精讲<br>　　考点1应急管理<br>　　考点2安全生产<br>　　考点3交通安全<br>　　考点4金融安全<br>　　第四章中国之治显智慧<br>　　——打造共建共治共享社会治理新格局<br>　　主题剖析<br>　　考点精讲<br>　　考点1城市治理<br>　　考点2乡村治理<br>　　考点3社区治理<br>　　考点4智慧治理<br>　　第五章立柱强基方致远<br>　　——构建支持全面创新体制机制<br>　　主题剖析<br>　　考点精讲<br>　　考点1新质生产力<br>　　考点2科技创新<br>　　考点3科技体制改革<br>　　考点4知识产权保护<br>　　考点5品牌建设<br>　　第六章立柱强基方致远<br>　　——以科技创新引领现代化产业体系建设<br>　　主题剖析<br>　　考点精讲<br>　　考点1传统产业转型升级<br>　　考点2数字经济<br>　　考点3新兴产业<br>　　考点4中小企业发展<br>　　第七章文脉国脉紧相连<br>　　——深化文化体制机制改革<br>　　主题剖析<br>　　考点精讲<br>　　考点1新时代文明实践<br>　　考点2基层文化<br>　　考点3传统文化<br>　　考点4文化交流<br>　　考点5科学素养<br>　　考点6文化产业<br>　　考点7公民道德<br>　　第八章聚天下英才而用<br>　　——以长远眼光厚植人才成长沃土<br>　　主题剖析<br>　　考点精讲<br>　　考点1人才回流<br>　　考点2人才的政治引领<br>　　考点3新职业人才<br>　　考点4党员干部人才队伍建设<br>　　考点5人才发展体制机制改革<br>　　第九章挺膺担当挥方遒<br>　　——书写为中国式现代化挺膺担当的青春篇章<br>　　主题剖析<br>　　考点精讲<br>　　考点1青年价值观<br>　　考点2青年发展<br>　　第十章教育强则国家强<br>　　——建设教育强国夯实国家富强之基<br>　　主题剖析<br>　　考点精讲<br>　　考点1职业教育<br>　　考点2教育公平<br>　　考点3“五育”融合<br>　　第十一章共筑全民健康梦<br>　　——把守护人民健康的防线筑得更牢固、更高效<br>　　主题剖析<br>　　考点精讲<br>　　考点1社会心态<br>　　考点2全民健身<br>　　考点3医疗保障<br>　　考点4“互联网+医疗”<br>　　第十二章治国有常民为本<br>　　——健全保障和改善民生制度体系<br>　　主题剖析<br>　　考点精讲<br>　　考点1就业优先<br>　　考点2收入分配<br>　　考点3养老服务<br>　　考点4社会保障<br>　　第十三章喜看稻菽千层浪<br>　　——谱写新时代乡村全面振兴新篇章<br>　　主题剖析<br>　　考点精讲<br>　　考点1粮食安全<br>　　考点2农村产业发展<br>　　考点3农村集体经济<br>　　考点4农村公路管理<br>　　考点5数字乡村建设<br>　　考点6城乡融合发展<br>　　第十四章青山作伴水为邻<br>　　——深化生态文明体制改革<br>　　主题剖析<br>　　考点精讲<br>　　考点1生态修复<br>　　考点2垃圾分类<br>　　考点3绿色低碳生活方式<br>　　第三篇热点素材集锦<br>　　第一章通用类热点素材<br>　　热点1全面深化改革<br>　　热点2中国式现代化<br>　　热点3新质生产力<br>　　热点4文化自信<br>　　热点5优化服务<br>　　热点6社会治理<br>　　热点7数字经济<br>　　热点8青年青春<br>　　热点9绿色发展<br>　　第二章乡镇类热点素材<br>　　热点1乡村文化<br>　　热点2农村产业发展<br>　　热点3农村公路管理<br>　　热点4数字乡村建设<br>　　热点5城乡协调发展<br>　　第三章执法类热点素材<br>　　热点1法治思维<br>　　热点2高质量司法服务<br>　　热点3执法队伍建设<br>　　热点4执法为民<br>　　热点5法治文化<br>　　热点6乡村法律服务<br>　　热点7全民普法</div></div><div class="detail bookinfo" id="detail_intro" style="display: ;"><div class="detail_head"><a href="javascript:;" onclick="concealNode('detail_intro'); displayNode('detail_catalog');"><span id="sale_btn0" class="sale_btn right">目　录</span></a><span class="sale_btn sale_btn0 right">内容简介</span></div><div class="detail_body">　　《中公版·2025公务员录用考试专项教材：申论热点标准表述》是一本为考生量身打造的图书：<br>　　本书第一篇“必备理论政策”围绕习近平新时代中国特色社会主义思想和“十四五”规划纲要，由浅入深地介绍了我们所处的新时代需要掌握的新思想、需要明确的新目标，以及与此相适应的工作方法。<br>　　本书第二篇“考点深度剖析”在14个热门专题下，设置了61个考点，主要按照“重要意义—存在问题—对策建议”的逻辑对考点进行分解。<br>　　本书第三篇“热点素材集锦”结合通用类、乡镇类、执法类考试特点，精选21个高频考试热点，涉及中国式现代化、新质生产力、乡村文化、全民普法等，提供实用素材，拓宽考生的知识广度。<br><br></div></div><div id="seller_tabs"><span class="seller_right_now1"><span class="seller_right_now2">比价列表</span></span></div><div class="seller_body left" style="width: 576px;">暂无价格数据。</div></div><div id="book_right"><div class="stacked" id=right_weixin><div class="right_head"><h2 class="title_tab">公众号、微信群<span class="click_right"></span></h2></div><div class="right_item last"><div class="left imgcol_48" style="width: 120px; text-align: center; font-size: 14px; line-height:28px;"><img src="/pic/gongzhong_120.jpg" width="120"><b>缺书网</b><br>微信公众号</div><div class="right imgcol_48" style="width: 120px; text-align: center; font-size: 14px; line-height:28px;"><img src="/pic/jinqun_258.jpg" width="120"><b>扫码进群</b><br>实时获取购书优惠</div></div></div><div class="stacked right_state"><div class="right_head"><h2 class="title_tab">近一年参加折扣活动 2 次</h2></div><a href="/news/5703/"><div class="right_item"><div class="left imgcol_70 last_right_m"><img src="http://www.queshu.com/img/news/5/5703.jpg" width=48 style="float:left; margin-left:8px;"></div><div class="left bodycol_258 font_13">京东 六十万图书两件9折，三件88折　<span class="qian">5.11结束</span></div></div></a><a href="/news/5615/"><div class="right_item last"><div class="left imgcol_70 last_right_m"><img src="http://www.queshu.com/img/news/5/5615.jpg" width=48 style="float:left; margin-left:8px;"></div><div class="left bodycol_258 font_13">京东 数十万图书每满200减30　<span class="qian">2.4结束</span></div></div></a></div></div></div></div></div><div id="overlay" onclick="concealNode('box'); concealNode('overlay')" style="display: none;"></div><div id="box" style="display: none;"><input id="wish_ini" type="hidden" value="0" autocomplete="off"><input id="have_ini" type="hidden" value="0" autocomplete="off"><input id="read_ini" type="hidden" value="0" autocomplete="off"><input id="vote_ini" type="hidden" value="1" autocomplete="off"><input id="have_box" type="hidden" value="0" autocomplete="off"><input id="read_box" type="hidden" value="0" autocomplete="off"><input id="vote_box" type="hidden" value="1" autocomplete="off"><input id="id_box" type="hidden" value="48342656" autocomplete="off"><input id="ck_box" type="hidden" value="" autocomplete="off"><input id="tags_user" type="hidden" value="" autocomplete="off"><div id="box_title"><h2 id="h2">收入我的书架<a href="javascript:;" onclick="concealNode('box'); concealNode('overlay')"><span class="right closeBox">　×&nbsp;</span></a></h2></div><div class="bookinfo"><div class="box_left">　 收藏到：</div><div class="box_right"><a href="javascript:;" onclick="selectBox(1)"><span class="box_btn" id="box_btn_21">想&nbsp;读</span></a><a href="javascript:;" onclick="selectBox(2)"><span class="box_btn" id="box_btn_22">读&nbsp;过</span></a><a href="javascript:;" onclick="selectBox(3)"><span class="box_btn" id="box_btn_23">在&nbsp;读</span></a><a href="javascript:;" onclick="selectBox(0)"><span class="box_btn" id="box_btn_20">拥&nbsp;有</span></a></div></div><div class="bookinfo"><div class="box_left">书架/标签：</div><div class="box_right"><div class="box_tags"><span id="box_tag_1"></span><span id="box_tag_2"></span><span id="box_tags"></span></div></div></div><div class="bookinfo"><div class="box_left">&nbsp;我的标签：</div><div class="box_right"><div id="user_tags"></div><input id="input_tag" type="text" value="" maxlength="30" width="52px" onkeypress="if(event.keyCode==13) {addTag()}" autocomplete="off"><a href="javascript:;" onclick="addTag()"><span class="btn_blue font_12">添加</span></a>　<span class="hui_6 font_13">（一次添加一个标签）</span><span id="box_info"></span></div></div><div class="bookinfo"><div class="box_left">　　 评价：</div><div class="box_right"><a id="box_vote_11" href="javascript:;" onclick="selectBox(11)"><span class="news_dig_1" id="box_btn_11">&nbsp;好</span></a><a id="box_vote_12" href="javascript:;" onclick="selectBox(12)"><span class="news_dig_2" id="box_btn_12">&nbsp;孬</span></a></div></div><div class="bookinfo"><div class="box_left">　　 短评：</div><div class="box_right"><textarea id="input_commentBox_book_0" class="input_comment_book" style="height:95px;width:449px;" oninput="countChar('commentBox','book',0)" onpropertychange="countChar('commentBox','book',0)" onkeyup="countChar('commentBox','book',0)" maxlength="300"></textarea></div></div><div class="bookinfo"><div class="box_left">　</div><div class="box_right"><a id="submit_commentBox_book_0" class="click_right" onclick="submitBox()" href="javascript:;"><span class="btn_right">保存</span></a><span class="input_length" id="length_commentBox_book_0">300</span></div></div></div></div>
+</div>
+
+
+	<script>
+	var _hmt = _hmt || [];
+	(function() {
+	  var hm = document.createElement("script");
+	  hm.src = "https://hm.baidu.com/hm.js?7f16c13828d80d379d564ef8de665958";
+	  var s = document.getElementsByTagName("script")[0]; 
+	  s.parentNode.insertBefore(hm, s);
+	})();
+	</script>
+<div class="footer">
+	<div class="foot">
+		<span class="left qian">
+			© 2026 queshu.com　　<a href="http://beian.miit.gov.cn">鲁ICP备17055390号-1</a>
+		</span>
+		<span class="right">
+			<a href="/about" id="last">关于我们</a>　　<a href="/about/weixin" id="last">官方微信</a>
+
+	</div>
+</div>
+
+
+
+</body>
+</html>

@@ -1,0 +1,272 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1"><title>
+	用户登录--中图网
+</title><meta http-equiv="Content-Type" content="text/html; charset=gb2312" /><meta name="keywords" content="中图网，图书,网上书店,书店,网络书店,新华书店,特价书,特价图书,书城,小说,漫画,写真,科技图书,计算机图书,考研图书,少儿图书,管理图书,教材" /><link href="//o.bookschina.com/css/reset.css" rel="stylesheet" /><link href="//o.bookschina.com/css/registLogin.css?id=03215020202" rel="stylesheet" />
+    <script type="text/jscript">
+        window.AliyunCaptchaConfig = {
+            // 必填，验证码示例所属地区，支持中国内地（cn）、新加坡（sgp）
+            region: "cn",
+            // 必填，身份标。开通阿里云验证码2.0后，您可以在控制台概览页面的实例基本信息卡片区域，获取身份标
+            prefix: "rsjbtv",
+        };
+    </script>
+    <script type="text/javascript"
+        src="https://o.alicdn.com/captcha-frontend/aliyunCaptcha/AliyunCaptcha.js">
+    </script>
+    <script type="text/javascript" src="//o.bookschina.com/js/jquery.min.js"></script>
+    <script type="text/javascript" src="../shopcar/js/jsHelper.js"></script>
+    <script type="text/javascript" src="../js/login.js"></script>
+    <script src="//g.alicdn.com/sd/nvc/1.1.112/guide.js" type="text/javascript" charset="utf-8"></script>
+    <script src="//g.alicdn.com/sd/nch5/index.js?t=2015052012" type="text/javascript" charset="utf-8"></script>
+</head>
+<body>
+    <!--头部-->
+
+    <div class="loginHead">
+        <div class="logoBar">
+            <div class="logoBarInner">
+                <div class="logo fl">
+                    <h1>
+                        <a href="\" title="中图网">
+                            <img src="//o.bookschina.com/images/logo0508.png" alt="中图网" />
+                        </a>
+                    </h1>
+                </div>
+                <div class="ad fr">
+                    <span class="zhengbang">正版好图书</span><span class="liujiu">全场满19包邮</span><span class="yizhe">特价书一折起</span>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--登录-->
+    <div class="content loginWrap">
+        <input type="hidden" id="loginurl" value="/9176756.htm" />
+        <div class="w1000">
+            <div class="loginForm">
+                <div class="loginTitle"><b>用户登录</b></div>
+
+                <div class="loginInputWrap">
+
+                    <div class="channelKind">
+                        <div class="tabTit">
+                            <a href="javascript:void(0)" class="one cur" data-id="0"><span>账号密码登陆</span></a>
+                            <a href="javascript:void(0)" class="" data-id="1"><span>手机短信登陆</span></a>
+                        </div>
+                        <div class="tabCon" id="channeLazyLoad">
+                            <div class="tabItem cur">
+                                <div class="inputItem">
+                                    <div class="labInpWr">
+                                        <div class="label">
+                                            <span>用户名：</span>
+                                        </div>
+                                        <div class="inputWrap">
+                                            <span class="inputPad">
+                                                <input type="text" style="display: none" />
+                                                <input type="password" style="display: none" />
+                                                <input type="text" class="inputBlock" value="" autocomplete="off" id="userName" placeholder="用户名/邮箱/已验证手机" />
+                                            </span>
+                                            <span class="clearInput"></span>
+                                        </div>
+                                    </div>
+                                    <div class="megTip">
+                                        <span>请输入用户名/邮箱/已验证手机</span>
+                                    </div>
+                                </div>
+                                <div class="inputItem">
+                                    <div class="labInpWr">
+                                        <div class="label">
+                                            <span>密码：</span>
+                                        </div>
+                                        <div class="inputWrap">
+                                            <span class="inputPad">
+                                                <input type="password" class="inputBlock" id="userPas" autocomplete="off" placeholder="密码" />
+                                            </span>
+                                            <span class="clearInput"></span>
+                                        </div>
+                                    </div>
+                                    <div class="megTip">
+                                        <span>请输入密码</span>
+                                    </div>
+                                </div>
+                                <div id="alDiv" style="width: 505px; margin: 0 auto;">
+                                    <div id="__nc" style="width: 365px; height: 50px; padding-top: 5px; display: none">
+                                        <div id="nc"></div>
+                                    </div>
+                                </div>
+                                <div class="inputItem imgcodeWrap" style="display: none">
+                                    <div class="labInpWr">
+                                        <div class="label">
+                                            <span>验证码：</span>
+                                        </div>
+                                        <div class="inputWrap imgCodeWrap">
+                                            <span class="inputPad">
+                                                <input type="text" class="inputBlock" id="imgcode" autocomplete="off" placeholder="图片验证码" />
+                                            </span>
+                                            <span class="clearInput"></span>
+                                        </div>
+                                        <div class="imgWrap w1">
+                                            <img src="/Shop_Cart/YzmCode.aspx?ckname=ck&t=639304458957261847" />
+                                        </div>
+                                        <div class="changeImgCoad">
+                                            <a href="javascript:void(0)">换一换</a>
+                                        </div>
+                                    </div>
+                                    <div class="megTip">
+                                        <span>请填写图片中的字符，不区分大小写</span>
+                                    </div>
+                                </div>
+                                
+                            </div>
+                            <div class="tabItem">
+                                <div class="inputItem">
+                                    <div class="labInpWr">
+                                        <div class="label">
+                                            <span>用户名：</span>
+                                        </div>
+                                        <div class="inputWrap">
+                                            <span class="inputPad">
+                                                <input type="text" class="inputBlock" value="" id="phoneNumber" autocomplete="off" placeholder="请输入手机号" />
+                                            </span>
+                                            <span class="clearInput"></span>
+                                        </div>
+                                    </div>
+                                    <div class="megTip">
+                                        <span>请输入已验证手机</span>
+                                    </div>
+                                </div>
+                                <div id="alDiv1" style="width: 505px; margin: 0 auto;">
+                                    <div id="__nc1" style="width: 365px; height: 50px; margin-bottom: 30px; padding-top: 5px; display: none;">
+                                        <div id="nc1"></div>
+                                    </div>
+                                </div>
+                                <div class="inputItem imgcodeWrap" style="display: none">
+                                    <div class="labInpWr">
+                                        <div class="label">
+                                            <span>验证码：</span>
+                                        </div>
+                                        <div class="inputWrap imgCodeWrap">
+                                            <span class="inputPad">
+                                                <input type="text" class="inputBlock" id="imgcode1" autocomplete="off" placeholder="图片验证码" />
+                                            </span>
+                                            <span class="clearInput"></span>
+                                        </div>
+                                        <div class="imgWrap w2">
+                                            <img src="/Shop_Cart/YzmCode.aspx?ckname=ck&t=639304458957261847" />
+                                        </div>
+                                        <div class="changeImgCoad">
+                                            <a href="javascript:void(0)">换一换</a>
+                                        </div>
+                                    </div>
+                                    <div class="megTip">
+                                        <span>请填写图片中的字符，不区分大小写</span>
+                                    </div>
+                                </div>
+                                <div class="inputItem">
+                                    <div class="labInpWr">
+                                        <div class="label">
+                                            <span>手机验证码：</span>
+                                        </div>
+                                        <div class="inputWrap imgCodeWrap">
+                                            <span class="inputPad">
+                                                <input type="text" class="inputBlock" id="phoneCode" autocomplete="off" placeholder="请输入六位验证码" />
+                                            </span>
+                                            <span class="clearInput"></span>
+                                        </div>
+                                        <div class="imgWrap yzm" id="btnSendCode">获取验证码</div>
+                                    </div>
+                                    <div class="megTip">
+                                        <span>请输入验证码</span>
+                                    </div>
+                                </div>
+                                
+                            </div>
+                        </div>
+                        <div id="captcha-element"></div>
+                        <div class="loginBtn" id="btnLogin"><a href="javascript:void(0)">登录</a></div>
+                    </div>
+
+                    <div class="otherLink">
+                        <a href="/RegUser/forgetpwd.aspx" target="_blank" class="fogotPas">忘记密码？</a>
+                        <a href="/RegUser/Register.aspx?u=%2f9176756.htm" target="_blank" class="newUserReg">新用户注册&gt;&gt;</a>
+                    </div>
+                    <div class="otherLoginWrap">
+                        <div class="therLoginTit">
+                            <span>使用以下账号登录</span>
+                        </div>
+                        <div class="otherLogin">
+                            <a href="http://qq.bookschina.com/weibo/weibologin.aspx?url=http://www.bookschina.com/RegUser/weibologin.aspx?u=/9176756.htm" class="tsinalogin" id="tsinalogin"><span class="icon"></span>微博</a>
+                            <a href="http://qq.bookschina.com/qq/qqlogin.aspx?url=http://www.bookschina.com/RegUser/qqlogin.aspx?u=/9176756.htm" class="qqlogin" id="qqlogin"><span class="icon"></span>QQ</a>
+                            <a href="/RegUser/WxLogin.aspx?u=/9176756.htm" class="wxlogin" id="wxlogin"><span class="icon"></span>微信</a>
+                            <a href="/BaiDuLogin/BaiDuLogin.aspx?u=/9176756.htm" class="baidulogin" id="baidulogin"><span class="icon"></span>百度</a>
+
+                        </div>
+                    </div>
+
+                    <div class="explainLink">
+                        <p><a href="/RegUser/YinSi.aspx" target="_blank">《中图网用户注册协议及隐私政策》<em id="statrNum"></em></a></p>
+                        <p><a href="/Question/thirdexplain.asp" target="_blank">QQ、微博、百度登录绑定微信账号的解决方案</a></p>
+                    </div>
+
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <div class="loginRegistFoot">
+    <div class="footNav">
+        <ul>
+            <li><a href="/adservice/about.asp" target="_blank">本站简介</a></li>
+            <li><a href="/adservice/about.asp" target="_blank">帮助中心</a></li>
+            <li><a href="/adservice/about2.asp" target="_blank">联系我们</a></li>
+            <li style="background: no-repeat;"><a href="/adservice/bookshr.asp" target="_blank">招聘英才</a></li>
+        </ul>
+    </div>
+    <div class="certifica">
+        <div class="width820 clearfix">
+
+            <div class="credit_certifica">
+                <a href="javascript:void(0)" onclick="javascript:window.location.href='https://search.szfw.org/cert/l/CX20150319007127007283'" target="_blank" title="中图网诚信认证">
+                    <img src="https://image31.bookschina.com/pro-images/chengxin.jpg" alt="诚信认证">
+                </a>
+                <a href="javascript:void(0)" onclick="javascript:window.location.href='http://www.ectrustprc.org.cn/seal/splash/1000006.htm'" target="_blank" title="中图网电子商务诚信单位认证">
+                    <img src="https://image31.bookschina.com/pro-images/ectrust.gif" alt="电子商务诚信单位认证"></a>
+            </div>
+
+
+            <div class="licence">
+                <p><a href="http://beian.miit.gov.cn" target="_blank">京ICP备09013606号-3</a><a href="/include/type2.asp" target="_blank">京信市监发[2002]122号</a><span>海淀公安分局备案编号：1101083394</span></p>
+                <p><a href="https://image31.bookschina.com/pro-images/yyzz.jpg" target="_blank">营业执照</a><a href="https://image31.bookschina.com/pro-images/jyxkz.jpg" target="_blank">出版物经营许可证 京出发京批字第直110071</a></p>
+            </div>
+
+        </div>
+    </div>
+
+</div>
+
+<div style="display: none">
+    <script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?6993f0ad5f90f4e1a0e6b2d471ca113a";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</div>
+
+<div class="cusSer">
+    <div class="cusSerIn">
+        <a class="slide_min" onclick="openKeFu()">联系客服</a>
+    </div>
+</div>
+
+<script src="/js/kefu.js"></script>
+
+
+</body>
+</html>

@@ -1,8 +1,8 @@
 {
   "generated": "2026-11-15",
   "corpus_repo": "/home/fires/projects/Learn-to-Write",
-  "total_files": 29111,
-  "total_bytes": 173571882,
+  "total_files": 29195,
+  "total_bytes": 174994825,
   "sources": [
     {
       "source": "_academic",
@@ -22,13 +22,13 @@
       "name": "中央文件（政府工作报告/五年规划/党代会报告/国务院文件）",
       "layer": "A0_中央文件",
       "path": "corpus/articles/cn/_primary-sources",
-      "files": 40,
-      "bytes": 1457569,
+      "files": 75,
+      "bytes": 2206621,
       "date_min": "2020-05-29",
-      "date_max": "2026-03-05",
+      "date_max": "2026-11-01",
       "fetch": "python -m tools.collect.download_primary_sources",
       "tracked": 40,
-      "untracked": 0
+      "untracked": 35
     },
     {
       "source": "_web",
@@ -438,13 +438,13 @@
       "name": "求是",
       "layer": "B_主流媒体",
       "path": "corpus/articles/cn/qiushi",
-      "files": 205,
-      "bytes": 1311360,
-      "date_min": "2025-05-30",
+      "files": 254,
+      "bytes": 1985251,
+      "date_min": "2024-11-16",
       "date_max": "2026-11-16",
       "fetch": "python -m tools.collect.download_qiushi_theory qswp shelunpinglun liwenxuan --start-date 2020-01-01",
       "tracked": 205,
-      "untracked": 0
+      "untracked": 49
     },
     {
       "source": "renmin-ribao",

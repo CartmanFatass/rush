@@ -11,3 +11,9 @@ __pycache__/
 # 编辑器
 .DS_Store
 *.swp
+
+# 本地 HUD 工具状态
+.hud/
+
+# 抓取临时目录
+_tmp/
