@@ -1,0 +1,4487 @@
+[
+  {
+    "id": "QS_2019_01",
+    "source": "求是署名文章",
+    "year": 2019,
+    "ordinal": 1,
+    "title": "辩证唯物主义是中国共产党人的世界观和方法论",
+    "period_date": "2019-01-01",
+    "public_date": "2018-12-31",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2018-12-31",
+    "event_date": "2015-01-23",
+    "event_context": "（这是习近平总书记2015年1月23日在十八届中央政治局第二十次集体学习时的讲话。）",
+    "url": "https://www.qstheory.cn/dukan/qs/2018-12/31/c_1123923896.htm",
+    "topics": {
+      "党的建设": [
+        "中国共产党"
+      ],
+      "开放与外交": [
+        "世界"
+      ],
+      "认识与方法": [
+        "辩证",
+        "唯物",
+        "方法"
+      ]
+    }
+  },
+  {
+    "id": "QS_2019_02",
+    "source": "求是署名文章",
+    "year": 2019,
+    "ordinal": 2,
+    "title": "努力造就一支忠诚干净担当的高素质干部队伍",
+    "period_date": "2019-01-16",
+    "public_date": "2019-01-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2019-01-15",
+    "event_date": "2018-11-26",
+    "event_context": "（这是习近平总书记2018年11月26日在十九届中央政治局第十次集体学习时的讲话。）",
+    "url": "https://www.qstheory.cn/dukan/qs/2019-01/15/c_1123986997.htm",
+    "topics": {
+      "党的建设": [
+        "干部",
+        "担当"
+      ]
+    }
+  },
+  {
+    "id": "QS_2019_03",
+    "source": "求是署名文章",
+    "year": 2019,
+    "ordinal": 3,
+    "title": "推动我国生态文明建设迈上新台阶",
+    "period_date": "2019-02-01",
+    "public_date": "2019-01-31",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2019-01-31",
+    "event_date": "2018-05-18",
+    "event_context": "（这是习近平总书记2018年5月18日在全国生态环境保护大会上的讲话。）",
+    "url": "https://www.qstheory.cn/dukan/qs/2019-01/31/c_1124054331.htm",
+    "topics": {
+      "文化与文明": [
+        "文明"
+      ],
+      "生态与绿色": [
+        "生态"
+      ]
+    }
+  },
+  {
+    "id": "QS_2019_04",
+    "source": "求是署名文章",
+    "year": 2019,
+    "ordinal": 4,
+    "title": "加强党对全面依法治国的领导",
+    "period_date": "2019-02-16",
+    "public_date": "2019-02-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2019-02-15",
+    "event_date": "2018-08-24",
+    "event_context": "（这是习近平总书记2018年8月24日在中央全面依法治国委员会第一次会议上的讲话的一部分。）",
+    "url": "https://www.qstheory.cn/dukan/qs/2019-02/15/c_1124114454.htm",
+    "topics": {
+      "法治与制度治理": [
+        "法治",
+        "依法"
+      ]
+    }
+  },
+  {
+    "id": "QS_2019_05",
+    "source": "求是署名文章",
+    "year": 2019,
+    "ordinal": 5,
+    "title": "在新的起点上深化国家监察体制改革",
+    "period_date": "2019-03-01",
+    "public_date": "",
+    "date_basis": "刊期代公开日期，未独立认证",
+    "usable_date": "2019-03-01",
+    "event_date": "2018-12-13",
+    "event_context": "（这是习近平总书记2018年12月13日在十九届中央政治局第十一次集体学习时的讲话。）",
+    "url": "https://www.qstheory.cn/dukan/qs/2019-03/01/c_1124176280.htm",
+    "topics": {}
+  },
+  {
+    "id": "QS_2019_06",
+    "source": "求是署名文章",
+    "year": 2019,
+    "ordinal": 6,
+    "title": "加快推动媒体融合发展 构建全媒体传播格局",
+    "period_date": "2019-03-16",
+    "public_date": "",
+    "date_basis": "刊期代公开日期，未独立认证",
+    "usable_date": "2019-03-16",
+    "event_date": "2019-01-25",
+    "event_context": "（这是习近平总书记2019年1月25日在十九届中央政治局第十二次集体学习时的讲话。）",
+    "url": "https://www.qstheory.cn/dukan/qs/2019-03/16/c_1124241424.htm",
+    "topics": {}
+  },
+  {
+    "id": "QS_2019_07",
+    "source": "求是署名文章",
+    "year": 2019,
+    "ordinal": 7,
+    "title": "关于坚持和发展中国特色社会主义的几个问题",
+    "period_date": "2019-04-01",
+    "public_date": "",
+    "date_basis": "刊期代公开日期，未独立认证",
+    "usable_date": "2019-04-01",
+    "event_date": "2013-01-05",
+    "event_context": "（这是习近平总书记2013年1月5日在新进中央委员会的委员、候补委员学习贯彻党的十八大精神研讨班上讲话的一部分。）",
+    "url": "https://www.qstheory.cn/dukan/qs/2019-04/01/c_1124307480.htm",
+    "topics": {}
+  },
+  {
+    "id": "QS_2019_08",
+    "source": "求是署名文章",
+    "year": 2019,
+    "ordinal": 8,
+    "title": "一个国家、一个民族不能没有灵魂",
+    "period_date": "2019-04-16",
+    "public_date": "",
+    "date_basis": "刊期代公开日期，未独立认证",
+    "usable_date": "2019-04-16",
+    "event_date": "2019-03-04",
+    "event_context": "（这是习近平总书记2019年3月4日在参加全国政协十三届二次会议文化艺术界、社会科学界委员联组会时的讲话。）",
+    "url": "https://www.qstheory.cn/dukan/qs/2019-04/16/c_1124370963.htm",
+    "topics": {}
+  },
+  {
+    "id": "QS_2019_09",
+    "source": "求是署名文章",
+    "year": 2019,
+    "ordinal": 9,
+    "title": "文明交流互鉴是推动人类文明进步和世界和平发展的重要动力",
+    "period_date": "2019-05-01",
+    "public_date": "",
+    "date_basis": "刊期代公开日期，未独立认证",
+    "usable_date": "2019-05-01",
+    "event_date": "2014-03-27",
+    "event_context": "（这是习近平主席2014年3月27日在联合国教科文组织总部的演讲。）",
+    "url": "https://www.qstheory.cn/dukan/qs/2019-05/01/c_1124441540.htm",
+    "topics": {
+      "文化与文明": [
+        "文明"
+      ],
+      "开放与外交": [
+        "世界",
+        "文明交流",
+        "和平"
+      ]
+    }
+  },
+  {
+    "id": "QS_2019_10",
+    "source": "求是署名文章",
+    "year": 2019,
+    "ordinal": 10,
+    "title": "深入理解新发展理念",
+    "period_date": "2019-05-16",
+    "public_date": "",
+    "date_basis": "刊期代公开日期，未独立认证",
+    "usable_date": "2019-05-16",
+    "event_date": "2016-01-18",
+    "event_context": "（这是习近平总书记2016年1月18日在省部级主要领导干部学习贯彻党的十八届五中全会精神专题研讨班上讲话的一部分。）",
+    "url": "https://www.qstheory.cn/dukan/qs/2019-05/16/c_1124491225.htm",
+    "topics": {
+      "现代化与规划": [
+        "新发展理念"
+      ]
+    }
+  },
+  {
+    "id": "QS_2019_11",
+    "source": "求是署名文章",
+    "year": 2019,
+    "ordinal": 11,
+    "title": "把乡村振兴战略作为新时代“三农”工作总抓手",
+    "period_date": "2019-06-01",
+    "public_date": "",
+    "date_basis": "刊期代公开日期，未独立认证",
+    "usable_date": "2019-06-01",
+    "event_date": "2018-09-21",
+    "event_context": "（这是习近平总书记2018年9月21日在十九届中央政治局第八次集体学习时的讲话。）",
+    "url": "https://www.qstheory.cn/dukan/qs/2019-06/01/c_1124561415.htm",
+    "topics": {
+      "乡村城乡与粮食": [
+        "三农",
+        "乡村"
+      ],
+      "认识与方法": [
+        "战略"
+      ]
+    }
+  },
+  {
+    "id": "QS_2019_12",
+    "source": "求是署名文章",
+    "year": 2019,
+    "ordinal": 12,
+    "title": "坚定文化自信，建设社会主义文化强国",
+    "period_date": "2019-06-16",
+    "public_date": "",
+    "date_basis": "刊期代公开日期，未独立认证",
+    "usable_date": "2019-06-16",
+    "event_date": "2014-10至2017-10",
+    "event_context": "（这是习近平总书记2014年10月至2017年10月的6篇文稿中有关文化自信内容的节录。）",
+    "url": "https://www.qstheory.cn/dukan/qs/2019-06/16/c_1124628547.htm",
+    "topics": {
+      "文化与文明": [
+        "文化"
+      ]
+    }
+  },
+  {
+    "id": "QS_2019_13",
+    "source": "求是署名文章",
+    "year": 2019,
+    "ordinal": 13,
+    "title": "在“不忘初心、牢记使命”主题教育工作会议上的讲话",
+    "period_date": "2019-07-01",
+    "public_date": "",
+    "date_basis": "刊期代公开日期，未独立认证",
+    "usable_date": "2019-07-01",
+    "event_date": "2019-05-31",
+    "event_context": "（2019年5月31日）",
+    "url": "https://www.qstheory.cn/dukan/qs/2019-07/01/c_1124691450.htm",
+    "topics": {
+      "教育与人才": [
+        "教育"
+      ]
+    }
+  },
+  {
+    "id": "QS_2019_14",
+    "source": "求是署名文章",
+    "year": 2019,
+    "ordinal": 14,
+    "title": "增强推进党的政治建设的自觉性和坚定性",
+    "period_date": "2019-07-16",
+    "public_date": "",
+    "date_basis": "刊期代公开日期，未独立认证",
+    "usable_date": "2019-07-16",
+    "event_date": "2018-06-29",
+    "event_context": "（这是习近平总书记2018年6月29日在十九届中央政治局第六次集体学习时的讲话。）",
+    "url": "https://www.qstheory.cn/dukan/qs/2019-07/16/c_1124755477.htm",
+    "topics": {}
+  },
+  {
+    "id": "QS_2019_15",
+    "source": "求是署名文章",
+    "year": 2019,
+    "ordinal": 15,
+    "title": "牢记初心使命，推进自我革命",
+    "period_date": "2019-08-01",
+    "public_date": "",
+    "date_basis": "刊期代公开日期，未独立认证",
+    "usable_date": "2019-08-01",
+    "event_date": "2019-06-24",
+    "event_context": "（这是习近平总书记2019年6月24日在十九届中央政治局第十五次集体学习时的讲话。）",
+    "url": "https://www.qstheory.cn/dukan/qs/2019-08/01/c_1124820947.htm",
+    "topics": {
+      "党的建设": [
+        "自我革命"
+      ]
+    }
+  },
+  {
+    "id": "QS_2019_16",
+    "source": "求是署名文章",
+    "year": 2019,
+    "ordinal": 16,
+    "title": "在解决“两不愁三保障”突出问题座谈会上的讲话",
+    "period_date": "2019-08-16",
+    "public_date": "",
+    "date_basis": "刊期代公开日期，未独立认证",
+    "usable_date": "2019-08-16",
+    "event_date": "2019-04-16",
+    "event_context": "（2019年4月16日）",
+    "url": "https://www.qstheory.cn/dukan/qs/2019-08/16/c_1124881658.htm",
+    "topics": {}
+  },
+  {
+    "id": "QS_2019_17",
+    "source": "求是署名文章",
+    "year": 2019,
+    "ordinal": 17,
+    "title": "在深入推动长江经济带发展座谈会上的讲话",
+    "period_date": "2019-09-01",
+    "public_date": "2019-08-31",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2019-08-31",
+    "event_date": "2018-04-26",
+    "event_context": "（2018年4月26日）",
+    "url": "https://www.qstheory.cn/dukan/qs/2019-08/31/c_1124940551.htm",
+    "topics": {
+      "经济体制与内需": [
+        "经济"
+      ],
+      "生态与绿色": [
+        "长江"
+      ]
+    }
+  },
+  {
+    "id": "QS_2019_18",
+    "source": "求是署名文章",
+    "year": 2019,
+    "ordinal": 18,
+    "title": "在庆祝全国人民代表大会成立六十周年大会上的讲话",
+    "period_date": "2019-09-16",
+    "public_date": "2019-09-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2019-09-15",
+    "event_date": "2014-09-05",
+    "event_context": "（2014年9月5日）",
+    "url": "https://www.qstheory.cn/dukan/qs/2019-09/15/c_1124994844.htm",
+    "topics": {}
+  },
+  {
+    "id": "QS_2019_19",
+    "source": "求是署名文章",
+    "year": 2019,
+    "ordinal": 19,
+    "title": "推进党的建设新的伟大工程要一以贯之",
+    "period_date": "2019-10-01",
+    "public_date": "2019-10-02",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2019-10-02",
+    "event_date": "2018-01-05",
+    "event_context": "（这是习近平总书记2018年1月5日在新进中央委员会的委员、候补委员和省部级主要领导干部学习贯彻习近平新时代中国特色社会主义思想和党的十九大精神研讨班上讲话的一部分。）",
+    "url": "https://www.qstheory.cn/dukan/qs/2019-10/02/c_1125068596.htm",
+    "topics": {
+      "党的建设": [
+        "党的建设"
+      ]
+    }
+  },
+  {
+    "id": "QS_2019_20",
+    "source": "求是署名文章",
+    "year": 2019,
+    "ordinal": 20,
+    "title": "在黄河流域生态保护和高质量发展座谈会上的讲话",
+    "period_date": "2019-10-16",
+    "public_date": "2019-10-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2019-10-15",
+    "event_date": "2019-09-18",
+    "event_context": "（2019年9月18日）",
+    "url": "https://www.qstheory.cn/dukan/qs/2019-10/15/c_1125102357.htm",
+    "topics": {
+      "现代化与规划": [
+        "高质量发展"
+      ],
+      "生态与绿色": [
+        "生态",
+        "黄河"
+      ]
+    }
+  },
+  {
+    "id": "QS_2019_21",
+    "source": "求是署名文章",
+    "year": 2019,
+    "ordinal": 21,
+    "title": "在中央和国家机关党的建设工作会议上的讲话",
+    "period_date": "2019-11-01",
+    "public_date": "",
+    "date_basis": "刊期代公开日期，未独立认证",
+    "usable_date": "2019-11-01",
+    "event_date": "2019-07-09",
+    "event_context": "（2019年7月9日）",
+    "url": "https://www.qstheory.cn/dukan/qs/2019-11/01/c_1125178893.htm",
+    "topics": {
+      "党的建设": [
+        "党的建设"
+      ]
+    }
+  },
+  {
+    "id": "QS_2019_22",
+    "source": "求是署名文章",
+    "year": 2019,
+    "ordinal": 22,
+    "title": "学习马克思主义基本理论是共产党人的必修课",
+    "period_date": "2019-11-16",
+    "public_date": "2019-11-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2019-11-15",
+    "event_date": "2018-04-23",
+    "event_context": "（这是习近平总书记2018年4月23日在十九届中央政治局第五次集体学习时的讲话。）",
+    "url": "https://www.qstheory.cn/dukan/qs/2019-11/15/c_1125234267.htm",
+    "topics": {}
+  },
+  {
+    "id": "QS_2019_23",
+    "source": "求是署名文章",
+    "year": 2019,
+    "ordinal": 23,
+    "title": "坚持、完善和发展中国特色社会主义国家制度与法律制度",
+    "period_date": "2019-12-01",
+    "public_date": "2019-11-30",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2019-11-30",
+    "event_date": "2019-09-24",
+    "event_context": "（这是习近平总书记2019年9月24日在十九届中央政治局第十七次集体学习时的讲话。）",
+    "url": "https://www.qstheory.cn/dukan/qs/2019-11/30/c_1125288601.htm",
+    "topics": {
+      "法治与制度治理": [
+        "法律",
+        "制度"
+      ]
+    }
+  },
+  {
+    "id": "QS_2019_24",
+    "source": "求是署名文章",
+    "year": 2019,
+    "ordinal": 24,
+    "title": "推动形成优势互补高质量发展的区域经济布局",
+    "period_date": "2019-12-16",
+    "public_date": "2019-12-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2019-12-15",
+    "event_date": "2019-08-26",
+    "event_context": "（这是习近平总书记2019年8月26日在中央财经委员会第五次会议上讲话的一部分。）",
+    "url": "https://www.qstheory.cn/dukan/qs/2019-12/15/c_1125346157.htm",
+    "topics": {
+      "现代化与规划": [
+        "高质量发展"
+      ],
+      "经济体制与内需": [
+        "经济"
+      ]
+    }
+  },
+  {
+    "id": "QS_2020_01",
+    "source": "求是署名文章",
+    "year": 2020,
+    "ordinal": 1,
+    "title": "坚持和完善中国特色社会主义制度推进国家治理体系和治理能力现代化",
+    "period_date": "2020-01-01",
+    "public_date": "",
+    "date_basis": "刊期代公开日期，未独立认证",
+    "usable_date": "2020-01-01",
+    "event_date": "2019-10-31",
+    "event_context": "（这是习近平总书记2019年10月31日在党的十九届四中全会第二次全体会议上讲话的主要部分。）",
+    "url": "https://www.qstheory.cn/dukan/qs/2020-01/01/c_1125402833.htm",
+    "topics": {
+      "法治与制度治理": [
+        "治理",
+        "制度"
+      ]
+    }
+  },
+  {
+    "id": "QS_2020_02",
+    "source": "求是署名文章",
+    "year": 2020,
+    "ordinal": 2,
+    "title": "坚持历史唯物主义不断开辟当代中国马克思主义发展新境界",
+    "period_date": "2020-01-16",
+    "public_date": "2020-01-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2020-01-15",
+    "event_date": "2013-12-03",
+    "event_context": "（这是习近平总书记2013年12月3日在十八届中央政治局第十一次集体学习时讲话的主要部分。）",
+    "url": "https://www.qstheory.cn/dukan/qs/2020-01/15/c_1125459115.htm",
+    "topics": {
+      "文化与文明": [
+        "历史"
+      ],
+      "认识与方法": [
+        "唯物"
+      ]
+    }
+  },
+  {
+    "id": "QS_2020_03",
+    "source": "求是署名文章",
+    "year": 2020,
+    "ordinal": 3,
+    "title": "在敦煌研究院座谈时的讲话",
+    "period_date": "2020-02-01",
+    "public_date": "2020-01-31",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2020-01-31",
+    "event_date": "2019-08-19",
+    "event_context": "（2019年8月19日）",
+    "url": "https://www.qstheory.cn/dukan/qs/2020-01/31/c_1125497461.htm",
+    "topics": {}
+  },
+  {
+    "id": "QS_2020_04",
+    "source": "求是署名文章",
+    "year": 2020,
+    "ordinal": 4,
+    "title": "在中央政治局常委会会议研究应对新型冠状病毒肺炎疫情工作时的讲话",
+    "period_date": "2020-02-16",
+    "public_date": "2020-02-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2020-02-15",
+    "event_date": "2020-02-03",
+    "event_context": "（2020年2月3日）",
+    "url": "https://www.qstheory.cn/dukan/qs/2020-02/15/c_1125572832.htm",
+    "topics": {}
+  },
+  {
+    "id": "QS_2020_05",
+    "source": "求是署名文章",
+    "year": 2020,
+    "ordinal": 5,
+    "title": "全面提高依法防控依法治理能力 健全国家公共卫生应急管理体系",
+    "period_date": "2020-03-01",
+    "public_date": "2020-02-29",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2020-02-29",
+    "event_date": "2020-02",
+    "event_context": "※ 这是习近平总书记2020年2月两篇讲话中有关疫情防控工作和健全国家公共卫生应急管理体系内容的节选。",
+    "url": "https://www.qstheory.cn/dukan/qs/2020-02/29/c_1125641632.htm",
+    "topics": {
+      "民生人口就业": [
+        "卫生"
+      ],
+      "法治与制度治理": [
+        "法治",
+        "依法",
+        "治理"
+      ],
+      "安全与国防": [
+        "应急"
+      ]
+    }
+  },
+  {
+    "id": "QS_2020_06",
+    "source": "求是署名文章",
+    "year": 2020,
+    "ordinal": 6,
+    "title": "为打赢疫情防控阻击战提供强大科技支撑",
+    "period_date": "2020-03-16",
+    "public_date": "2020-03-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2020-03-15",
+    "event_date": "2020-03-02",
+    "event_context": "※这是习近平总书记2020年3月2日在同有关部门负责同志和专家学者就疫情防控科研攻关工作座谈时的讲话。",
+    "url": "https://www.qstheory.cn/dukan/qs/2020-03/15/c_1125710612.htm",
+    "topics": {
+      "科技与产业": [
+        "科技"
+      ]
+    }
+  },
+  {
+    "id": "QS_2020_07",
+    "source": "求是署名文章",
+    "year": 2020,
+    "ordinal": 7,
+    "title": "在湖北省考察新冠肺炎疫情防控工作时的讲话",
+    "period_date": "2020-04-01",
+    "public_date": "2020-03-31",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2020-03-31",
+    "event_date": "2020-03-10",
+    "event_context": "（2020年3月10日）",
+    "url": "https://www.qstheory.cn/dukan/qs/2020-03/31/c_1125791549.htm",
+    "topics": {}
+  },
+  {
+    "id": "QS_2020_08",
+    "source": "求是署名文章",
+    "year": 2020,
+    "ordinal": 8,
+    "title": "团结合作是国际社会战胜疫情最有力武器",
+    "period_date": "2020-04-16",
+    "public_date": "2020-04-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2020-04-15",
+    "event_date": "2020-01",
+    "event_context": "※这是习近平总书记2020年1月至4月期间讲话、谈话、信函、慰问电、与外国领导人和国际组织负责人通电话中有关开展抗疫国际合作内容的节录。",
+    "url": "https://www.qstheory.cn/dukan/qs/2020-04/15/c_1125857091.htm",
+    "topics": {
+      "开放与外交": [
+        "国际"
+      ]
+    }
+  },
+  {
+    "id": "QS_2020_09",
+    "source": "求是署名文章",
+    "year": 2020,
+    "ordinal": 9,
+    "title": "在打好精准脱贫攻坚战座谈会上的讲话",
+    "period_date": "2020-05-01",
+    "public_date": "2020-04-30",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2020-04-30",
+    "event_date": "2018-02-12",
+    "event_context": "（2018年2月12日）",
+    "url": "https://www.qstheory.cn/dukan/qs/2020-04/30/c_1125923810.htm",
+    "topics": {}
+  },
+  {
+    "id": "QS_2020_10",
+    "source": "求是署名文章",
+    "year": 2020,
+    "ordinal": 10,
+    "title": "在第十三届全国人民代表大会第一次会议上的讲话",
+    "period_date": "2020-05-16",
+    "public_date": "2020-05-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2020-05-15",
+    "event_date": "2018-03-20",
+    "event_context": "（2018年3月20日）",
+    "url": "https://www.qstheory.cn/dukan/qs/2020-05/15/c_1125987668.htm",
+    "topics": {}
+  },
+  {
+    "id": "QS_2020_11",
+    "source": "求是署名文章",
+    "year": 2020,
+    "ordinal": 11,
+    "title": "关于全面建成小康社会补短板问题",
+    "period_date": "2020-06-01",
+    "public_date": "2020-05-31",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2020-05-31",
+    "event_date": "2019-04-22",
+    "event_context": "※这是习近平总书记2019年4月22日在中央财经委员会第四次会议上讲话的一部分。",
+    "url": "https://www.qstheory.cn/dukan/qs/2020-05/31/c_1126055020.htm",
+    "topics": {}
+  },
+  {
+    "id": "QS_2020_12",
+    "source": "求是署名文章",
+    "year": 2020,
+    "ordinal": 12,
+    "title": "充分认识颁布实施民法典重大意义 依法更好保障人民合法权益",
+    "period_date": "2020-06-16",
+    "public_date": "2020-06-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2020-06-15",
+    "event_date": "2020-05-29",
+    "event_context": "※这是习近平总书记2020年5月29日在十九届中央政治局第二十次集体学习时的讲话。",
+    "url": "https://www.qstheory.cn/dukan/qs/2020-06/15/c_1126112148.htm",
+    "topics": {
+      "法治与制度治理": [
+        "依法"
+      ]
+    }
+  },
+  {
+    "id": "QS_2020_13",
+    "source": "求是署名文章",
+    "year": 2020,
+    "ordinal": 13,
+    "title": "在“不忘初心、牢记使命”主题教育总结大会上的讲话",
+    "period_date": "2020-07-01",
+    "public_date": "2020-06-30",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2020-06-30",
+    "event_date": "2020-01-08",
+    "event_context": "（2020年1月8日）",
+    "url": "https://www.qstheory.cn/dukan/qs/2020-06/30/c_1126171670.htm",
+    "topics": {
+      "教育与人才": [
+        "教育"
+      ]
+    }
+  },
+  {
+    "id": "QS_2020_14",
+    "source": "求是署名文章",
+    "year": 2020,
+    "ordinal": 14,
+    "title": "中国共产党领导是中国特色社会主义最本质的特征",
+    "period_date": "2020-07-16",
+    "public_date": "2020-07-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2020-07-15",
+    "event_date": "2013-12至2019-10",
+    "event_context": "※这是习近平总书记2013年12月至2019年10月期间讲话中有关中国共产党领导是中国特色社会主义最本质特征内容的节录。",
+    "url": "https://www.qstheory.cn/dukan/qs/2020-07/15/c_1126234524.htm",
+    "topics": {
+      "党的建设": [
+        "中国共产党"
+      ]
+    }
+  },
+  {
+    "id": "QS_2020_15",
+    "source": "求是署名文章",
+    "year": 2020,
+    "ordinal": 15,
+    "title": "贯彻落实新时代党的组织路线 不断把党建设得更加坚强有力",
+    "period_date": "2020-08-01",
+    "public_date": "2020-07-31",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2020-07-31",
+    "event_date": "2020-06-29",
+    "event_context": "※这是习近平总书记2020年6月29日在十九届中央政治局第二十一次集体学习时的讲话。",
+    "url": "https://www.qstheory.cn/dukan/qs/2020-07/31/c_1126305988.htm",
+    "topics": {}
+  },
+  {
+    "id": "QS_2020_16",
+    "source": "求是署名文章",
+    "year": 2020,
+    "ordinal": 16,
+    "title": "不断开拓当代中国马克思主义政治经济学新境界",
+    "period_date": "2020-08-16",
+    "public_date": "2020-08-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2020-08-15",
+    "event_date": "2015-11-23",
+    "event_context": "※这是习近平总书记2015年11月23日在十八届中央政治局第二十八次集体学习时的讲话。",
+    "url": "https://www.qstheory.cn/dukan/qs/2020-08/15/c_1126365995.htm",
+    "topics": {
+      "经济体制与内需": [
+        "经济"
+      ]
+    }
+  },
+  {
+    "id": "QS_2020_17",
+    "source": "求是署名文章",
+    "year": 2020,
+    "ordinal": 17,
+    "title": "思政课是落实立德树人根本任务的关键课程",
+    "period_date": "2020-09-01",
+    "public_date": "2020-08-31",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2020-08-31",
+    "event_date": "2019-03-18",
+    "event_context": "※这是习近平总书记2019年3月18日在学校思想政治理论课教师座谈会上讲话的主要部分。",
+    "url": "https://www.qstheory.cn/dukan/qs/2020-08/31/c_1126430247.htm",
+    "topics": {}
+  },
+  {
+    "id": "QS_2020_18",
+    "source": "求是署名文章",
+    "year": 2020,
+    "ordinal": 18,
+    "title": "构建起强大的公共卫生体系 为维护人民健康提供有力保障",
+    "period_date": "2020-09-16",
+    "public_date": "2020-09-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2020-09-15",
+    "event_date": "2020-06-02",
+    "event_context": "※这是习近平总书记2020年6月2日在专家学者座谈会上的讲话。",
+    "url": "https://www.qstheory.cn/dukan/qs/2020-09/15/c_1126493739.htm",
+    "topics": {
+      "民生人口就业": [
+        "卫生",
+        "健康"
+      ]
+    }
+  },
+  {
+    "id": "QS_2020_19",
+    "source": "求是署名文章",
+    "year": 2020,
+    "ordinal": 19,
+    "title": "习近平总书记在出席庆祝中华人民共和国成立70周年系列活动时的讲话",
+    "period_date": "2020-10-01",
+    "public_date": "2020-09-30",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2020-09-30",
+    "event_date": "2019-10-01",
+    "event_context": "（2019年10月1日）；在庆祝中华人民共和国成立70周年招待会上的讲话（2019年9月30日）；在国家勋章和国家荣誉称号颁授仪式上的讲话（2019年9月29日）",
+    "url": "https://www.qstheory.cn/dukan/qs/2020-09/30/c_1126556581.htm",
+    "topics": {}
+  },
+  {
+    "id": "QS_2020_20",
+    "source": "求是署名文章",
+    "year": 2020,
+    "ordinal": 20,
+    "title": "在全国抗击新冠肺炎疫情表彰大会上的讲话",
+    "period_date": "2020-10-16",
+    "public_date": "2020-10-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2020-10-15",
+    "event_date": "2020-09-08",
+    "event_context": "（2020年9月8日）",
+    "url": "https://www.qstheory.cn/dukan/qs/2020-10/15/c_1126613052.htm",
+    "topics": {}
+  },
+  {
+    "id": "QS_2020_21",
+    "source": "求是署名文章",
+    "year": 2020,
+    "ordinal": 21,
+    "title": "国家中长期经济社会发展战略若干重大问题",
+    "period_date": "2020-11-01",
+    "public_date": "2020-10-31",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2020-10-31",
+    "event_date": "2020-04-10",
+    "event_context": "※这是习近平总书记2020年4月10日在中央财经委员会第七次会议上的讲话。",
+    "url": "https://www.qstheory.cn/dukan/qs/2020-10/31/c_1126680390.htm",
+    "topics": {
+      "经济体制与内需": [
+        "经济"
+      ],
+      "认识与方法": [
+        "战略"
+      ]
+    }
+  },
+  {
+    "id": "QS_2020_22",
+    "source": "求是署名文章",
+    "year": 2020,
+    "ordinal": 22,
+    "title": "推进全面依法治国，发挥法治在国家治理体系和治理能力现代化中的积极作用",
+    "period_date": "2020-11-16",
+    "public_date": "2020-11-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2020-11-15",
+    "event_date": "2020-02-05",
+    "event_context": "※这是习近平总书记2020年2月5日在中央全面依法治国委员会第三次会议上讲话的一部分。",
+    "url": "https://www.qstheory.cn/dukan/qs/2020-11/15/c_1126739089.htm",
+    "topics": {
+      "法治与制度治理": [
+        "法治",
+        "依法",
+        "治理"
+      ]
+    }
+  },
+  {
+    "id": "QS_2020_23",
+    "source": "求是署名文章",
+    "year": 2020,
+    "ordinal": 23,
+    "title": "建设中国特色中国风格中国气派的考古学 更好认识源远流长博大精深的中华文明",
+    "period_date": "2020-12-01",
+    "public_date": "2020-11-30",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2020-11-30",
+    "event_date": "2020-09-28",
+    "event_context": "※这是习近平总书记2020年9月28日在十九届中央政治局第二十三次集体学习时的讲话。",
+    "url": "https://www.qstheory.cn/dukan/qs/2020-11/30/c_1126799145.htm",
+    "topics": {
+      "文化与文明": [
+        "文明",
+        "考古"
+      ]
+    }
+  },
+  {
+    "id": "QS_2020_24",
+    "source": "求是署名文章",
+    "year": 2020,
+    "ordinal": 24,
+    "title": "共担时代责任，共促全球发展",
+    "period_date": "2020-12-16",
+    "public_date": "2020-12-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2020-12-15",
+    "event_date": "2017-01-17",
+    "event_context": "※这是习近平总书记2017年1月17日在瑞士达沃斯举行的世界经济论坛2017年年会开幕式上的主旨演讲。",
+    "url": "https://www.qstheory.cn/dukan/qs/2020-12/15/c_1126857192.htm",
+    "topics": {
+      "开放与外交": [
+        "全球"
+      ]
+    }
+  },
+  {
+    "id": "QS_2021_01",
+    "source": "求是署名文章",
+    "year": 2021,
+    "ordinal": 1,
+    "title": "共同构建人类命运共同体",
+    "period_date": "2021-01-01",
+    "public_date": "",
+    "date_basis": "刊期代公开日期，未独立认证",
+    "usable_date": "2021-01-01",
+    "event_date": "2017-01-18",
+    "event_context": "※这是习近平总书记2017年1月18日在联合国日内瓦总部的演讲。",
+    "url": "https://www.qstheory.cn/dukan/qs/2021-01/01/c_1126935865.htm",
+    "topics": {
+      "开放与外交": [
+        "人类命运共同体"
+      ]
+    }
+  },
+  {
+    "id": "QS_2021_02",
+    "source": "求是署名文章",
+    "year": 2021,
+    "ordinal": 2,
+    "title": "正确认识和把握中长期经济社会发展重大问题",
+    "period_date": "2021-01-16",
+    "public_date": "2021-01-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2021-01-15",
+    "event_date": "2020-08-24",
+    "event_context": "※这是习近平总书记2020年8月24日在经济社会领域专家座谈会上的讲话。",
+    "url": "https://www.qstheory.cn/dukan/qs/2021-01/15/c_1126984966.htm",
+    "topics": {
+      "经济体制与内需": [
+        "经济"
+      ]
+    }
+  },
+  {
+    "id": "QS_2021_03",
+    "source": "求是署名文章",
+    "year": 2021,
+    "ordinal": 3,
+    "title": "全面加强知识产权保护工作 激发创新活力推动构建新发展格局",
+    "period_date": "2021-02-01",
+    "public_date": "2021-01-31",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2021-01-31",
+    "event_date": "2020-11-30",
+    "event_context": "※这是习近平总书记2020年11月30日在十九届中央政治局第二十五次集体学习时讲话的主要部分。",
+    "url": "https://www.qstheory.cn/dukan/qs/2021-01/31/c_1127044345.htm",
+    "topics": {
+      "现代化与规划": [
+        "新发展格局"
+      ]
+    }
+  },
+  {
+    "id": "QS_2021_04",
+    "source": "求是署名文章",
+    "year": 2021,
+    "ordinal": 4,
+    "title": "在河北省阜平县考察扶贫开发工作时的讲话",
+    "period_date": "2021-02-16",
+    "public_date": "2021-02-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2021-02-15",
+    "event_date": "2012-12-29",
+    "event_context": "（2012年12月29日、30日）",
+    "url": "https://www.qstheory.cn/dukan/qs/2021-02/15/c_1127089911.htm",
+    "topics": {}
+  },
+  {
+    "id": "QS_2021_05",
+    "source": "求是署名文章",
+    "year": 2021,
+    "ordinal": 5,
+    "title": "坚定不移走中国特色社会主义法治道路 为全面建设社会主义现代化国家提供有力法治保障",
+    "period_date": "2021-03-01",
+    "public_date": "2021-02-28",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2021-02-28",
+    "event_date": "2020-11-16",
+    "event_context": "※这是习近平总书记2020年11月16日在中央全面依法治国工作会议上讲话的主要部分。",
+    "url": "https://www.qstheory.cn/dukan/qs/2021-02/28/c_1127146541.htm",
+    "topics": {
+      "法治与制度治理": [
+        "法治"
+      ]
+    }
+  },
+  {
+    "id": "QS_2021_06",
+    "source": "求是署名文章",
+    "year": 2021,
+    "ordinal": 6,
+    "title": "努力成为世界主要科学中心和创新高地",
+    "period_date": "2021-03-16",
+    "public_date": "2021-03-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2021-03-15",
+    "event_date": "2018-05-28",
+    "event_context": "※这是习近平总书记2018年5月28日在中国科学院第十九次院士大会、中国工程院第十四次院士大会上讲话的一部分。",
+    "url": "https://www.qstheory.cn/dukan/qs/2021-03/15/c_1127209130.htm",
+    "topics": {
+      "开放与外交": [
+        "世界"
+      ]
+    }
+  },
+  {
+    "id": "QS_2021_07",
+    "source": "求是署名文章",
+    "year": 2021,
+    "ordinal": 7,
+    "title": "在党史学习教育动员大会上的讲话",
+    "period_date": "2021-04-01",
+    "public_date": "2021-03-31",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2021-03-31",
+    "event_date": "2021-02-20",
+    "event_context": "（2021年2月20日）",
+    "url": "https://www.qstheory.cn/dukan/qs/2021-03/31/c_1127274518.htm",
+    "topics": {
+      "教育与人才": [
+        "教育"
+      ]
+    }
+  },
+  {
+    "id": "QS_2021_08",
+    "source": "求是署名文章",
+    "year": 2021,
+    "ordinal": 8,
+    "title": "在庆祝中国共产党成立95周年大会上的讲话",
+    "period_date": "2021-04-16",
+    "public_date": "2021-04-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2021-04-15",
+    "event_date": "2016-07-01",
+    "event_context": "（2016年7月1日）",
+    "url": "https://www.qstheory.cn/dukan/qs/2021-04/15/c_1127330615.htm",
+    "topics": {
+      "党的建设": [
+        "中国共产党"
+      ]
+    }
+  },
+  {
+    "id": "QS_2021_09",
+    "source": "求是署名文章",
+    "year": 2021,
+    "ordinal": 9,
+    "title": "把握新发展阶段，贯彻新发展理念，构建新发展格局",
+    "period_date": "2021-05-01",
+    "public_date": "2021-04-30",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2021-04-30",
+    "event_date": "2021-01-11",
+    "event_context": "※这是习近平总书记2021年1月11日在省部级主要领导干部学习贯彻党的十九届五中全会精神专题研讨班上的讲话。",
+    "url": "https://www.qstheory.cn/dukan/qs/2021-04/30/c_1127390013.htm",
+    "topics": {
+      "现代化与规划": [
+        "新发展阶段",
+        "新发展理念",
+        "新发展格局"
+      ]
+    }
+  },
+  {
+    "id": "QS_2021_10",
+    "source": "求是署名文章",
+    "year": 2021,
+    "ordinal": 10,
+    "title": "用好红色资源，传承好红色基因 把红色江山世世代代传下去",
+    "period_date": "2021-05-16",
+    "public_date": "2021-05-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2021-05-15",
+    "event_date": "2012-12至2021-03",
+    "event_context": "※党的十八大以来，习近平总书记在地方考察调研时多次到访革命纪念地，瞻仰革命历史纪念场所，反复强调要用好红色资源，传承好红色基因，把红色江山世世代代传下去。本文是习近平总书记2012年12月至2021年3月期间在地方考察调研时的讲话中有关这方面内容的节录。",
+    "url": "https://www.qstheory.cn/dukan/qs/2021-05/15/c_1127446859.htm",
+    "topics": {}
+  },
+  {
+    "id": "QS_2021_11",
+    "source": "求是署名文章",
+    "year": 2021,
+    "ordinal": 11,
+    "title": "学好“四史”，永葆初心、永担使命",
+    "period_date": "2021-06-01",
+    "public_date": "2021-05-31",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2021-05-31",
+    "event_date": "2016-12至2021-03",
+    "event_context": "※这是习近平总书记2016年12月至2021年3月期间文稿中有关学好党史、新中国史、改革开放史、社会主义发展史内容的节录。",
+    "url": "https://www.qstheory.cn/dukan/qs/2021-05/31/c_1127509112.htm",
+    "topics": {}
+  },
+  {
+    "id": "QS_2021_12",
+    "source": "求是署名文章",
+    "year": 2021,
+    "ordinal": 12,
+    "title": "以史为镜、以史明志 知史爱党、知史爱国",
+    "period_date": "2021-06-16",
+    "public_date": "2021-06-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2021-06-15",
+    "event_date": "2013-03至2021-03",
+    "event_context": "※这是习近平总书记2013年3月至2021年3月期间文稿中有关以史为镜、以史明志，知史爱党、知史爱国内容的节录。",
+    "url": "https://www.qstheory.cn/dukan/qs/2021-06/15/c_1127561026.htm",
+    "topics": {}
+  },
+  {
+    "id": "QS_2021_13",
+    "source": "求是署名文章",
+    "year": 2021,
+    "ordinal": 13,
+    "title": "学史明理 学史增信 学史崇德 学史力行",
+    "period_date": "2021-07-01",
+    "public_date": "2021-07-02",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2021-07-02",
+    "event_date": "2012-11至2021-06",
+    "event_context": "※这是习近平总书记2012年11月至2021年6月期间讲话、指示中有关学史明理、学史增信、学史崇德、学史力行内容的节录。",
+    "url": "https://www.qstheory.cn/dukan/qs/2021-07/02/c_1127617254.htm",
+    "topics": {}
+  },
+  {
+    "id": "QS_2021_14",
+    "source": "求是署名文章",
+    "year": 2021,
+    "ordinal": 14,
+    "title": "在庆祝中国共产党成立100周年大会上的讲话",
+    "period_date": "2021-07-16",
+    "public_date": "2021-07-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2021-07-15",
+    "event_date": "2021-07-01",
+    "event_context": "（2021年7月1日）",
+    "url": "https://www.qstheory.cn/dukan/qs/2021-07/15/c_1127656422.htm",
+    "topics": {
+      "党的建设": [
+        "中国共产党"
+      ]
+    }
+  },
+  {
+    "id": "QS_2021_15",
+    "source": "求是署名文章",
+    "year": 2021,
+    "ordinal": 15,
+    "title": "加强党史军史和光荣传统教育 确保官兵永远听党话、跟党走",
+    "period_date": "2021-08-01",
+    "public_date": "2021-07-31",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2021-07-31",
+    "event_date": "2012-11至2021-03",
+    "event_context": "※这是习近平总书记2012年11月至2021年3月期间讲话中有关加强党史军史和光荣传统教育，确保官兵永远听党话、跟党走内容的节录。",
+    "url": "https://www.qstheory.cn/dukan/qs/2021-07/31/c_1127715309.htm",
+    "topics": {
+      "教育与人才": [
+        "教育"
+      ]
+    }
+  },
+  {
+    "id": "QS_2021_16",
+    "source": "求是署名文章",
+    "year": 2021,
+    "ordinal": 16,
+    "title": "总结党的历史经验 加强党的政治建设",
+    "period_date": "2021-08-16",
+    "public_date": "2021-08-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2021-08-15",
+    "event_date": "2015-06至2021-02",
+    "event_context": "※这是习近平总书记2015年6月至2021年2月期间文稿中有关总结党的历史经验，加强党的政治建设内容的节录。",
+    "url": "https://www.qstheory.cn/dukan/qs/2021-08/15/c_1127760220.htm",
+    "topics": {
+      "文化与文明": [
+        "历史"
+      ]
+    }
+  },
+  {
+    "id": "QS_2021_17",
+    "source": "求是署名文章",
+    "year": 2021,
+    "ordinal": 17,
+    "title": "党的伟大精神永远是党和国家的宝贵精神财富",
+    "period_date": "2021-09-01",
+    "public_date": "2021-08-31",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2021-08-31",
+    "event_date": "2013-03至2021-07",
+    "event_context": "※这是习近平总书记2013年3月至2021年7月期间讲话、指示、信函中有关党的伟大精神内容的节录。",
+    "url": "https://www.qstheory.cn/dukan/qs/2021-08/31/c_1127810333.htm",
+    "topics": {}
+  },
+  {
+    "id": "QS_2021_18",
+    "source": "求是署名文章",
+    "year": 2021,
+    "ordinal": 18,
+    "title": "毫不动摇坚持和加强党的全面领导",
+    "period_date": "2021-09-16",
+    "public_date": "2021-09-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2021-09-15",
+    "event_date": "2012-11至2021-07",
+    "event_context": "※这是习近平总书记2012年11月至2021年7月期间讲话中有关坚持和加强党的全面领导内容的节录。",
+    "url": "https://www.qstheory.cn/dukan/qs/2021-09/15/c_1127862367.htm",
+    "topics": {}
+  },
+  {
+    "id": "QS_2021_19",
+    "source": "求是署名文章",
+    "year": 2021,
+    "ordinal": 19,
+    "title": "用好红色资源 赓续红色血脉 努力创造无愧于历史和人民的新业绩",
+    "period_date": "2021-10-01",
+    "public_date": "2021-09-30",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2021-09-30",
+    "event_date": "2021-06-25",
+    "event_context": "※这是习近平总书记2021年6月25日在十九届中央政治局第三十一次集体学习时的讲话。",
+    "url": "https://www.qstheory.cn/dukan/qs/2021-09/30/c_1127915721.htm",
+    "topics": {
+      "文化与文明": [
+        "历史"
+      ]
+    }
+  },
+  {
+    "id": "QS_2021_20",
+    "source": "求是署名文章",
+    "year": 2021,
+    "ordinal": 20,
+    "title": "扎实推动共同富裕",
+    "period_date": "2021-10-16",
+    "public_date": "2021-10-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2021-10-15",
+    "event_date": "2021-08-17",
+    "event_context": "※这是习近平总书记2021年8月17日在中央财经委员会第十次会议上讲话的一部分。",
+    "url": "https://www.qstheory.cn/dukan/qs/2021-10/15/c_1127959365.htm",
+    "topics": {
+      "民生人口就业": [
+        "共同富裕"
+      ]
+    }
+  },
+  {
+    "id": "QS_2021_21",
+    "source": "求是署名文章",
+    "year": 2021,
+    "ordinal": 21,
+    "title": "坚定理想信念 补足精神之钙",
+    "period_date": "2021-11-01",
+    "public_date": "2021-10-31",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2021-10-31",
+    "event_date": "2012-11至2021-09",
+    "event_context": "※这是习近平总书记2012年11月至2021年9月期间讲话中有关坚定理想信念，补足精神之钙内容的节录。",
+    "url": "https://www.qstheory.cn/dukan/qs/2021-10/31/c_1128014255.htm",
+    "topics": {}
+  },
+  {
+    "id": "QS_2021_22",
+    "source": "求是署名文章",
+    "year": 2021,
+    "ordinal": 22,
+    "title": "坚持用马克思主义及其中国化创新理论武装全党",
+    "period_date": "2021-11-16",
+    "public_date": "2021-11-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2021-11-15",
+    "event_date": "2012-11至2021-07",
+    "event_context": "※这是习近平总书记2012年11月至2021年7月期间讲话、信函中有关坚持用马克思主义及其中国化创新理论武装全党内容的节录。",
+    "url": "https://www.qstheory.cn/dukan/qs/2021-11/15/c_1128063854.htm",
+    "topics": {}
+  },
+  {
+    "id": "QS_2021_23",
+    "source": "求是署名文章",
+    "year": 2021,
+    "ordinal": 23,
+    "title": "关于《中共中央关于党的百年奋斗重大成就和历史经验的决议》的说明",
+    "period_date": "2021-12-01",
+    "public_date": "2021-11-30",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2021-11-30",
+    "event_date": "",
+    "event_context": "",
+    "url": "https://www.qstheory.cn/dukan/qs/2021-11/30/c_1128110981.htm",
+    "topics": {
+      "文化与文明": [
+        "历史"
+      ]
+    }
+  },
+  {
+    "id": "QS_2021_24",
+    "source": "求是署名文章",
+    "year": 2021,
+    "ordinal": 24,
+    "title": "深入实施新时代人才强国战略 加快建设世界重要人才中心和创新高地",
+    "period_date": "2021-12-16",
+    "public_date": "2021-12-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2021-12-15",
+    "event_date": "2021-09-27",
+    "event_context": "※这是习近平总书记2021年9月27日在中央人才工作会议上的讲话。",
+    "url": "https://www.qstheory.cn/dukan/qs/2021-12/15/c_1128161060.htm",
+    "topics": {
+      "教育与人才": [
+        "人才"
+      ],
+      "开放与外交": [
+        "世界"
+      ],
+      "认识与方法": [
+        "战略"
+      ]
+    }
+  },
+  {
+    "id": "QS_2022_01",
+    "source": "求是署名文章",
+    "year": 2022,
+    "ordinal": 1,
+    "title": "以史为鉴、开创未来 埋头苦干、勇毅前行",
+    "period_date": "2022-01-01",
+    "public_date": "",
+    "date_basis": "刊期代公开日期，未独立认证",
+    "usable_date": "2022-01-01",
+    "event_date": "2021-11-11",
+    "event_context": "※这是习近平总书记2021年11月11日在党的十九届六中全会第二次全体会议上的讲话。",
+    "url": "https://www.qstheory.cn/dukan/qs/2022-01/01/c_1128219233.htm",
+    "topics": {}
+  },
+  {
+    "id": "QS_2022_02",
+    "source": "求是署名文章",
+    "year": 2022,
+    "ordinal": 2,
+    "title": "不断做强做优做大我国数字经济",
+    "period_date": "2022-01-16",
+    "public_date": "2022-01-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2022-01-15",
+    "event_date": "2021-10-18",
+    "event_context": "※这是习近平总书记2021年10月18日在十九届中央政治局第三十四次集体学习时讲话的主要部分。",
+    "url": "https://www.qstheory.cn/dukan/qs/2022-01/15/c_1128261632.htm",
+    "topics": {
+      "经济体制与内需": [
+        "经济"
+      ],
+      "科技与产业": [
+        "数字"
+      ]
+    }
+  },
+  {
+    "id": "QS_2022_03",
+    "source": "求是署名文章",
+    "year": 2022,
+    "ordinal": 3,
+    "title": "努力成为可堪大用能担重任的栋梁之才",
+    "period_date": "2022-02-01",
+    "public_date": "2022-01-31",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2022-01-31",
+    "event_date": "2021-09-01",
+    "event_context": "※这是习近平总书记2021年9月1日在2021年秋季学期中央党校（国家行政学院）中青年干部培训班开班式上讲话的主要部分。",
+    "url": "https://www.qstheory.cn/dukan/qs/2022-01/31/c_1128312658.htm",
+    "topics": {}
+  },
+  {
+    "id": "QS_2022_04",
+    "source": "求是署名文章",
+    "year": 2022,
+    "ordinal": 4,
+    "title": "坚持走中国特色社会主义法治道路 更好推进中国特色社会主义法治体系建设",
+    "period_date": "2022-02-16",
+    "public_date": "2022-02-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2022-02-15",
+    "event_date": "2021-12-06",
+    "event_context": "※这是习近平总书记2021年12月6日在十九届中央政治局第三十五次集体学习时的讲话。",
+    "url": "https://www.qstheory.cn/dukan/qs/2022-02/15/c_1128367893.htm",
+    "topics": {
+      "法治与制度治理": [
+        "法治"
+      ]
+    }
+  },
+  {
+    "id": "QS_2022_05",
+    "source": "求是署名文章",
+    "year": 2022,
+    "ordinal": 5,
+    "title": "在中央人大工作会议上的讲话",
+    "period_date": "2022-03-01",
+    "public_date": "2022-02-28",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2022-02-28",
+    "event_date": "2021-10-13",
+    "event_context": "（2021年10月13日）",
+    "url": "https://www.qstheory.cn/dukan/qs/2022-02/28/c_1128420137.htm",
+    "topics": {
+      "法治与制度治理": [
+        "人大"
+      ]
+    }
+  },
+  {
+    "id": "QS_2022_06",
+    "source": "求是署名文章",
+    "year": 2022,
+    "ordinal": 6,
+    "title": "在中央政协工作会议暨庆祝中国人民政治协商会议成立70周年大会上的讲话",
+    "period_date": "2022-03-16",
+    "public_date": "2022-03-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2022-03-15",
+    "event_date": "2019-09-20",
+    "event_context": "（2019年9月20日）",
+    "url": "https://www.qstheory.cn/dukan/qs/2022-03/15/c_1128467849.htm",
+    "topics": {
+      "法治与制度治理": [
+        "政协"
+      ]
+    }
+  },
+  {
+    "id": "QS_2022_07",
+    "source": "求是署名文章",
+    "year": 2022,
+    "ordinal": 7,
+    "title": "坚持把解决好“三农”问题作为全党工作重中之重 举全党全社会之力推动乡村振兴",
+    "period_date": "2022-04-01",
+    "public_date": "2022-03-31",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2022-03-31",
+    "event_date": "2020-12-28",
+    "event_context": "※这是习近平总书记2020年12月28日在中央农村工作会议上的讲话。",
+    "url": "https://www.qstheory.cn/dukan/qs/2022-03/31/c_1128515304.htm",
+    "topics": {
+      "乡村城乡与粮食": [
+        "三农",
+        "乡村"
+      ]
+    }
+  },
+  {
+    "id": "QS_2022_08",
+    "source": "求是署名文章",
+    "year": 2022,
+    "ordinal": 8,
+    "title": "促进我国社会保障事业高质量发展、可持续发展",
+    "period_date": "2022-04-16",
+    "public_date": "2022-04-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2022-04-15",
+    "event_date": "2021-02-26",
+    "event_context": "※这是习近平总书记2021年2月26日在十九届中央政治局第二十八次集体学习时的讲话。",
+    "url": "https://www.qstheory.cn/dukan/qs/2022-04/15/c_1128558491.htm",
+    "topics": {
+      "现代化与规划": [
+        "高质量发展"
+      ],
+      "民生人口就业": [
+        "社会保障"
+      ]
+    }
+  },
+  {
+    "id": "QS_2022_09",
+    "source": "求是署名文章",
+    "year": 2022,
+    "ordinal": 9,
+    "title": "加快建设科技强国 实现高水平科技自立自强",
+    "period_date": "2022-05-01",
+    "public_date": "2022-04-30",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2022-04-30",
+    "event_date": "2021-05-28",
+    "event_context": "※这是习近平总书记2021年5月28日在中国科学院第二十次院士大会、中国工程院第十五次院士大会和中国科协第十次全国代表大会上的讲话。",
+    "url": "https://www.qstheory.cn/dukan/qs/2022-04/30/c_1128607366.htm",
+    "topics": {
+      "科技与产业": [
+        "科技"
+      ]
+    }
+  },
+  {
+    "id": "QS_2022_10",
+    "source": "求是署名文章",
+    "year": 2022,
+    "ordinal": 10,
+    "title": "正确认识和把握我国发展重大理论和实践问题",
+    "period_date": "2022-05-16",
+    "public_date": "2022-05-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2022-05-15",
+    "event_date": "2021-12-08",
+    "event_context": "※这是习近平总书记2021年12月8日在中央经济工作会议上讲话的一部分。",
+    "url": "https://www.qstheory.cn/dukan/qs/2022-05/15/c_1128649331.htm",
+    "topics": {
+      "认识与方法": [
+        "实践"
+      ]
+    }
+  },
+  {
+    "id": "QS_2022_11",
+    "source": "求是署名文章",
+    "year": 2022,
+    "ordinal": 11,
+    "title": "努力建设人与自然和谐共生的现代化",
+    "period_date": "2022-06-01",
+    "public_date": "2022-05-31",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2022-05-31",
+    "event_date": "2021-04-30",
+    "event_context": "※这是习近平总书记2021年4月30日在十九届中央政治局第二十九次集体学习时的讲话。",
+    "url": "https://www.qstheory.cn/dukan/qs/2022-05/31/c_1128695434.htm",
+    "topics": {}
+  },
+  {
+    "id": "QS_2022_12",
+    "source": "求是署名文章",
+    "year": 2022,
+    "ordinal": 12,
+    "title": "坚定不移走中国人权发展道路 更好推动我国人权事业发展",
+    "period_date": "2022-06-16",
+    "public_date": "2022-06-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2022-06-15",
+    "event_date": "2022-02-25",
+    "event_context": "※这是习近平总书记2022年2月25日在十九届中央政治局第三十七次集体学习时的讲话。",
+    "url": "https://www.qstheory.cn/dukan/qs/2022-06/15/c_1128739416.htm",
+    "topics": {}
+  },
+  {
+    "id": "QS_2022_13",
+    "source": "求是署名文章",
+    "year": 2022,
+    "ordinal": 13,
+    "title": "更好把握和运用党的百年奋斗历史经验",
+    "period_date": "2022-07-01",
+    "public_date": "2022-06-30",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2022-06-30",
+    "event_date": "2022-01-11",
+    "event_context": "※这是习近平总书记2022年1月11日在省部级主要领导干部学习贯彻党的十九届六中全会精神专题研讨班上的讲话。",
+    "url": "https://www.qstheory.cn/dukan/qs/2022-06/30/c_1128786667.htm",
+    "topics": {
+      "文化与文明": [
+        "历史"
+      ]
+    }
+  },
+  {
+    "id": "QS_2022_14",
+    "source": "求是署名文章",
+    "year": 2022,
+    "ordinal": 14,
+    "title": "把中国文明历史研究引向深入 增强历史自觉坚定文化自信",
+    "period_date": "2022-07-16",
+    "public_date": "2022-07-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2022-07-15",
+    "event_date": "2022-05-27",
+    "event_context": "※这是习近平总书记2022年5月27日在十九届中央政治局第三十九次集体学习时的讲话。",
+    "url": "https://www.qstheory.cn/dukan/qs/2022-07/15/c_1128830256.htm",
+    "topics": {
+      "文化与文明": [
+        "文化",
+        "文明",
+        "历史"
+      ]
+    }
+  },
+  {
+    "id": "QS_2022_15",
+    "source": "求是署名文章",
+    "year": 2022,
+    "ordinal": 15,
+    "title": "在庆祝中国人民解放军建军90周年大会上的讲话",
+    "period_date": "2022-08-01",
+    "public_date": "2022-07-31",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2022-07-31",
+    "event_date": "2017-08-01",
+    "event_context": "（2017年8月1日）",
+    "url": "https://www.qstheory.cn/dukan/qs/2022-07/31/c_1128878236.htm",
+    "topics": {
+      "安全与国防": [
+        "建军"
+      ]
+    }
+  },
+  {
+    "id": "QS_2022_16",
+    "source": "求是署名文章",
+    "year": 2022,
+    "ordinal": 16,
+    "title": "全党必须完整、准确、全面贯彻新发展理念",
+    "period_date": "2022-08-16",
+    "public_date": "2022-08-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2022-08-15",
+    "event_date": "2021-01-28",
+    "event_context": "※这是习近平总书记2021年1月28日在十九届中央政治局第二十七次集体学习时的讲话。",
+    "url": "https://www.qstheory.cn/dukan/qs/2022-08/15/c_1128913644.htm",
+    "topics": {
+      "现代化与规划": [
+        "新发展理念"
+      ]
+    }
+  },
+  {
+    "id": "QS_2022_17",
+    "source": "求是署名文章",
+    "year": 2022,
+    "ordinal": 17,
+    "title": "新发展阶段贯彻新发展理念必然要求构建新发展格局",
+    "period_date": "2022-09-01",
+    "public_date": "2022-08-31",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2022-08-31",
+    "event_date": "2020-10-29",
+    "event_context": "※这是习近平总书记2020年10月29日在党的十九届五中全会第二次全体会议上的讲话。",
+    "url": "https://www.qstheory.cn/dukan/qs/2022-08/31/c_1128960034.htm",
+    "topics": {
+      "现代化与规划": [
+        "新发展阶段",
+        "新发展理念",
+        "新发展格局"
+      ]
+    }
+  },
+  {
+    "id": "QS_2022_18",
+    "source": "求是署名文章",
+    "year": 2022,
+    "ordinal": 18,
+    "title": "坚持和发展中国特色社会主义要一以贯之",
+    "period_date": "2022-09-16",
+    "public_date": "2022-09-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2022-09-15",
+    "event_date": "2018-01-05",
+    "event_context": "※这是习近平总书记2018年1月5日在新进中央委员会的委员、候补委员和省部级主要领导干部学习贯彻习近平新时代中国特色社会主义思想和党的十九大精神研讨班上讲话的一部分。",
+    "url": "https://www.qstheory.cn/dukan/qs/2022-09/15/c_1129000323.htm",
+    "topics": {}
+  },
+  {
+    "id": "QS_2022_19",
+    "source": "求是署名文章",
+    "year": 2022,
+    "ordinal": 19,
+    "title": "新时代中国共产党的历史使命",
+    "period_date": "2022-10-01",
+    "public_date": "2022-09-30",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2022-09-30",
+    "event_date": "2017-10-18",
+    "event_context": "※这是习近平总书记2017年10月18日在中国共产党第十九次全国代表大会上的报告《决胜全面建成小康社会，夺取新时代中国特色社会主义伟大胜利》的一部分。",
+    "url": "https://www.qstheory.cn/dukan/qs/2022-09/30/c_1129040825.htm",
+    "topics": {
+      "文化与文明": [
+        "历史"
+      ],
+      "党的建设": [
+        "中国共产党"
+      ]
+    }
+  },
+  {
+    "id": "QS_2022_20",
+    "source": "求是署名文章",
+    "year": 2022,
+    "ordinal": 20,
+    "title": "坚持人民至上",
+    "period_date": "2022-10-16",
+    "public_date": "2022-10-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2022-10-15",
+    "event_date": "2020-05-22",
+    "event_context": "※这是习近平总书记2020年5月22日在参加十三届全国人大三次会议内蒙古代表团审议时讲话的主要部分。",
+    "url": "https://www.qstheory.cn/dukan/qs/2022-10/15/c_1129065158.htm",
+    "topics": {}
+  },
+  {
+    "id": "QS_2022_21",
+    "source": "求是署名文章",
+    "year": 2022,
+    "ordinal": 21,
+    "title": "高举中国特色社会主义伟大旗帜 为全面建设社会主义现代化国家而团结奋斗",
+    "period_date": "2022-11-01",
+    "public_date": "",
+    "date_basis": "刊期代公开日期，未独立认证",
+    "usable_date": "2022-11-01",
+    "event_date": "2022-10-16",
+    "event_context": "（2022年10月16日）",
+    "url": "https://www.qstheory.cn/dukan/qs/2022-11/01/c_1129089160.htm",
+    "topics": {}
+  },
+  {
+    "id": "QS_2022_22",
+    "source": "求是署名文章",
+    "year": 2022,
+    "ordinal": 22,
+    "title": "在二十届中央政治局常委同中外记者见面时的讲话",
+    "period_date": "2022-11-16",
+    "public_date": "2022-11-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2022-11-15",
+    "event_date": "2022-10-23",
+    "event_context": "（2022年10月23日）",
+    "url": "https://www.qstheory.cn/dukan/qs/2022-11/15/c_1129126357.htm",
+    "topics": {}
+  },
+  {
+    "id": "QS_2022_23",
+    "source": "求是署名文章",
+    "year": 2022,
+    "ordinal": 23,
+    "title": "在党的十九届七中全会第二次全体会议上的讲话",
+    "period_date": "2022-12-01",
+    "public_date": "2022-11-30",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2022-11-30",
+    "event_date": "2022-10-12",
+    "event_context": "（2022年10月12日）",
+    "url": "https://www.qstheory.cn/dukan/qs/2022-11/30/c_1129172677.htm",
+    "topics": {}
+  },
+  {
+    "id": "QS_2022_24",
+    "source": "求是署名文章",
+    "year": 2022,
+    "ordinal": 24,
+    "title": "继承和发扬党的优良革命传统和作风 弘扬延安精神",
+    "period_date": "2022-12-16",
+    "public_date": "2022-12-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2022-12-15",
+    "event_date": "2022-10-27",
+    "event_context": "※这是习近平总书记2022年10月27日带领中共中央政治局常委李强、赵乐际、王沪宁、蔡奇、丁薛祥、李希瞻仰延安革命纪念地时的讲话要点。",
+    "url": "https://www.qstheory.cn/dukan/qs/2022-12/15/c_1129210015.htm",
+    "topics": {
+      "党的建设": [
+        "作风"
+      ]
+    }
+  },
+  {
+    "id": "QS_2023_01",
+    "source": "求是署名文章",
+    "year": 2023,
+    "ordinal": 1,
+    "title": "为实现党的二十大确定的目标任务而团结奋斗",
+    "period_date": "2023-01-01",
+    "public_date": "2022-12-31",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2022-12-31",
+    "event_date": "2022-10-23",
+    "event_context": "※这是习近平总书记2022年10月23日在党的二十届一中全会上的讲话。",
+    "url": "https://www.qstheory.cn/dukan/qs/2022-12/31/c_1129246574.htm",
+    "topics": {}
+  },
+  {
+    "id": "QS_2023_02",
+    "source": "求是署名文章",
+    "year": 2023,
+    "ordinal": 2,
+    "title": "在二十届中央政治局第一次集体学习时的讲话",
+    "period_date": "2023-01-16",
+    "public_date": "2023-01-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2023-01-15",
+    "event_date": "2022-10-25",
+    "event_context": "（2022年10月25日）",
+    "url": "https://www.qstheory.cn/dukan/qs/2023-01/15/c_1129283203.htm",
+    "topics": {}
+  },
+  {
+    "id": "QS_2023_03",
+    "source": "求是署名文章",
+    "year": 2023,
+    "ordinal": 3,
+    "title": "全面从严治党探索出依靠党的自我革命跳出历史周期率的成功路径",
+    "period_date": "2023-02-01",
+    "public_date": "2023-01-31",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2023-01-31",
+    "event_date": "2022-01-18",
+    "event_context": "※这是习近平总书记2022年1月18日在十九届中央纪委六次全会上讲话的一部分。",
+    "url": "https://www.qstheory.cn/dukan/qs/2023-01/31/c_1129323988.htm",
+    "topics": {
+      "文化与文明": [
+        "历史"
+      ],
+      "党的建设": [
+        "从严治党",
+        "自我革命"
+      ]
+    }
+  },
+  {
+    "id": "QS_2023_04",
+    "source": "求是署名文章",
+    "year": 2023,
+    "ordinal": 4,
+    "title": "当前经济工作的几个重大问题",
+    "period_date": "2023-02-16",
+    "public_date": "2023-02-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2023-02-15",
+    "event_date": "2022-12-15",
+    "event_context": "※这是习近平总书记2022年12月15日在中央经济工作会议上讲话的一部分。",
+    "url": "https://www.qstheory.cn/dukan/qs/2023-02/15/c_1129362874.htm",
+    "topics": {
+      "经济体制与内需": [
+        "经济"
+      ]
+    }
+  },
+  {
+    "id": "QS_2023_05",
+    "source": "求是署名文章",
+    "year": 2023,
+    "ordinal": 5,
+    "title": "新时代党和人民奋进的必由之路",
+    "period_date": "2023-03-01",
+    "public_date": "2023-02-28",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2023-02-28",
+    "event_date": "2022-03-05",
+    "event_context": "※这是习近平总书记2022年3月5日在参加十三届全国人大五次会议内蒙古代表团审议时的讲话要点。",
+    "url": "https://www.qstheory.cn/dukan/qs/2023-02/28/c_1129402307.htm",
+    "topics": {}
+  },
+  {
+    "id": "QS_2023_06",
+    "source": "求是署名文章",
+    "year": 2023,
+    "ordinal": 6,
+    "title": "加快建设农业强国 推进农业农村现代化",
+    "period_date": "2023-03-16",
+    "public_date": "2023-03-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2023-03-15",
+    "event_date": "2022-12-23",
+    "event_context": "※这是习近平总书记2022年12月23日在中央农村工作会议上的讲话。",
+    "url": "https://www.qstheory.cn/dukan/qs/2023-03/15/c_1129432282.htm",
+    "topics": {
+      "乡村城乡与粮食": [
+        "农业",
+        "农村"
+      ]
+    }
+  },
+  {
+    "id": "QS_2023_07",
+    "source": "求是署名文章",
+    "year": 2023,
+    "ordinal": 7,
+    "title": "在中央党校建校90周年庆祝大会暨2023年春季学期开学典礼上的讲话",
+    "period_date": "2023-04-01",
+    "public_date": "2023-03-31",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2023-03-31",
+    "event_date": "2023-03-01",
+    "event_context": "（2023年3月1日）",
+    "url": "https://www.qstheory.cn/dukan/qs/2023-03/31/c_1129478074.htm",
+    "topics": {
+      "党的建设": [
+        "党校"
+      ]
+    }
+  },
+  {
+    "id": "QS_2023_08",
+    "source": "求是署名文章",
+    "year": 2023,
+    "ordinal": 8,
+    "title": "加快构建新发展格局 把握未来发展主动权",
+    "period_date": "2023-04-16",
+    "public_date": "2023-04-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2023-04-15",
+    "event_date": "2023-01-31",
+    "event_context": "※这是习近平总书记2023年1月31日在二十届中央政治局第二次集体学习时讲话的主要部分。",
+    "url": "https://www.qstheory.cn/dukan/qs/2023-04/15/c_1129525276.htm",
+    "topics": {
+      "现代化与规划": [
+        "新发展格局"
+      ]
+    }
+  },
+  {
+    "id": "QS_2023_09",
+    "source": "求是署名文章",
+    "year": 2023,
+    "ordinal": 9,
+    "title": "在学习贯彻习近平新时代中国特色社会主义思想主题教育工作会议上的讲话",
+    "period_date": "2023-05-01",
+    "public_date": "2023-04-30",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2023-04-30",
+    "event_date": "2023-04-03",
+    "event_context": "（2023年4月3日）",
+    "url": "https://www.qstheory.cn/dukan/qs/2023-04/30/c_1129581895.htm",
+    "topics": {
+      "教育与人才": [
+        "教育"
+      ]
+    }
+  },
+  {
+    "id": "QS_2023_10",
+    "source": "求是署名文章",
+    "year": 2023,
+    "ordinal": 10,
+    "title": "在二十届中央政治局第四次集体学习时的讲话",
+    "period_date": "2023-05-16",
+    "public_date": "2023-05-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2023-05-15",
+    "event_date": "2023-03-30",
+    "event_context": "（2023年3月30日）",
+    "url": "https://www.qstheory.cn/dukan/qs/2023-05/15/c_1129612784.htm",
+    "topics": {}
+  },
+  {
+    "id": "QS_2023_11",
+    "source": "求是署名文章",
+    "year": 2023,
+    "ordinal": 11,
+    "title": "中国式现代化是中国共产党领导的社会主义现代化",
+    "period_date": "2023-06-01",
+    "public_date": "2023-05-31",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2023-05-31",
+    "event_date": "2023-02-07",
+    "event_context": "※这是习近平总书记2023年2月7日在新进中央委员会的委员、候补委员和省部级主要领导干部学习贯彻习近平新时代中国特色社会主义思想和党的二十大精神研讨班上讲话的一部分。",
+    "url": "https://www.qstheory.cn/dukan/qs/2023-05/31/c_1129655710.htm",
+    "topics": {
+      "现代化与规划": [
+        "中国式现代化"
+      ],
+      "党的建设": [
+        "中国共产党"
+      ]
+    }
+  },
+  {
+    "id": "QS_2023_12",
+    "source": "求是署名文章",
+    "year": 2023,
+    "ordinal": 12,
+    "title": "健全全面从严治党体系 推动新时代党的建设新的伟大工程向纵深发展",
+    "period_date": "2023-06-16",
+    "public_date": "2023-06-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2023-06-15",
+    "event_date": "2023-01-09",
+    "event_context": "※这是习近平总书记2023年1月9日在二十届中央纪委二次全会上讲话的一部分。",
+    "url": "https://www.qstheory.cn/dukan/qs/2023-06/15/c_1129694554.htm",
+    "topics": {
+      "党的建设": [
+        "党的建设",
+        "从严治党"
+      ]
+    }
+  },
+  {
+    "id": "QS_2023_13",
+    "source": "求是署名文章",
+    "year": 2023,
+    "ordinal": 13,
+    "title": "努力成长为对党和人民忠诚可靠、堪当时代重任的栋梁之才",
+    "period_date": "2023-07-01",
+    "public_date": "2023-06-30",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2023-06-30",
+    "event_date": "2022-03-01",
+    "event_context": "※这是习近平总书记2022年3月1日在2022年春季学期中央党校（国家行政学院）中青年干部培训班开班式上讲话的主要部分。",
+    "url": "https://www.qstheory.cn/dukan/qs/2023-06/30/c_1129723161.htm",
+    "topics": {}
+  },
+  {
+    "id": "QS_2023_14",
+    "source": "求是署名文章",
+    "year": 2023,
+    "ordinal": 14,
+    "title": "深化党和国家机构改革 推进国家治理体系和治理能力现代化",
+    "period_date": "2023-07-16",
+    "public_date": "2023-07-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2023-07-15",
+    "event_date": "2023-02-28",
+    "event_context": "※这是习近平总书记2023年2月28日在党的二十届二中全会第二次全体会议上讲话的一部分。",
+    "url": "https://www.qstheory.cn/dukan/qs/2023-07/15/c_1129749410.htm",
+    "topics": {
+      "法治与制度治理": [
+        "治理",
+        "机构"
+      ]
+    }
+  },
+  {
+    "id": "QS_2023_15",
+    "source": "求是署名文章",
+    "year": 2023,
+    "ordinal": 15,
+    "title": "加强基础研究 实现高水平科技自立自强",
+    "period_date": "2023-08-01",
+    "public_date": "2023-07-31",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2023-07-31",
+    "event_date": "2023-02-21",
+    "event_context": "※这是习近平总书记2023年2月21日在二十届中央政治局第三次集体学习时的讲话。",
+    "url": "https://www.qstheory.cn/dukan/qs/2023-07/31/c_1129776375.htm",
+    "topics": {
+      "科技与产业": [
+        "科技",
+        "基础研究"
+      ]
+    }
+  },
+  {
+    "id": "QS_2023_16",
+    "source": "求是署名文章",
+    "year": 2023,
+    "ordinal": 16,
+    "title": "中国式现代化是强国建设、民族复兴的康庄大道",
+    "period_date": "2023-08-16",
+    "public_date": "2023-08-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2023-08-15",
+    "event_date": "2023-02-07",
+    "event_context": "※这是习近平总书记2023年2月7日在新进中央委员会的委员、候补委员和省部级主要领导干部学习贯彻习近平新时代中国特色社会主义思想和党的二十大精神研讨班上讲话的一部分。",
+    "url": "https://www.qstheory.cn/dukan/qs/2023-08/15/c_1129801483.htm",
+    "topics": {
+      "现代化与规划": [
+        "中国式现代化"
+      ]
+    }
+  },
+  {
+    "id": "QS_2023_17",
+    "source": "求是署名文章",
+    "year": 2023,
+    "ordinal": 17,
+    "title": "在文化传承发展座谈会上的讲话",
+    "period_date": "2023-09-01",
+    "public_date": "2023-08-31",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2023-08-31",
+    "event_date": "2023-06-02",
+    "event_context": "（2023年6月2日）",
+    "url": "https://www.qstheory.cn/dukan/qs/2023-08/31/c_1129834700.htm",
+    "topics": {
+      "文化与文明": [
+        "文化"
+      ]
+    }
+  },
+  {
+    "id": "QS_2023_18",
+    "source": "求是署名文章",
+    "year": 2023,
+    "ordinal": 18,
+    "title": "扎实推动教育强国建设",
+    "period_date": "2023-09-16",
+    "public_date": "2023-09-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2023-09-15",
+    "event_date": "2023-05-29",
+    "event_context": "※这是习近平总书记2023年5月29日在二十届中央政治局第五次集体学习时的讲话。",
+    "url": "https://www.qstheory.cn/dukan/qs/2023-09/15/c_1129862386.htm",
+    "topics": {
+      "教育与人才": [
+        "教育"
+      ]
+    }
+  },
+  {
+    "id": "QS_2023_19",
+    "source": "求是署名文章",
+    "year": 2023,
+    "ordinal": 19,
+    "title": "推进中国式现代化需要处理好若干重大关系",
+    "period_date": "2023-10-01",
+    "public_date": "2023-09-30",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2023-09-30",
+    "event_date": "2023-02-07",
+    "event_context": "※这是习近平总书记2023年2月7日在新进中央委员会的委员、候补委员和省部级主要领导干部学习贯彻习近平新时代中国特色社会主义思想和党的二十大精神研讨班上讲话的一部分。",
+    "url": "https://www.qstheory.cn/dukan/qs/2023-09/30/c_1129890528.htm",
+    "topics": {
+      "现代化与规划": [
+        "中国式现代化"
+      ],
+      "认识与方法": [
+        "关系"
+      ]
+    }
+  },
+  {
+    "id": "QS_2023_20",
+    "source": "求是署名文章",
+    "year": 2023,
+    "ordinal": 20,
+    "title": "开辟马克思主义中国化时代化新境界",
+    "period_date": "2023-10-16",
+    "public_date": "2023-10-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2023-10-15",
+    "event_date": "2023-06-30",
+    "event_context": "※这是习近平总书记2023年6月30日在二十届中央政治局第六次集体学习时的讲话。",
+    "url": "https://www.qstheory.cn/dukan/qs/2023-10/15/c_1129916904.htm",
+    "topics": {}
+  },
+  {
+    "id": "QS_2023_21",
+    "source": "求是署名文章",
+    "year": 2023,
+    "ordinal": 21,
+    "title": "在二十届中央审计委员会第一次会议上的讲话",
+    "period_date": "2023-11-01",
+    "public_date": "2023-10-31",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2023-10-31",
+    "event_date": "2023-05-23",
+    "event_context": "（2023年5月23日）",
+    "url": "https://www.qstheory.cn/dukan/qs/2023-10/31/c_1129947183.htm",
+    "topics": {}
+  },
+  {
+    "id": "QS_2023_22",
+    "source": "求是署名文章",
+    "year": 2023,
+    "ordinal": 22,
+    "title": "推进生态文明建设需要处理好几个重大关系",
+    "period_date": "2023-11-16",
+    "public_date": "2023-11-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2023-11-15",
+    "event_date": "2023-07-17",
+    "event_context": "※这是习近平总书记2023年7月17日在全国生态环境保护大会上的讲话的一部分。",
+    "url": "https://www.qstheory.cn/dukan/qs/2023-11/15/c_1129973727.htm",
+    "topics": {
+      "文化与文明": [
+        "文明"
+      ],
+      "生态与绿色": [
+        "生态"
+      ],
+      "认识与方法": [
+        "关系"
+      ]
+    }
+  },
+  {
+    "id": "QS_2023_23",
+    "source": "求是署名文章",
+    "year": 2023,
+    "ordinal": 23,
+    "title": "切实加强耕地保护 抓好盐碱地综合改造利用",
+    "period_date": "2023-12-01",
+    "public_date": "2023-11-30",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2023-11-30",
+    "event_date": "2023-07-20",
+    "event_context": "※这是习近平总书记2023年7月20日在二十届中央财经委员会第二次会议上关于加强耕地保护和盐碱地综合改造利用讲话的主要部分。",
+    "url": "https://www.qstheory.cn/dukan/qs/2023-11/30/c_1129998594.htm",
+    "topics": {
+      "乡村城乡与粮食": [
+        "耕地"
+      ]
+    }
+  },
+  {
+    "id": "QS_2023_24",
+    "source": "求是署名文章",
+    "year": 2023,
+    "ordinal": 24,
+    "title": "在二十届中央机构编制委员会第一次会议上的讲话",
+    "period_date": "2023-12-16",
+    "public_date": "2023-12-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2023-12-15",
+    "event_date": "2023-07-03",
+    "event_context": "（2023年7月3日）",
+    "url": "https://www.qstheory.cn/dukan/qs/2023-12/15/c_1130027227.htm",
+    "topics": {
+      "法治与制度治理": [
+        "机构"
+      ]
+    }
+  },
+  {
+    "id": "QS_2024_01",
+    "source": "求是署名文章",
+    "year": 2024,
+    "ordinal": 1,
+    "title": "以美丽中国建设全面推进人与自然和谐共生的现代化",
+    "period_date": "2024-01-01",
+    "public_date": "2023-12-31",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2023-12-31",
+    "event_date": "2023-07-17",
+    "event_context": "※这是习近平总书记2023年7月17日在全国生态环境保护大会上讲话的一部分。",
+    "url": "https://www.qstheory.cn/dukan/qs/2023-12/31/c_1130048939.htm",
+    "topics": {
+      "生态与绿色": [
+        "美丽中国"
+      ]
+    }
+  },
+  {
+    "id": "QS_2024_02",
+    "source": "求是署名文章",
+    "year": 2024,
+    "ordinal": 2,
+    "title": "完整、准确、全面贯彻落实关于做好新时代党的统一战线工作的重要思想",
+    "period_date": "2024-01-16",
+    "public_date": "2024-01-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2024-01-15",
+    "event_date": "2022-07-29",
+    "event_context": "※这是习近平总书记2022年7月29日在中央统战工作会议上讲话的一部分。",
+    "url": "https://www.qstheory.cn/dukan/qs/2024-01/15/c_1130059591.htm",
+    "topics": {
+      "民族与统战": [
+        "统一战线"
+      ]
+    }
+  },
+  {
+    "id": "QS_2024_03",
+    "source": "求是署名文章",
+    "year": 2024,
+    "ordinal": 3,
+    "title": "铸牢中华民族共同体意识 推进新时代党的民族工作高质量发展",
+    "period_date": "2024-02-01",
+    "public_date": "2024-01-31",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2024-01-31",
+    "event_date": "2023-10-27",
+    "event_context": "※这是习近平总书记2023年10月27日在二十届中央政治局第九次集体学习时讲话的主要部分。",
+    "url": "https://www.qstheory.cn/dukan/qs/2024-01/31/c_1130069364.htm",
+    "topics": {
+      "现代化与规划": [
+        "高质量发展"
+      ],
+      "民族与统战": [
+        "中华民族共同体"
+      ]
+    }
+  },
+  {
+    "id": "QS_2024_04",
+    "source": "求是署名文章",
+    "year": 2024,
+    "ordinal": 4,
+    "title": "坚持和完善人民代表大会制度 保障人民当家作主",
+    "period_date": "2024-02-16",
+    "public_date": "2024-02-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2024-02-15",
+    "event_date": "2012-12至2023-06",
+    "event_context": "※这是习近平总书记2012年12月至2023年6月期间有关坚持和完善人民代表大会制度、保障人民当家作主重要论述的节录。",
+    "url": "https://www.qstheory.cn/dukan/qs/2024-02/15/c_1130077072.htm",
+    "topics": {
+      "法治与制度治理": [
+        "制度"
+      ]
+    }
+  },
+  {
+    "id": "QS_2024_05",
+    "source": "求是署名文章",
+    "year": 2024,
+    "ordinal": 5,
+    "title": "加强和改进人民政协工作 全面发展协商民主",
+    "period_date": "2024-03-01",
+    "public_date": "2024-02-29",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2024-02-29",
+    "event_date": "2013-02至2023-06",
+    "event_context": "※这是习近平总书记2013年2月至2023年6月期间有关加强和改进人民政协工作、全面发展协商民主重要论述的节录。",
+    "url": "https://www.qstheory.cn/dukan/qs/2024-02/29/c_1130082970.htm",
+    "topics": {
+      "法治与制度治理": [
+        "民主",
+        "政协"
+      ]
+    }
+  },
+  {
+    "id": "QS_2024_06",
+    "source": "求是署名文章",
+    "year": 2024,
+    "ordinal": 6,
+    "title": "时刻保持解决大党独有难题的清醒和坚定，把党的伟大自我革命进行到底",
+    "period_date": "2024-03-16",
+    "public_date": "2024-03-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2024-03-15",
+    "event_date": "2023-01-09",
+    "event_context": "※这是习近平总书记2023年1月9日在二十届中央纪委二次全会上讲话的一部分。",
+    "url": "https://www.qstheory.cn/dukan/qs/2024-03/15/c_1130089619.htm",
+    "topics": {
+      "党的建设": [
+        "自我革命"
+      ]
+    }
+  },
+  {
+    "id": "QS_2024_07",
+    "source": "求是署名文章",
+    "year": 2024,
+    "ordinal": 7,
+    "title": "必须坚持人民至上",
+    "period_date": "2024-04-01",
+    "public_date": "2024-03-31",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2024-03-31",
+    "event_date": "2012-11至2023-12",
+    "event_context": "※这是习近平总书记2012年11月至2023年12月期间有关必须坚持人民至上重要论述的节录。",
+    "url": "https://www.qstheory.cn/dukan/qs/2024-03/31/c_1130100415.htm",
+    "topics": {}
+  },
+  {
+    "id": "QS_2024_08",
+    "source": "求是署名文章",
+    "year": 2024,
+    "ordinal": 8,
+    "title": "加强文化遗产保护传承 弘扬中华优秀传统文化",
+    "period_date": "2024-04-16",
+    "public_date": "2024-04-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2024-04-15",
+    "event_date": "2013-08至2023-09",
+    "event_context": "※这是习近平总书记2013年8月至2023年9月期间有关加强文化遗产保护传承，弘扬中华优秀传统文化重要论述的节录。",
+    "url": "https://www.qstheory.cn/dukan/qs/2024-04/15/c_1130109121.htm",
+    "topics": {
+      "文化与文明": [
+        "文化"
+      ]
+    }
+  },
+  {
+    "id": "QS_2024_09",
+    "source": "求是署名文章",
+    "year": 2024,
+    "ordinal": 9,
+    "title": "组织动员亿万职工积极投身强国建设、民族复兴的伟大事业",
+    "period_date": "2024-05-01",
+    "public_date": "2024-04-30",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2024-04-30",
+    "event_date": "2023-10-23",
+    "event_context": "※这是习近平总书记2023年10月23日在同全国总工会新一届领导班子成员集体谈话时讲话的主要部分。",
+    "url": "https://www.qstheory.cn/dukan/qs/2024-04/30/c_1130136105.htm",
+    "topics": {}
+  },
+  {
+    "id": "QS_2024_10",
+    "source": "求是署名文章",
+    "year": 2024,
+    "ordinal": 10,
+    "title": "全面深化改革开放，为中国式现代化持续注入强劲动力",
+    "period_date": "2024-05-16",
+    "public_date": "2024-05-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2024-05-15",
+    "event_date": "2012-12至2024-03",
+    "event_context": "※这是习近平总书记2012年12月至2024年3月期间有关全面深化改革开放，为中国式现代化持续注入强劲动力重要论述的节录。",
+    "url": "https://www.qstheory.cn/dukan/qs/2024-05/15/c_1130145113.htm",
+    "topics": {
+      "现代化与规划": [
+        "中国式现代化"
+      ],
+      "开放与外交": [
+        "开放"
+      ]
+    }
+  },
+  {
+    "id": "QS_2024_11",
+    "source": "求是署名文章",
+    "year": 2024,
+    "ordinal": 11,
+    "title": "发展新质生产力是推动高质量发展的内在要求和重要着力点",
+    "period_date": "2024-06-01",
+    "public_date": "2024-05-31",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2024-05-31",
+    "event_date": "2024-01-31",
+    "event_context": "※这是习近平总书记2024年1月31日在二十届中央政治局第十一次集体学习时的讲话。",
+    "url": "https://www.qstheory.cn/dukan/qs/2024-05/31/c_1130154174.htm",
+    "topics": {
+      "现代化与规划": [
+        "高质量发展"
+      ],
+      "科技与产业": [
+        "生产力"
+      ]
+    }
+  },
+  {
+    "id": "QS_2024_12",
+    "source": "求是署名文章",
+    "year": 2024,
+    "ordinal": 12,
+    "title": "开创我国高质量发展新局面",
+    "period_date": "2024-06-16",
+    "public_date": "2024-06-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2024-06-15",
+    "event_date": "2017-10至2024-03",
+    "event_context": "※这是习近平总书记2017年10月至2024年3月期间有关开创我国高质量发展新局面重要论述的节录。",
+    "url": "https://www.qstheory.cn/dukan/qs/2024-06/15/c_1130162887.htm",
+    "topics": {
+      "现代化与规划": [
+        "高质量发展"
+      ]
+    }
+  },
+  {
+    "id": "QS_2024_13",
+    "source": "求是署名文章",
+    "year": 2024,
+    "ordinal": 13,
+    "title": "新时代新征程中国共产党的使命任务",
+    "period_date": "2024-07-01",
+    "public_date": "2024-06-30",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2024-06-30",
+    "event_date": "2022-10-16",
+    "event_context": "※这是习近平总书记2022年10月16日在中国共产党第二十次全国代表大会上的报告《高举中国特色社会主义伟大旗帜，为全面建设社会主义现代化国家而团结奋斗》的一部分。",
+    "url": "https://www.qstheory.cn/dukan/qs/2024-06/30/c_1130170872.htm",
+    "topics": {
+      "党的建设": [
+        "中国共产党"
+      ]
+    }
+  },
+  {
+    "id": "QS_2024_14",
+    "source": "求是署名文章",
+    "year": 2024,
+    "ordinal": 14,
+    "title": "必须坚持自信自立",
+    "period_date": "2024-07-16",
+    "public_date": "2024-07-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2024-07-15",
+    "event_date": "2013-01至2024-03",
+    "event_context": "※这是习近平总书记2013年1月至2024年3月期间有关必须坚持自信自立重要论述的节录。",
+    "url": "https://www.qstheory.cn/dukan/qs/2024-07/15/c_1130179374.htm",
+    "topics": {}
+  },
+  {
+    "id": "QS_2024_15",
+    "source": "求是署名文章",
+    "year": 2024,
+    "ordinal": 15,
+    "title": "实现建军一百年奋斗目标，开创国防和军队现代化新局面",
+    "period_date": "2024-08-01",
+    "public_date": "2024-07-31",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2024-07-31",
+    "event_date": "2022-10-16",
+    "event_context": "※这是习近平总书记2022年10月16日在中国共产党第二十次全国代表大会上的报告《高举中国特色社会主义伟大旗帜，为全面建设社会主义现代化国家而团结奋斗》的一部分。",
+    "url": "https://www.qstheory.cn/dukan/qs/2024-07/31/c_1130186965.htm",
+    "topics": {
+      "安全与国防": [
+        "国防",
+        "军队",
+        "建军"
+      ]
+    }
+  },
+  {
+    "id": "QS_2024_16",
+    "source": "求是署名文章",
+    "year": 2024,
+    "ordinal": 16,
+    "title": "关于《中共中央关于进一步全面深化改革、推进中国式现代化的决定》的说明",
+    "period_date": "2024-08-16",
+    "public_date": "2024-08-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2024-08-15",
+    "event_date": "",
+    "event_context": "",
+    "url": "https://www.qstheory.cn/dukan/qs/2024-08/15/c_1130192011.htm",
+    "topics": {
+      "现代化与规划": [
+        "中国式现代化"
+      ]
+    }
+  },
+  {
+    "id": "QS_2024_17",
+    "source": "求是署名文章",
+    "year": 2024,
+    "ordinal": 17,
+    "title": "培养德智体美劳全面发展的社会主义建设者和接班人",
+    "period_date": "2024-09-01",
+    "public_date": "2024-08-31",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2024-08-31",
+    "event_date": "2018-09-10",
+    "event_context": "※这是习近平总书记2018年9月10日在全国教育大会上讲话的一部分。",
+    "url": "https://www.qstheory.cn/dukan/qs/2024-08/31/c_1130197120.htm",
+    "topics": {}
+  },
+  {
+    "id": "QS_2024_18",
+    "source": "求是署名文章",
+    "year": 2024,
+    "ordinal": 18,
+    "title": "在党的二十届三中全会第二次全体会议上的讲话",
+    "period_date": "2024-09-16",
+    "public_date": "2024-09-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2024-09-15",
+    "event_date": "2024-07-18",
+    "event_context": "（2024年7月18日）",
+    "url": "https://www.qstheory.cn/dukan/qs/2024-09/15/c_1130202143.htm",
+    "topics": {}
+  },
+  {
+    "id": "QS_2024_19",
+    "source": "求是署名文章",
+    "year": 2024,
+    "ordinal": 19,
+    "title": "大力弘扬伟大爱国主义精神，把强国建设、民族复兴伟业不断推向前进",
+    "period_date": "2024-10-01",
+    "public_date": "2024-09-30",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2024-09-30",
+    "event_date": "2012-11至2024-05",
+    "event_context": "※这是习近平总书记2012年11月至2024年5月期间有关大力弘扬伟大爱国主义精神，把强国建设、民族复兴伟业不断推向前进重要论述的节录。",
+    "url": "https://www.qstheory.cn/dukan/qs/2024-09/30/c_1130206528.htm",
+    "topics": {}
+  },
+  {
+    "id": "QS_2024_20",
+    "source": "求是署名文章",
+    "year": 2024,
+    "ordinal": 20,
+    "title": "在文艺工作座谈会上的讲话",
+    "period_date": "2024-10-16",
+    "public_date": "2024-10-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2024-10-15",
+    "event_date": "2014-10-15",
+    "event_context": "（2014年10月15日）",
+    "url": "https://www.qstheory.cn/dukan/qs/2024-10/15/c_1130209312.htm",
+    "topics": {
+      "文化与文明": [
+        "文艺"
+      ]
+    }
+  },
+  {
+    "id": "QS_2024_21",
+    "source": "求是署名文章",
+    "year": 2024,
+    "ordinal": 21,
+    "title": "促进高质量充分就业",
+    "period_date": "2024-11-01",
+    "public_date": "2024-10-31",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2024-10-31",
+    "event_date": "2024-05-27",
+    "event_context": "※这是习近平总书记2024年5月27日在二十届中央政治局第十四次集体学习时讲话的主要部分。",
+    "url": "https://www.qstheory.cn/dukan/qs/2024-10/31/c_1130214661.htm",
+    "topics": {
+      "民生人口就业": [
+        "就业"
+      ]
+    }
+  },
+  {
+    "id": "QS_2024_22",
+    "source": "求是署名文章",
+    "year": 2024,
+    "ordinal": 22,
+    "title": "以人口高质量发展支撑中国式现代化",
+    "period_date": "2024-11-16",
+    "public_date": "2024-11-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2024-11-15",
+    "event_date": "2023-05-05",
+    "event_context": "※这是习近平总书记2023年5月5日在二十届中央财经委员会第一次会议上讲话的一部分。",
+    "url": "https://www.qstheory.cn/dukan/qs/2024-11/15/c_1130219268.htm",
+    "topics": {
+      "现代化与规划": [
+        "中国式现代化",
+        "高质量发展"
+      ],
+      "民生人口就业": [
+        "人口"
+      ]
+    }
+  },
+  {
+    "id": "QS_2024_23",
+    "source": "求是署名文章",
+    "year": 2024,
+    "ordinal": 23,
+    "title": "必须坚持守正创新",
+    "period_date": "2024-12-01",
+    "public_date": "2024-11-30",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2024-11-30",
+    "event_date": "2013-01至2024-08",
+    "event_context": "※这是习近平总书记2013年1月至2024年8月期间有关必须坚持守正创新重要论述的节录。",
+    "url": "https://www.qstheory.cn/dukan/qs/2024-11/30/c_1130224009.htm",
+    "topics": {
+      "认识与方法": [
+        "守正"
+      ]
+    }
+  },
+  {
+    "id": "QS_2024_24",
+    "source": "求是署名文章",
+    "year": 2024,
+    "ordinal": 24,
+    "title": "深入推进党的自我革命",
+    "period_date": "2024-12-16",
+    "public_date": "2024-12-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2024-12-15",
+    "event_date": "2024-01-08",
+    "event_context": "※这是习近平总书记2024年1月8日在二十届中央纪委三次全会上讲话的一部分。",
+    "url": "http://qstheory.cn/20241214/3bbf801151ce4ff48ce176aeba23b862/c.html",
+    "topics": {
+      "党的建设": [
+        "自我革命"
+      ]
+    }
+  },
+  {
+    "id": "QS_2025_01",
+    "source": "求是署名文章",
+    "year": 2025,
+    "ordinal": 1,
+    "title": "以中国式现代化全面推进强国建设、民族复兴伟业",
+    "period_date": "2025-01-01",
+    "public_date": "2024-12-31",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2024-12-31",
+    "event_date": "2023-02-07",
+    "event_context": "※这是习近平总书记2023年2月7日在新进中央委员会的委员、候补委员和省部级主要领导干部学习贯彻习近平新时代中国特色社会主义思想和党的二十大精神研讨班上讲话的主要部分。",
+    "url": "https://www.qstheory.cn/20241231/d21bd57c012d4d29824219effd18ca35/c.html",
+    "topics": {
+      "现代化与规划": [
+        "中国式现代化"
+      ]
+    }
+  },
+  {
+    "id": "QS_2025_02",
+    "source": "求是署名文章",
+    "year": 2025,
+    "ordinal": 2,
+    "title": "进一步全面深化改革中的几个重大理论和实践问题",
+    "period_date": "2025-01-16",
+    "public_date": "2025-01-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2025-01-15",
+    "event_date": "2024-10-29",
+    "event_context": "※这是习近平总书记2024年10月29日在省部级主要领导干部学习贯彻党的二十届三中全会精神专题研讨班上讲话的主要部分。",
+    "url": "https://www.qstheory.cn/20250114/81ca692e7874417a96ec84e44fcbbb97/c.html",
+    "topics": {
+      "认识与方法": [
+        "实践"
+      ]
+    }
+  },
+  {
+    "id": "QS_2025_03",
+    "source": "求是署名文章",
+    "year": 2025,
+    "ordinal": 3,
+    "title": "注重家庭，注重家教，注重家风",
+    "period_date": "2025-02-01",
+    "public_date": "2025-01-31",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2025-01-31",
+    "event_date": "2016-12-12",
+    "event_context": "※这是习近平总书记2016年12月12日在会见第一届全国文明家庭代表时讲话的一部分。",
+    "url": "https://www.qstheory.cn/20250130/63cd6117b15f491586b51b45a2f7580e/c.html",
+    "topics": {
+      "文化与文明": [
+        "家庭",
+        "家教",
+        "家风"
+      ]
+    }
+  },
+  {
+    "id": "QS_2025_04",
+    "source": "求是署名文章",
+    "year": 2025,
+    "ordinal": 4,
+    "title": "健全全面从严治党体系",
+    "period_date": "2025-02-16",
+    "public_date": "2025-02-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2025-02-15",
+    "event_date": "2024-06-27",
+    "event_context": "※这是习近平总书记2024年6月27日在二十届中央政治局第十五次集体学习时的讲话。",
+    "url": "https://www.qstheory.cn/20250214/d4546c1e17d649f996097ecb89cfa206/c.html",
+    "topics": {
+      "党的建设": [
+        "从严治党"
+      ]
+    }
+  },
+  {
+    "id": "QS_2025_05",
+    "source": "求是署名文章",
+    "year": 2025,
+    "ordinal": 5,
+    "title": "经济工作必须统筹好几对重要关系",
+    "period_date": "2025-03-01",
+    "public_date": "2025-02-28",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2025-02-28",
+    "event_date": "2024-12-11",
+    "event_context": "※这是习近平总书记2024年12月11日在中央经济工作会议上讲话的一部分。",
+    "url": "https://www.qstheory.cn/20250228/38bbd5e750c944abb05dbd63e83a6be4/c.html",
+    "topics": {
+      "经济体制与内需": [
+        "经济"
+      ],
+      "认识与方法": [
+        "关系"
+      ]
+    }
+  },
+  {
+    "id": "QS_2025_06",
+    "source": "求是署名文章",
+    "year": 2025,
+    "ordinal": 6,
+    "title": "坚持和落实“两个毫不动摇”",
+    "period_date": "2025-03-16",
+    "public_date": "2025-03-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2025-03-15",
+    "event_date": "2013-11至2025-02",
+    "event_context": "※这是习近平总书记2013年11月至2025年2月期间有关坚持和落实“两个毫不动摇”重要论述的节录。",
+    "url": "https://www.qstheory.cn/20250315/54c22dd89ddf43b0b7676fc512b2c96e/c.html",
+    "topics": {
+      "经济体制与内需": [
+        "两个毫不动摇"
+      ]
+    }
+  },
+  {
+    "id": "QS_2025_07",
+    "source": "求是署名文章",
+    "year": 2025,
+    "ordinal": 7,
+    "title": "朝着建成科技强国的宏伟目标奋勇前进",
+    "period_date": "2025-04-01",
+    "public_date": "2025-03-31",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2025-03-31",
+    "event_date": "2024-06-24",
+    "event_context": "※这是习近平总书记2024年6月24日在全国科技大会、国家科学技术奖励大会、两院院士大会上的讲话。",
+    "url": "https://www.qstheory.cn/20250330/f377de1042cc451bb9840b495d33c731/c.html",
+    "topics": {
+      "科技与产业": [
+        "科技"
+      ]
+    }
+  },
+  {
+    "id": "QS_2025_08",
+    "source": "求是署名文章",
+    "year": 2025,
+    "ordinal": 8,
+    "title": "加快建设文化强国",
+    "period_date": "2025-04-16",
+    "public_date": "2025-04-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2025-04-15",
+    "event_date": "2024-10-28",
+    "event_context": "※这是习近平总书记2024年10月28日在二十届中央政治局第十七次集体学习时的讲话。",
+    "url": "https://www.qstheory.cn/20250415/0bc2022e17ea489db4445494b72959af/c.html",
+    "topics": {
+      "文化与文明": [
+        "文化"
+      ]
+    }
+  },
+  {
+    "id": "QS_2025_09",
+    "source": "求是署名文章",
+    "year": 2025,
+    "ordinal": 9,
+    "title": "激励新时代青年在中国式现代化建设中挺膺担当",
+    "period_date": "2025-05-01",
+    "public_date": "2025-04-30",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2025-04-30",
+    "event_date": "2023-06-26",
+    "event_context": "※这是习近平总书记2023年6月26日在同团中央新一届领导班子集体谈话时讲话的主要部分。",
+    "url": "https://www.qstheory.cn/20250429/15d649b7b172477abc9d201b81b78afd/c.html",
+    "topics": {
+      "现代化与规划": [
+        "中国式现代化"
+      ],
+      "教育与人才": [
+        "青年"
+      ],
+      "党的建设": [
+        "担当"
+      ]
+    }
+  },
+  {
+    "id": "QS_2025_10",
+    "source": "求是署名文章",
+    "year": 2025,
+    "ordinal": 10,
+    "title": "锲而不舍落实中央八项规定精神，以优良党风引领社风民风",
+    "period_date": "2025-05-16",
+    "public_date": "2025-05-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2025-05-15",
+    "event_date": "2012-12至2025-03",
+    "event_context": "※这是习近平总书记2012年12月至2025年3月期间有关锲而不舍落实中央八项规定精神，以优良党风引领社风民风重要论述的节录。",
+    "url": "https://www.qstheory.cn/20250515/d54e035d9df6444f91dea19e8e74c543/c.html",
+    "topics": {
+      "党的建设": [
+        "八项规定"
+      ]
+    }
+  },
+  {
+    "id": "QS_2025_11",
+    "source": "求是署名文章",
+    "year": 2025,
+    "ordinal": 11,
+    "title": "加快建设教育强国",
+    "period_date": "2025-06-01",
+    "public_date": "2025-05-31",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2025-05-31",
+    "event_date": "2024-09-09",
+    "event_context": "※这是习近平总书记2024年9月9日在全国教育大会上的讲话。",
+    "url": "https://www.qstheory.cn/20250530/2f3e2f4ff16046c9aa6a1268b01a8010/c.html",
+    "topics": {
+      "教育与人才": [
+        "教育"
+      ]
+    }
+  },
+  {
+    "id": "QS_2025_12",
+    "source": "求是署名文章",
+    "year": 2025,
+    "ordinal": 12,
+    "title": "用中长期规划指导经济社会发展是我们党治国理政的一种重要方式",
+    "period_date": "2025-06-16",
+    "public_date": "2025-06-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2025-06-15",
+    "event_date": "2015-10至2025-04",
+    "event_context": "※这是习近平总书记2015年10月至2025年4月期间有关用中长期规划指导经济社会发展是我们党治国理政的一种重要方式重要论述的节录。",
+    "url": "https://www.qstheory.cn/20250614/bb50b94c0e994f05897d5aaf162e8edb/c.html",
+    "topics": {
+      "现代化与规划": [
+        "规划"
+      ],
+      "经济体制与内需": [
+        "经济"
+      ]
+    }
+  },
+  {
+    "id": "QS_2025_13",
+    "source": "求是署名文章",
+    "year": 2025,
+    "ordinal": 13,
+    "title": "团结奋斗是中国人民创造历史伟业的必由之路",
+    "period_date": "2025-07-01",
+    "public_date": "2025-06-30",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2025-06-30",
+    "event_date": "2016-10至2025-04",
+    "event_context": "※这是习近平总书记2016年10月至2025年4月期间有关团结奋斗是中国人民创造历史伟业的必由之路重要论述的节录。",
+    "url": "https://www.qstheory.cn/20250629/45d5f3a91d9245ffb342611b71b72970/c.html",
+    "topics": {
+      "文化与文明": [
+        "历史"
+      ]
+    }
+  },
+  {
+    "id": "QS_2025_14",
+    "source": "求是署名文章",
+    "year": 2025,
+    "ordinal": 14,
+    "title": "坚定不移推进高水平对外开放",
+    "period_date": "2025-07-16",
+    "public_date": "2025-07-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2025-07-15",
+    "event_date": "2012-12至2025-04",
+    "event_context": "※这是习近平总书记2012年12月至2025年4月期间有关坚定不移推进高水平对外开放重要论述的节录。",
+    "url": "https://www.qstheory.cn/20250714/4506ed33ca0a495da1fd0243ff66cc77/c.html",
+    "topics": {
+      "开放与外交": [
+        "开放"
+      ]
+    }
+  },
+  {
+    "id": "QS_2025_15",
+    "source": "求是署名文章",
+    "year": 2025,
+    "ordinal": 15,
+    "title": "在全国生态环境保护大会上的讲话",
+    "period_date": "2025-08-01",
+    "public_date": "2025-07-31",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2025-07-31",
+    "event_date": "2023-07-17",
+    "event_context": "（2023年7月17日）",
+    "url": "https://www.qstheory.cn/20250731/e1ef54a8e23c43849c70ad851095d533/c.html",
+    "topics": {
+      "生态与绿色": [
+        "生态",
+        "环境"
+      ]
+    }
+  },
+  {
+    "id": "QS_2025_16",
+    "source": "求是署名文章",
+    "year": 2025,
+    "ordinal": 16,
+    "title": "促进民营经济健康发展、高质量发展",
+    "period_date": "2025-08-16",
+    "public_date": "2025-08-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2025-08-15",
+    "event_date": "2025-02-17",
+    "event_context": "※这是习近平总书记2025年2月17日在民营企业座谈会上讲话的主要部分。",
+    "url": "http://www.qstheory.cn/20250815/ae265a4600e040e0ab9694fdbf43123f/c.html",
+    "topics": {
+      "现代化与规划": [
+        "高质量发展"
+      ],
+      "经济体制与内需": [
+        "经济",
+        "民营"
+      ],
+      "民生人口就业": [
+        "健康"
+      ]
+    }
+  },
+  {
+    "id": "QS_2025_17",
+    "source": "求是署名文章",
+    "year": 2025,
+    "ordinal": 17,
+    "title": "弘扬伟大抗战精神，向着中华民族伟大复兴的光辉彼岸奋勇前进",
+    "period_date": "2025-09-01",
+    "public_date": "2025-08-31",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2025-08-31",
+    "event_date": "2014-07至2025-05",
+    "event_context": "※这是习近平总书记2014年7月至2025年5月期间有关弘扬伟大抗战精神，向着中华民族伟大复兴的光辉彼岸奋勇前进重要论述的节录。",
+    "url": "https://www.qstheory.cn/20250830/e328e49450e84581b59a9f10351c3b29/c.html",
+    "topics": {
+      "文化与文明": [
+        "抗战"
+      ]
+    }
+  },
+  {
+    "id": "QS_2025_18",
+    "source": "求是署名文章",
+    "year": 2025,
+    "ordinal": 18,
+    "title": "纵深推进全国统一大市场建设",
+    "period_date": "2025-09-16",
+    "public_date": "2025-09-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2025-09-15",
+    "event_date": "2025-07-01",
+    "event_context": "※这是习近平总书记2025年7月1日在二十届中央财经委员会第六次会议上讲话的一部分。",
+    "url": "https://www.qstheory.cn/20250914/e5d3fb14f33c4771ba73977af642e99e/c.html",
+    "topics": {
+      "经济体制与内需": [
+        "市场"
+      ]
+    }
+  },
+  {
+    "id": "QS_2025_19",
+    "source": "求是署名文章",
+    "year": 2025,
+    "ordinal": 19,
+    "title": "中华民族共同体的形成和发展是人心所向、大势所趋、历史必然",
+    "period_date": "2025-10-01",
+    "public_date": "2025-09-30",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2025-09-30",
+    "event_date": "2024-09-27",
+    "event_context": "※这是习近平总书记2024年9月27日在全国民族团结进步表彰大会上讲话的一部分。",
+    "url": "https://www.qstheory.cn/20250929/c276f89b4fd4418f86a673f9cb156ae3/c.html",
+    "topics": {
+      "文化与文明": [
+        "历史"
+      ],
+      "民族与统战": [
+        "中华民族共同体"
+      ]
+    }
+  },
+  {
+    "id": "QS_2025_20",
+    "source": "求是署名文章",
+    "year": 2025,
+    "ordinal": 20,
+    "title": "推动落实全球发展倡议、全球安全倡议、全球文明倡议、全球治理倡议",
+    "period_date": "2025-10-16",
+    "public_date": "2025-10-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2025-10-15",
+    "event_date": "2021-09至2025-09",
+    "event_context": "※这是习近平总书记2021年9月至2025年9月期间有关推动落实全球发展倡议、全球安全倡议、全球文明倡议、全球治理倡议重要论述的节录。",
+    "url": "https://www.qstheory.cn/20251015/ac27bb8d42874ac18312b658ec1abf3f/c.html",
+    "topics": {
+      "文化与文明": [
+        "文明"
+      ],
+      "法治与制度治理": [
+        "治理"
+      ],
+      "开放与外交": [
+        "全球"
+      ],
+      "安全与国防": [
+        "安全"
+      ]
+    }
+  },
+  {
+    "id": "QS_2025_21",
+    "source": "求是署名文章",
+    "year": 2025,
+    "ordinal": 21,
+    "title": "关于《中共中央关于制定国民经济和社会发展第十五个五年规划的建议》的说明",
+    "period_date": "2025-11-01",
+    "public_date": "2025-10-31",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2025-10-31",
+    "event_date": "2025-10-20",
+    "event_context": "※这是习近平总书记2025年10月20日在党的二十届四中全会上所作的说明。",
+    "url": "https://www.qstheory.cn/20251031/cadea786d2614daa946f1ecf066a2d3c/c.html",
+    "topics": {
+      "现代化与规划": [
+        "规划"
+      ],
+      "经济体制与内需": [
+        "经济"
+      ]
+    }
+  },
+  {
+    "id": "QS_2025_22",
+    "source": "求是署名文章",
+    "year": 2025,
+    "ordinal": 22,
+    "title": "因地制宜发展新质生产力",
+    "period_date": "2025-11-16",
+    "public_date": "2025-11-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2025-11-15",
+    "event_date": "2023-09至2025-04",
+    "event_context": "※这是习近平总书记2023年9月至2025年4月期间有关因地制宜发展新质生产力重要论述的节录。",
+    "url": "https://www.qstheory.cn/20251114/1eaed05f562144a3948dd858f25bbcf7/c.html",
+    "topics": {
+      "科技与产业": [
+        "生产力"
+      ]
+    }
+  },
+  {
+    "id": "QS_2025_23",
+    "source": "求是署名文章",
+    "year": 2025,
+    "ordinal": 23,
+    "title": "推进党的自我革命要做到“五个进一步到位”",
+    "period_date": "2025-12-01",
+    "public_date": "2025-11-30",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2025-11-30",
+    "event_date": "2025-06-30",
+    "event_context": "※这是习近平总书记2025年6月30日在二十届中央政治局第二十一次集体学习时讲话的主要部分。",
+    "url": "https://www.qstheory.cn/20251129/5c573dc1d6574c5b8dd814e5403ae88e/c.html",
+    "topics": {
+      "党的建设": [
+        "自我革命"
+      ]
+    }
+  },
+  {
+    "id": "QS_2025_24",
+    "source": "求是署名文章",
+    "year": 2025,
+    "ordinal": 24,
+    "title": "扩大内需是战略之举",
+    "period_date": "2025-12-16",
+    "public_date": "2025-12-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2025-12-15",
+    "event_date": "2015-10至2025-10",
+    "event_context": "※这是习近平总书记2015年10月至2025年10月期间有关扩大内需是战略之举重要论述的节录。",
+    "url": "https://www.qstheory.cn/20251215/de041a1229c845f183c6b5a707c119b7/c.html",
+    "topics": {
+      "经济体制与内需": [
+        "内需"
+      ],
+      "认识与方法": [
+        "战略"
+      ]
+    }
+  },
+  {
+    "id": "QS_2026_01",
+    "source": "求是署名文章",
+    "year": 2026,
+    "ordinal": 1,
+    "title": "学习好贯彻好党的二十届四中全会精神",
+    "period_date": "2026-01-01",
+    "public_date": "2025-12-31",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2025-12-31",
+    "event_date": "2025-10-23",
+    "event_context": "※这是习近平总书记2025年10月23日在党的二十届四中全会第二次全体会议上讲话的一部分。",
+    "url": "https://www.qstheory.cn/20251231/89d6ae15de5d48039f63ad4888aeda98/c.html",
+    "topics": {}
+  },
+  {
+    "id": "QS_2026_02",
+    "source": "求是署名文章",
+    "year": 2026,
+    "ordinal": 2,
+    "title": "在中央城市工作会议上的讲话",
+    "period_date": "2026-01-16",
+    "public_date": "2026-01-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2026-01-15",
+    "event_date": "2025-07-14",
+    "event_context": "（2025年7月14日）",
+    "url": "https://www.qstheory.cn/20260115/d3e63b3075754be4a98c172afdf6d9b7/c.html",
+    "topics": {
+      "乡村城乡与粮食": [
+        "城市"
+      ]
+    }
+  },
+  {
+    "id": "QS_2026_03",
+    "source": "求是署名文章",
+    "year": 2026,
+    "ordinal": 3,
+    "title": "走好中国特色金融发展之路，建设金融强国",
+    "period_date": "2026-02-01",
+    "public_date": "2026-01-31",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2026-01-31",
+    "event_date": "2024-01-16",
+    "event_context": "※这是习近平总书记2024年1月16日在省部级主要领导干部推动金融高质量发展专题研讨班上讲话的节录。",
+    "url": "https://www.qstheory.cn/20260131/487aa5b5e0804f7ea968118e541b4e91/c.html",
+    "topics": {
+      "经济体制与内需": [
+        "金融"
+      ]
+    }
+  },
+  {
+    "id": "QS_2026_04",
+    "source": "求是署名文章",
+    "year": 2026,
+    "ordinal": 4,
+    "title": "当前经济工作的重点任务",
+    "period_date": "2026-02-16",
+    "public_date": "2026-02-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2026-02-15",
+    "event_date": "2025-12-10",
+    "event_context": "※这是习近平总书记2025年12月10日在中央经济工作会议上讲话的一部分。",
+    "url": "https://www.qstheory.cn/20260214/a9022461555c48e6a2f2e4fef36878a9/c.html",
+    "topics": {
+      "经济体制与内需": [
+        "经济"
+      ]
+    }
+  },
+  {
+    "id": "QS_2026_05",
+    "source": "求是署名文章",
+    "year": 2026,
+    "ordinal": 5,
+    "title": "让愿担当、敢担当、善担当蔚然成风",
+    "period_date": "2026-03-01",
+    "public_date": "2026-02-28",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2026-02-28",
+    "event_date": "2012-12至2025-12",
+    "event_context": "※这是习近平总书记2012年12月至2025年12月期间有关让愿担当、敢担当、善担当蔚然成风重要论述的节录。",
+    "url": "https://www.qstheory.cn/20260228/b5be98bf8eb34c5781a14fbeb3eab546/c.html",
+    "topics": {
+      "党的建设": [
+        "担当"
+      ]
+    }
+  },
+  {
+    "id": "QS_2026_06",
+    "source": "求是署名文章",
+    "year": 2026,
+    "ordinal": 6,
+    "title": "推动海洋经济高质量发展",
+    "period_date": "2026-03-16",
+    "public_date": "2026-03-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2026-03-15",
+    "event_date": "2025-07-01",
+    "event_context": "※这是习近平总书记2025年7月1日在二十届中央财经委员会第六次会议上讲话的一部分。",
+    "url": "https://www.qstheory.cn/20260314/eca2335226a84f3f8d583926b70fef9b/c.html",
+    "topics": {
+      "现代化与规划": [
+        "高质量发展"
+      ],
+      "经济体制与内需": [
+        "经济"
+      ]
+    }
+  },
+  {
+    "id": "QS_2026_07",
+    "source": "求是署名文章",
+    "year": 2026,
+    "ordinal": 7,
+    "title": "树立和践行正确政绩观",
+    "period_date": "2026-04-01",
+    "public_date": "2026-03-31",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2026-03-31",
+    "event_date": "2012-12至2026-02",
+    "event_context": "※这是习近平总书记2012年12月至2026年2月期间有关树立和践行正确政绩观重要论述的节录。",
+    "url": "https://www.qstheory.cn/20260331/904c5f95a8424cd0a5fbfb3f58a67d56/c.html",
+    "topics": {
+      "党的建设": [
+        "政绩观"
+      ]
+    }
+  },
+  {
+    "id": "QS_2026_08",
+    "source": "求是署名文章",
+    "year": 2026,
+    "ordinal": 8,
+    "title": "推动全民阅读，建设书香社会",
+    "period_date": "2026-04-16",
+    "public_date": "2026-04-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2026-04-15",
+    "event_date": "2013-03至2025-03",
+    "event_context": "※这是习近平总书记2013年3月至2025年3月期间有关推动全民阅读，建设书香社会重要论述的节录。",
+    "url": "https://www.qstheory.cn/20260415/eb2be76d239d4fa4a0ef3a9a9d82b970/c.html",
+    "topics": {
+      "文化与文明": [
+        "全民阅读",
+        "书香"
+      ]
+    }
+  },
+  {
+    "id": "QS_2026_09",
+    "source": "求是署名文章",
+    "year": 2026,
+    "ordinal": 9,
+    "title": "在省部级主要领导干部学习贯彻党的二十届四中全会精神专题研讨班上的讲话",
+    "period_date": "2026-05-01",
+    "public_date": "2026-04-30",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2026-04-30",
+    "event_date": "2026-01-20",
+    "event_context": "（2026年1月20日）",
+    "url": "https://www.qstheory.cn/20260430/44dc836951f5499ea6ef98f6a2a5ca75/c.html",
+    "topics": {
+      "党的建设": [
+        "干部"
+      ]
+    }
+  },
+  {
+    "id": "QS_2026_10",
+    "source": "求是署名文章",
+    "year": 2026,
+    "ordinal": 10,
+    "title": "做强做优做大实体经济",
+    "period_date": "2026-05-16",
+    "public_date": "2026-05-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2026-05-15",
+    "event_date": "2016-12至2025-12",
+    "event_context": "※这是习近平总书记2016年12月至2025年12月期间有关做强做优做大实体经济重要论述的节录。",
+    "url": "https://www.qstheory.cn/20260515/b875d723c32f4df8876d45f7b178aa33/c.html",
+    "topics": {
+      "经济体制与内需": [
+        "经济"
+      ]
+    }
+  },
+  {
+    "id": "QS_2026_11",
+    "source": "求是署名文章",
+    "year": 2026,
+    "ordinal": 11,
+    "title": "前瞻布局和发展未来产业",
+    "period_date": "2026-06-01",
+    "public_date": "2026-05-31",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2026-05-31",
+    "event_date": "2026-01-30",
+    "event_context": "※这是习近平总书记2026年1月30日在二十届中央政治局第二十四次集体学习时的讲话。",
+    "url": "https://www.qstheory.cn/20260530/8fa0ec6956ee4bf2ade0e366ce29a722/c.html",
+    "topics": {
+      "科技与产业": [
+        "产业"
+      ]
+    }
+  },
+  {
+    "id": "QS_2026_12",
+    "source": "求是署名文章",
+    "year": 2026,
+    "ordinal": 12,
+    "title": "一体推进教育科技人才发展",
+    "period_date": "2026-06-16",
+    "public_date": "2026-06-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2026-06-15",
+    "event_date": "2012-12至2026-04",
+    "event_context": "※这是习近平总书记2012年12月至2026年4月期间有关一体推进教育科技人才发展重要论述的节录。",
+    "url": "https://www.qstheory.cn/20260615/85e9f1e6f80448dc8324166577b6e68d/c.html",
+    "topics": {
+      "科技与产业": [
+        "科技"
+      ],
+      "教育与人才": [
+        "教育",
+        "人才"
+      ]
+    }
+  },
+  {
+    "id": "QS_2026_13",
+    "source": "求是署名文章",
+    "year": 2026,
+    "ordinal": 13,
+    "title": "做焦裕禄式的县委书记",
+    "period_date": "2026-07-01",
+    "public_date": "2026-06-30",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2026-06-30",
+    "event_date": "2015-01-12",
+    "event_context": "※这是习近平总书记2015年1月12日在中央党校县委书记研修班学员座谈会上的讲话。",
+    "url": "https://www.qstheory.cn/20260630/785160b1758842f1be6375d0be8d2c34/c.html",
+    "topics": {
+      "党的建设": [
+        "县委书记"
+      ]
+    }
+  },
+  {
+    "id": "QS_2026_14",
+    "source": "求是署名文章",
+    "year": 2026,
+    "ordinal": 14,
+    "title": "在庆祝中国共产党成立105周年大会上的讲话",
+    "period_date": "2026-07-16",
+    "public_date": "2026-07-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2026-07-15",
+    "event_date": "2026-07-01",
+    "event_context": "（2026年7月1日）",
+    "url": "https://www.qstheory.cn/20260715/04aebc1bf2754c8a8c3c424efd26c53c/c.html",
+    "topics": {
+      "党的建设": [
+        "中国共产党"
+      ]
+    }
+  },
+  {
+    "id": "QS_2026_15",
+    "source": "求是署名文章",
+    "year": 2026,
+    "ordinal": 15,
+    "title": "加快建设健康中国",
+    "period_date": "2026-08-01",
+    "public_date": "2026-07-31",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2026-07-31",
+    "event_date": "2026-03-06",
+    "event_context": "※这是习近平总书记2026年3月6日在参加全国政协十四届四次会议农工党、九三学社、医药卫生界、社会福利和社会保障界委员联组会时讲话的主要部分。",
+    "url": "https://www.qstheory.cn/20260731/cf71b1264fce4fcb82716d3c2bb25dd1/c.html",
+    "topics": {
+      "民生人口就业": [
+        "健康"
+      ]
+    }
+  },
+  {
+    "id": "QS_2026_16",
+    "source": "求是署名文章",
+    "year": 2026,
+    "ordinal": 16,
+    "title": "提高防灾减灾救灾能力",
+    "period_date": "2026-08-16",
+    "public_date": "2026-08-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2026-08-15",
+    "event_date": "2026-04-28",
+    "event_context": "※这是习近平总书记2026年4月28日在二十届中央政治局第二十五次集体学习时的讲话。",
+    "url": "https://www.qstheory.cn/20260815/2927c3292ea046d89efd4b51ee110b1f/c.html",
+    "topics": {
+      "安全与国防": [
+        "防灾",
+        "救灾"
+      ]
+    }
+  },
+  {
+    "id": "QS_2026_17",
+    "source": "求是署名文章",
+    "year": 2026,
+    "ordinal": 17,
+    "title": "坚持落实管党治党政治责任",
+    "period_date": "2026-09-01",
+    "public_date": "2026-08-31",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2026-08-31",
+    "event_date": "2013-06至2026-07",
+    "event_context": "※这是习近平总书记2013年6月至2026年7月期间有关坚持落实管党治党政治责任重要论述的节录。",
+    "url": "https://www.qstheory.cn/20260831/b6a7bce77e7a49f99adcbb380e0ed32e/c.html",
+    "topics": {
+      "党的建设": [
+        "管党治党"
+      ]
+    }
+  },
+  {
+    "id": "QS_2026_18",
+    "source": "求是署名文章",
+    "year": 2026,
+    "ordinal": 18,
+    "title": "在加强基础研究座谈会上的讲话",
+    "period_date": "2026-09-16",
+    "public_date": "2026-09-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2026-09-15",
+    "event_date": "2026-04-30",
+    "event_context": "（2026年4月30日）",
+    "url": "https://www.qstheory.cn/20260915/a65819cc95eb486daf0cea84706c58dc/c.html",
+    "topics": {
+      "科技与产业": [
+        "基础研究"
+      ]
+    }
+  },
+  {
+    "id": "QS_2026_19",
+    "source": "求是署名文章",
+    "year": 2026,
+    "ordinal": 19,
+    "title": "加强普惠性、基础性、兜底性民生建设",
+    "period_date": "2026-10-01",
+    "public_date": "2026-09-30",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2026-09-30",
+    "event_date": "2012-11至2026-01",
+    "event_context": "※这是习近平总书记2012年11月至2026年1月期间有关加强普惠性、基础性、兜底性民生建设重要论述的节录。",
+    "url": "https://www.qstheory.cn/20260930/14152a8b895444b6a4da99555aec7d17/c.html",
+    "topics": {
+      "民生人口就业": [
+        "民生"
+      ]
+    }
+  },
+  {
+    "id": "QS_2026_20",
+    "source": "求是署名文章",
+    "year": 2026,
+    "ordinal": 20,
+    "title": "以更高标准、更实举措推进全面从严治党",
+    "period_date": "2026-10-16",
+    "public_date": "2026-10-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2026-10-15",
+    "event_date": "2026-01-12",
+    "event_context": "※这是习近平总书记2026年1月12日在二十届中央纪委五次全会上讲话的主要部分。",
+    "url": "https://www.qstheory.cn/20261015/a6ed86729ae947d99a83bb431867b7d3/c.html",
+    "topics": {
+      "党的建设": [
+        "从严治党"
+      ]
+    }
+  },
+  {
+    "id": "QS_2026_21",
+    "source": "求是署名文章",
+    "year": 2026,
+    "ordinal": 21,
+    "title": "关于《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》的说明",
+    "period_date": "2026-11-01",
+    "public_date": "2026-11-02",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2026-11-02",
+    "event_date": "2026-10-26",
+    "event_context": "※这是习近平总书记2026年10月26日在党的二十届五中全会上所作的说明。",
+    "url": "https://www.qstheory.cn/20261102/a4fd49da3a94469cb6f48f8675deaa8c/c.html",
+    "topics": {
+      "党的建设": [
+        "从严治党"
+      ]
+    }
+  },
+  {
+    "id": "QS_2026_22",
+    "source": "求是署名文章",
+    "year": 2026,
+    "ordinal": 22,
+    "title": "携手共建亚太命运共同体",
+    "period_date": "2026-11-16",
+    "public_date": "2026-11-15",
+    "date_basis": "目录备注的网页发布时间",
+    "usable_date": "2026-11-15",
+    "event_date": "2013-10至2025-11",
+    "event_context": "※这是习近平总书记2013年10月至2025年11月期间有关携手共建亚太命运共同体重要论述的节录。",
+    "url": "https://www.qstheory.cn/20261114/6ad1a06b126a40cc81172a7cdd249cca/c.html",
+    "topics": {
+      "开放与外交": [
+        "亚太"
+      ]
+    }
+  },
+  {
+    "id": "STUDY_十九届_18",
+    "source": "政治局集体学习",
+    "year": 2019,
+    "ordinal": 18,
+    "title": "区块链技术发展现状和趋势",
+    "period_date": "2019-10-24",
+    "public_date": "2019-10-25",
+    "date_basis": "目录通稿发表日期",
+    "usable_date": "2019-10-25",
+    "event_date": "2019-10-24",
+    "event_context": "习近平在中央政治局第十八次集体学习时强调 把区块链作为核心技术自主创新重要突破口 加快推动区块链技术和产业创新发展",
+    "url": "http://jhsjk.people.cn/article/31421403",
+    "topics": {
+      "科技与产业": [
+        "区块链"
+      ]
+    }
+  },
+  {
+    "id": "STUDY_十九届_19",
+    "source": "政治局集体学习",
+    "year": 2019,
+    "ordinal": 19,
+    "title": "我国应急管理体系和能力建设",
+    "period_date": "2019-11-29",
+    "public_date": "2019-11-30",
+    "date_basis": "目录通稿发表日期",
+    "usable_date": "2019-11-30",
+    "event_date": "2019-11-29",
+    "event_context": "习近平在中央政治局第十九次集体学习时强调 充分发挥我国应急管理体系特色和优势 积极推进我国应急管理体系和能力现代化",
+    "url": "http://jhsjk.people.cn/article/31483202",
+    "topics": {
+      "安全与国防": [
+        "应急"
+      ]
+    }
+  },
+  {
+    "id": "STUDY_十九届_20",
+    "source": "政治局集体学习",
+    "year": 2020,
+    "ordinal": 20,
+    "title": "“切实实施民法典”",
+    "period_date": "2020-05-29",
+    "public_date": "2020-05-29",
+    "date_basis": "目录通稿发表日期",
+    "usable_date": "2020-05-29",
+    "event_date": "2020-05-29",
+    "event_context": "习近平在中央政治局第二十次集体学习时强调 充分认识颁布实施民法典重大意义 依法更好保障人民合法权益",
+    "url": "http://jhsjk.people.cn/article/31729446",
+    "topics": {}
+  },
+  {
+    "id": "STUDY_十九届_21",
+    "source": "政治局集体学习",
+    "year": 2020,
+    "ordinal": 21,
+    "title": "“深入学习领会和贯彻落实新时代党的组织路线”",
+    "period_date": "2020-06-29",
+    "public_date": "2020-06-30",
+    "date_basis": "目录通稿发表日期",
+    "usable_date": "2020-06-30",
+    "event_date": "2020-06-29",
+    "event_context": "习近平在中央政治局第二十一次集体学习时强调 贯彻落实好新时代党的组织路线 不断把党建设得更加坚强有力",
+    "url": "http://jhsjk.people.cn/article/31765095",
+    "topics": {}
+  },
+  {
+    "id": "STUDY_十九届_22",
+    "source": "政治局集体学习",
+    "year": 2020,
+    "ordinal": 22,
+    "title": "加强国防和军队现代化建设",
+    "period_date": "2020-07-30",
+    "public_date": "2020-07-31",
+    "date_basis": "目录通稿发表日期",
+    "usable_date": "2020-07-31",
+    "event_date": "2020-07-30",
+    "event_context": "习近平在中央政治局第二十二次集体学习时强调 统一思想坚定信心鼓足干劲抓紧工作 奋力推进国防和军队现代化建设",
+    "url": "http://jhsjk.people.cn/article/31806106",
+    "topics": {
+      "安全与国防": [
+        "国防",
+        "军队"
+      ]
+    }
+  },
+  {
+    "id": "STUDY_十九届_23",
+    "source": "政治局集体学习",
+    "year": 2020,
+    "ordinal": 23,
+    "title": "我国考古最新发现及其意义",
+    "period_date": "2020-09-28",
+    "public_date": "2020-09-29",
+    "date_basis": "目录通稿发表日期",
+    "usable_date": "2020-09-29",
+    "event_date": "2020-09-28",
+    "event_context": "习近平在中央政治局第二十三次集体学习时强调 建设中国特色中国风格中国气派的考古学 更好认识源远流长博大精深的中华文明",
+    "url": "http://jhsjk.people.cn/article/31879839",
+    "topics": {
+      "文化与文明": [
+        "考古"
+      ]
+    }
+  },
+  {
+    "id": "STUDY_十九届_24",
+    "source": "政治局集体学习",
+    "year": 2020,
+    "ordinal": 24,
+    "title": "量子科技研究和应用前景",
+    "period_date": "2020-10-16",
+    "public_date": "2020-10-17",
+    "date_basis": "目录通稿发表日期",
+    "usable_date": "2020-10-17",
+    "event_date": "2020-10-16",
+    "event_context": "习近平在中央政治局第二十四次集体学习时强调 深刻认识推进量子科技发展重大意义 加强量子科技发展战略谋划和系统布局",
+    "url": "http://jhsjk.people.cn/article/31895751",
+    "topics": {
+      "科技与产业": [
+        "科技"
+      ]
+    }
+  },
+  {
+    "id": "STUDY_十九届_25",
+    "source": "政治局集体学习",
+    "year": 2020,
+    "ordinal": 25,
+    "title": "加强我国知识产权保护工作",
+    "period_date": "2020-11-30",
+    "public_date": "2020-12-01",
+    "date_basis": "目录通稿发表日期",
+    "usable_date": "2020-12-01",
+    "event_date": "2020-11-30",
+    "event_context": "习近平在中央政治局第二十五次集体学习时强调 全面加强知识产权保护工作 激发创新活力推动构建新发展格局",
+    "url": "http://jhsjk.people.cn/article/31951382",
+    "topics": {}
+  },
+  {
+    "id": "STUDY_十九届_26",
+    "source": "政治局集体学习",
+    "year": 2020,
+    "ordinal": 26,
+    "title": "切实做好国家安全工作",
+    "period_date": "2020-12-11",
+    "public_date": "2020-12-13",
+    "date_basis": "目录通稿发表日期",
+    "usable_date": "2020-12-13",
+    "event_date": "2020-12-11",
+    "event_context": "习近平在中央政治局第二十六次集体学习时强调 坚持系统思维构建大安全格局\n为建设社会主义现代化国家提供坚强保障",
+    "url": "http://jhsjk.people.cn/article/31964463",
+    "topics": {
+      "安全与国防": [
+        "安全"
+      ]
+    }
+  },
+  {
+    "id": "STUDY_十九届_27",
+    "source": "政治局集体学习",
+    "year": 2021,
+    "ordinal": 27,
+    "title": "做好“十四五”时期我国发展开好局、起好步的重点工作",
+    "period_date": "2021-01-28",
+    "public_date": "2021-01-29",
+    "date_basis": "目录通稿发表日期",
+    "usable_date": "2021-01-29",
+    "event_date": "2021-01-28",
+    "event_context": "习近平在中共中央政治局第二十七次集体学习时强调 完整准确全面贯彻新发展理念 确保“十四五”时期我国发展开好局起好步",
+    "url": "http://jhsjk.people.cn/article/32017264",
+    "topics": {}
+  },
+  {
+    "id": "STUDY_十九届_28",
+    "source": "政治局集体学习",
+    "year": 2021,
+    "ordinal": 28,
+    "title": "完善覆盖全民的社会保障体系",
+    "period_date": "2021-02-26",
+    "public_date": "2021-02-27",
+    "date_basis": "目录通稿发表日期",
+    "usable_date": "2021-02-27",
+    "event_date": "2021-02-26",
+    "event_context": "习近平在中共中央政治局第二十八次集体学习时强调 完善覆盖全民的社会保障体系 促进社会保障事业高质量发展可持续发展",
+    "url": "http://jhsjk.people.cn/article/32038346",
+    "topics": {
+      "民生人口就业": [
+        "社会保障"
+      ]
+    }
+  },
+  {
+    "id": "STUDY_十九届_29",
+    "source": "政治局集体学习",
+    "year": 2021,
+    "ordinal": 29,
+    "title": "新形势下加强我国生态文明建设",
+    "period_date": "2021-04-30",
+    "public_date": "2021-05-01",
+    "date_basis": "目录通稿发表日期",
+    "usable_date": "2021-05-01",
+    "event_date": "2021-04-30",
+    "event_context": "习近平在中共中央政治局第二十九次集体学习时强调 保持生态文明建设战略定力 努力建设人与自然和谐共生的现代化",
+    "url": "http://jhsjk.people.cn/article/32093791",
+    "topics": {
+      "文化与文明": [
+        "文明"
+      ],
+      "生态与绿色": [
+        "生态"
+      ]
+    }
+  },
+  {
+    "id": "STUDY_十九届_30",
+    "source": "政治局集体学习",
+    "year": 2021,
+    "ordinal": 30,
+    "title": "加强我国国际传播能力建设",
+    "period_date": "2021-05-31",
+    "public_date": "2021-06-02",
+    "date_basis": "目录通稿发表日期",
+    "usable_date": "2021-06-02",
+    "event_date": "2021-05-31",
+    "event_context": "习近平在中共中央政治局第三十次集体学习时强调 加强和改进国际传播工作 展示真实立体全面的中国",
+    "url": "http://jhsjk.people.cn/article/32120102",
+    "topics": {
+      "开放与外交": [
+        "国际"
+      ]
+    }
+  },
+  {
+    "id": "STUDY_十九届_31",
+    "source": "政治局集体学习",
+    "year": 2021,
+    "ordinal": 31,
+    "title": "用好红色资源、赓续红色血脉",
+    "period_date": "2021-06-25",
+    "public_date": "2021-06-27",
+    "date_basis": "目录通稿发表日期",
+    "usable_date": "2021-06-27",
+    "event_date": "2021-06-25",
+    "event_context": "习近平在中共中央政治局第三十一次集体学习时强调 用好红色资源赓续红色血脉 努力创造无愧于历史和人民的新业绩",
+    "url": "http://jhsjk.people.cn/article/32141593",
+    "topics": {}
+  },
+  {
+    "id": "STUDY_十九届_32",
+    "source": "政治局集体学习",
+    "year": 2021,
+    "ordinal": 32,
+    "title": "坚持党对人民军队绝对领导、奋力实现建军一百年奋斗目标",
+    "period_date": "2021-07-30",
+    "public_date": "2021-07-31",
+    "date_basis": "目录通稿发表日期",
+    "usable_date": "2021-07-31",
+    "event_date": "2021-07-30",
+    "event_context": "习近平在中共中央政治局第三十二次集体学习时强调 坚定决心意志 埋头苦干实干 确保如期实现建军一百年奋斗目标",
+    "url": "http://jhsjk.people.cn/article/32176831",
+    "topics": {
+      "安全与国防": [
+        "军队",
+        "建军"
+      ]
+    }
+  },
+  {
+    "id": "STUDY_十九届_33",
+    "source": "政治局集体学习",
+    "year": 2021,
+    "ordinal": 33,
+    "title": "加强我国生物安全建设",
+    "period_date": "2021-09-29",
+    "public_date": "2021-09-29",
+    "date_basis": "目录通稿发表日期",
+    "usable_date": "2021-09-29",
+    "event_date": "2021-09-29",
+    "event_context": "习近平在中共中央政治局第三十三次集体学习时强调 加强国家生物安全风险防控和治理体系建设 提高国家生物安全治理能力",
+    "url": "http://jhsjk.people.cn/article/32242696",
+    "topics": {
+      "安全与国防": [
+        "安全"
+      ]
+    }
+  },
+  {
+    "id": "STUDY_十九届_34",
+    "source": "政治局集体学习",
+    "year": 2021,
+    "ordinal": 34,
+    "title": "推动我国数字经济健康发展",
+    "period_date": "2021-10-18",
+    "public_date": "2021-10-19",
+    "date_basis": "目录通稿发表日期",
+    "usable_date": "2021-10-19",
+    "event_date": "2021-10-18",
+    "event_context": "习近平在中共中央政治局第三十四次集体学习时强调 把握数字经济发展趋势和规律 推动我国数字经济健康发展",
+    "url": "http://jhsjk.people.cn/article/32258262",
+    "topics": {
+      "经济体制与内需": [
+        "经济"
+      ],
+      "科技与产业": [
+        "数字"
+      ],
+      "民生人口就业": [
+        "健康"
+      ]
+    }
+  },
+  {
+    "id": "STUDY_十九届_35",
+    "source": "政治局集体学习",
+    "year": 2021,
+    "ordinal": 35,
+    "title": "建设中国特色社会主义法治体系",
+    "period_date": "2021-12-06",
+    "public_date": "2021-12-07",
+    "date_basis": "目录通稿发表日期",
+    "usable_date": "2021-12-07",
+    "event_date": "2021-12-06",
+    "event_context": "习近平在中共中央政治局第三十五次集体学习时强调 坚定不移走中国特色社会主义法治道路 更好推进中国特色社会主义法治体系建设",
+    "url": "http://jhsjk.people.cn/article/32301925",
+    "topics": {
+      "法治与制度治理": [
+        "法治"
+      ]
+    }
+  },
+  {
+    "id": "STUDY_十九届_36",
+    "source": "政治局集体学习",
+    "year": 2022,
+    "ordinal": 36,
+    "title": "努力实现碳达峰碳中和目标",
+    "period_date": "2022-01-24",
+    "public_date": "2022-01-26",
+    "date_basis": "目录通稿发表日期",
+    "usable_date": "2022-01-26",
+    "event_date": "2022-01-24",
+    "event_context": "习近平在中共中央政治局第三十六次集体学习时强调 深入分析推进碳达峰碳中和工作面临的形势任务\n扎扎实实把党中央决策部署落到实处",
+    "url": "http://jhsjk.people.cn/article/32339885",
+    "topics": {}
+  },
+  {
+    "id": "STUDY_十九届_37",
+    "source": "政治局集体学习",
+    "year": 2022,
+    "ordinal": 37,
+    "title": "中国人权发展道路",
+    "period_date": "2022-02-25",
+    "public_date": "2022-02-26",
+    "date_basis": "目录通稿发表日期",
+    "usable_date": "2022-02-26",
+    "event_date": "2022-02-25",
+    "event_context": "习近平在中共中央政治局第三十七次集体学习时强调 坚定不移走中国人权发展道路 更好推动我国人权事业发展",
+    "url": "http://jhsjk.people.cn/article/32360358",
+    "topics": {}
+  },
+  {
+    "id": "STUDY_十九届_38",
+    "source": "政治局集体学习",
+    "year": 2022,
+    "ordinal": 38,
+    "title": "依法规范和引导我国资本健康发展",
+    "period_date": "2022-04-29",
+    "public_date": "2022-05-01",
+    "date_basis": "目录通稿发表日期",
+    "usable_date": "2022-05-01",
+    "event_date": "2022-04-29",
+    "event_context": "习近平在中共中央政治局第三十八次集体学习时强调 依法规范和引导我国资本健康发展 发挥资本作为重要生产要素的积极作用",
+    "url": "http://jhsjk.people.cn/article/32412825",
+    "topics": {
+      "民生人口就业": [
+        "健康"
+      ],
+      "法治与制度治理": [
+        "依法"
+      ]
+    }
+  },
+  {
+    "id": "STUDY_十九届_39",
+    "source": "政治局集体学习",
+    "year": 2022,
+    "ordinal": 39,
+    "title": "深化中华文明探源工程",
+    "period_date": "2022-05-27",
+    "public_date": "2022-05-28",
+    "date_basis": "目录通稿发表日期",
+    "usable_date": "2022-05-28",
+    "event_date": "2022-05-27",
+    "event_context": "习近平在中共中央政治局第三十九次集体学习时强调 把中国文明历史研究引向深入 推动增强历史自觉坚定文化自信",
+    "url": "http://jhsjk.people.cn/article/32432830",
+    "topics": {
+      "文化与文明": [
+        "文明"
+      ]
+    }
+  },
+  {
+    "id": "STUDY_十九届_40",
+    "source": "政治局集体学习",
+    "year": 2022,
+    "ordinal": 40,
+    "title": "一体推进不敢腐、不能腐、不想腐",
+    "period_date": "2022-06-17",
+    "public_date": "2022-06-18",
+    "date_basis": "目录通稿发表日期",
+    "usable_date": "2022-06-18",
+    "event_date": "2022-06-17",
+    "event_context": "习近平在中共中央政治局第四十次集体学习时强调 提高一体推进“三不腐”能力和水平 全面打赢反腐败斗争攻坚战持久战",
+    "url": "http://jhsjk.people.cn/article/32449979",
+    "topics": {}
+  },
+  {
+    "id": "STUDY_十九届_41",
+    "source": "政治局集体学习",
+    "year": 2022,
+    "ordinal": 41,
+    "title": "深入实施新时代人才强军战略",
+    "period_date": "2022-07-28",
+    "public_date": "2022-07-29",
+    "date_basis": "目录通稿发表日期",
+    "usable_date": "2022-07-29",
+    "event_date": "2022-07-28",
+    "event_context": "习近平在中共中央政治局第四十一次集体学习时强调 深入实施新时代人才强军战略 更好发挥人才对强军事业的引领和支撑作用",
+    "url": "http://jhsjk.people.cn/article/32489629",
+    "topics": {
+      "教育与人才": [
+        "人才"
+      ],
+      "安全与国防": [
+        "强军"
+      ],
+      "认识与方法": [
+        "战略"
+      ]
+    }
+  },
+  {
+    "id": "STUDY_二十届_1",
+    "source": "政治局集体学习",
+    "year": 2022,
+    "ordinal": 1,
+    "title": "学习贯彻党的二十大精神",
+    "period_date": "2022-10-25",
+    "public_date": "2022-10-26",
+    "date_basis": "目录通稿发表日期",
+    "usable_date": "2022-10-26",
+    "event_date": "2022-10-25",
+    "event_context": "习近平在中共中央政治局第一次集体学习时强调 全面学习把握落实党的二十大精神 奋力夺取全面建设社会主义现代化国家新胜利",
+    "url": "http://jhsjk.people.cn/article/32552136",
+    "topics": {}
+  },
+  {
+    "id": "STUDY_二十届_2",
+    "source": "政治局集体学习",
+    "year": 2023,
+    "ordinal": 2,
+    "title": "加快构建新发展格局",
+    "period_date": "2023-01-31",
+    "public_date": "2023-02-01",
+    "date_basis": "目录通稿发表日期",
+    "usable_date": "2023-02-01",
+    "event_date": "2023-01-31",
+    "event_context": "习近平在中共中央政治局第二次集体学习时强调 加快构建新发展格局 增强发展的安全性主动权",
+    "url": "http://jhsjk.people.cn/article/32615901",
+    "topics": {
+      "现代化与规划": [
+        "新发展格局"
+      ]
+    }
+  },
+  {
+    "id": "STUDY_二十届_3",
+    "source": "政治局集体学习",
+    "year": 2023,
+    "ordinal": 3,
+    "title": "加强基础研究",
+    "period_date": "2023-02-21",
+    "public_date": "2023-02-22",
+    "date_basis": "目录通稿发表日期",
+    "usable_date": "2023-02-22",
+    "event_date": "2023-02-21",
+    "event_context": "习近平在中共中央政治局第三次集体学习时强调 切实加强基础研究 夯实科技自立自强根基",
+    "url": "http://jhsjk.people.cn/article/32628987",
+    "topics": {
+      "科技与产业": [
+        "基础研究"
+      ]
+    }
+  },
+  {
+    "id": "STUDY_二十届_4",
+    "source": "政治局集体学习",
+    "year": 2023,
+    "ordinal": 4,
+    "title": "学习贯彻习近平新时代中国特色社会主义思想",
+    "period_date": "2023-03-30",
+    "public_date": "2023-04-01",
+    "date_basis": "目录通稿发表日期",
+    "usable_date": "2023-04-01",
+    "event_date": "2023-03-30",
+    "event_context": "习近平在中共中央政治局第四次集体学习时强调 把学习贯彻新时代中国特色社会主义思想不断引向深入",
+    "url": "http://jhsjk.people.cn/article/32655693",
+    "topics": {}
+  },
+  {
+    "id": "STUDY_二十届_5",
+    "source": "政治局集体学习",
+    "year": 2023,
+    "ordinal": 5,
+    "title": "建设教育强国",
+    "period_date": "2023-05-29",
+    "public_date": "2023-05-30",
+    "date_basis": "目录通稿发表日期",
+    "usable_date": "2023-05-30",
+    "event_date": "2023-05-29",
+    "event_context": "习近平在中共中央政治局第五次集体学习时强调 加快建设教育强国  为中华民族伟大复兴提供有力支撑",
+    "url": "http://jhsjk.people.cn/article/40001818",
+    "topics": {
+      "教育与人才": [
+        "教育"
+      ]
+    }
+  },
+  {
+    "id": "STUDY_二十届_6",
+    "source": "政治局集体学习",
+    "year": 2023,
+    "ordinal": 6,
+    "title": "开辟马克思主义中国化时代化新境界",
+    "period_date": "2023-06-30",
+    "public_date": "2023-07-02",
+    "date_basis": "目录通稿发表日期",
+    "usable_date": "2023-07-02",
+    "event_date": "2023-06-30",
+    "event_context": "习近平在中共中央政治局第六次集体学习时强调 不断深化对党的理论创新的规律性认识 在新时代新征程上取得更为丰硕的理论创新成果",
+    "url": "http://jhsjk.people.cn/article/40025761",
+    "topics": {}
+  },
+  {
+    "id": "STUDY_二十届_7",
+    "source": "政治局集体学习",
+    "year": 2023,
+    "ordinal": 7,
+    "title": "全面加强军事治理",
+    "period_date": "2023-07-24",
+    "public_date": "2023-07-26",
+    "date_basis": "目录通稿发表日期",
+    "usable_date": "2023-07-26",
+    "event_date": "2023-07-24",
+    "event_context": "习近平在中共中央政治局第七次集体学习时强调 全面加强军事治理  以高水平治理推动我军高质量发展",
+    "url": "http://jhsjk.people.cn/article/40043702",
+    "topics": {
+      "法治与制度治理": [
+        "治理"
+      ],
+      "安全与国防": [
+        "强军"
+      ]
+    }
+  },
+  {
+    "id": "STUDY_二十届_8",
+    "source": "政治局集体学习",
+    "year": 2023,
+    "ordinal": 8,
+    "title": "世界贸易组织规则与世界贸易组织改革",
+    "period_date": "2023-09-27",
+    "public_date": "2023-09-27",
+    "date_basis": "目录通稿发表日期",
+    "usable_date": "2023-09-27",
+    "event_date": "2023-09-27",
+    "event_context": "习近平在中共中央政治局第八次集体学习时强调 积极参与世界贸易组织改革 提高驾驭高水平对外开放能力",
+    "url": "http://jhsjk.people.cn/article/40086726",
+    "topics": {
+      "开放与外交": [
+        "世界"
+      ]
+    }
+  },
+  {
+    "id": "STUDY_二十届_9",
+    "source": "政治局集体学习",
+    "year": 2023,
+    "ordinal": 9,
+    "title": "铸牢中华民族共同体意识",
+    "period_date": "2023-10-27",
+    "public_date": "2023-10-29",
+    "date_basis": "目录通稿发表日期",
+    "usable_date": "2023-10-29",
+    "event_date": "2023-10-27",
+    "event_context": "习近平在中共中央政治局第九次集体学习时强调 铸牢中华民族共同体意识 推进新时代党的民族工作高质量发展",
+    "url": "http://jhsjk.people.cn/article/40105509",
+    "topics": {
+      "民族与统战": [
+        "中华民族共同体"
+      ]
+    }
+  },
+  {
+    "id": "STUDY_二十届_10",
+    "source": "政治局集体学习",
+    "year": 2023,
+    "ordinal": 10,
+    "title": "加强涉外法制建设",
+    "period_date": "2023-11-27",
+    "public_date": "2023-11-29",
+    "date_basis": "目录通稿发表日期",
+    "usable_date": "2023-11-29",
+    "event_date": "2023-11-27",
+    "event_context": "习近平在中共中央政治局第十次集体学习时强调 加强涉外法制建设  营造有利法治条件和外部环境",
+    "url": "http://jhsjk.people.cn/article/40127768",
+    "topics": {}
+  },
+  {
+    "id": "STUDY_二十届_11",
+    "source": "政治局集体学习",
+    "year": 2024,
+    "ordinal": 11,
+    "title": "扎实推进高质量发展",
+    "period_date": "2024-01-31",
+    "public_date": "2024-02-02",
+    "date_basis": "目录通稿发表日期",
+    "usable_date": "2024-02-02",
+    "event_date": "2024-01-31",
+    "event_context": "习近平在中共中央政治局第十一次集体学习时强调 加快发展新质生产力  扎实推进高质量发展",
+    "url": "http://jhsjk.people.cn/article/40171526",
+    "topics": {
+      "现代化与规划": [
+        "高质量发展"
+      ]
+    }
+  },
+  {
+    "id": "STUDY_二十届_12",
+    "source": "政治局集体学习",
+    "year": 2024,
+    "ordinal": 12,
+    "title": "新能源技术与我国的能源安全",
+    "period_date": "2024-02-29",
+    "public_date": "2024-03-02",
+    "date_basis": "目录通稿发表日期",
+    "usable_date": "2024-03-02",
+    "event_date": "2024-02-29",
+    "event_context": "习近平在中共中央政治局第十二次集体学习时强调 大力推动我国新能源高质量发展 为共建清洁美丽世界作出更大贡献",
+    "url": "http://jhsjk.people.cn/article/40187282",
+    "topics": {
+      "安全与国防": [
+        "安全"
+      ]
+    }
+  },
+  {
+    "id": "STUDY_二十届_14",
+    "source": "政治局集体学习",
+    "year": 2024,
+    "ordinal": 14,
+    "title": "促进高质量充分就业",
+    "period_date": "2024-05-27",
+    "public_date": "2024-05-29",
+    "date_basis": "目录通稿发表日期",
+    "usable_date": "2024-05-29",
+    "event_date": "2024-05-27",
+    "event_context": "习近平在中共中央政治局第十四次集体学习时强调 促进高质量充分就业  不断增强广大劳动者的获得感幸福感安全感",
+    "url": "http://jhsjk.people.cn/article/40245657",
+    "topics": {
+      "民生人口就业": [
+        "就业"
+      ]
+    }
+  },
+  {
+    "id": "STUDY_二十届_15",
+    "source": "政治局集体学习",
+    "year": 2024,
+    "ordinal": 15,
+    "title": "健全全面从严治党体系",
+    "period_date": "2024-06-27",
+    "public_date": "2024-06-29",
+    "date_basis": "目录通稿发表日期",
+    "usable_date": "2024-06-29",
+    "event_date": "2024-06-27",
+    "event_context": "习近平在中共中央政治局第十五次集体学习时强调 贯彻落实新时代党的建设总要求进一步健全全面从严治党体系",
+    "url": "http://jhsjk.people.cn/article/40266922",
+    "topics": {
+      "党的建设": [
+        "从严治党"
+      ]
+    }
+  },
+  {
+    "id": "STUDY_二十届_16",
+    "source": "政治局集体学习",
+    "year": 2024,
+    "ordinal": 16,
+    "title": "推进现代边海空防建设",
+    "period_date": "2024-07-30",
+    "public_date": "2024-08-01",
+    "date_basis": "目录通稿发表日期",
+    "usable_date": "2024-08-01",
+    "event_date": "2024-07-30",
+    "event_context": "习近平在中共中央政治局第十六次集体学习时强调 强化使命担当  创新思路举措  狠抓工作落实 努力建设强大稳固的现代边海空防",
+    "url": "http://jhsjk.people.cn/article/40290228",
+    "topics": {}
+  },
+  {
+    "id": "STUDY_二十届_17",
+    "source": "政治局集体学习",
+    "year": 2024,
+    "ordinal": 17,
+    "title": "建设文化强国",
+    "period_date": "2024-10-28",
+    "public_date": "2024-10-29",
+    "date_basis": "目录通稿发表日期",
+    "usable_date": "2024-10-29",
+    "event_date": "2024-10-28",
+    "event_context": "习近平在中共中央政治局第十七次集体学习时强调 锚定建成文化强国战略目标  不断发展新时代中国特色社会主义文化",
+    "url": "http://jhsjk.people.cn/article/40349175",
+    "topics": {
+      "文化与文明": [
+        "文化"
+      ]
+    }
+  },
+  {
+    "id": "STUDY_二十届_18",
+    "source": "政治局集体学习",
+    "year": 2024,
+    "ordinal": 18,
+    "title": "我国历史上的边疆治理",
+    "period_date": "2024-12-09",
+    "public_date": "2024-12-11",
+    "date_basis": "目录通稿发表日期",
+    "usable_date": "2024-12-11",
+    "event_date": "2024-12-09",
+    "event_context": "习近平在中共中央政治局第十八次集体学习时强调  深入做好边疆治理各项工作 推动边疆地区高质量发展",
+    "url": "http://jhsjk.people.cn/article/40379745",
+    "topics": {
+      "文化与文明": [
+        "历史"
+      ],
+      "法治与制度治理": [
+        "治理"
+      ],
+      "民族与统战": [
+        "边疆"
+      ]
+    }
+  },
+  {
+    "id": "STUDY_二十届_19",
+    "source": "政治局集体学习",
+    "year": 2025,
+    "ordinal": 19,
+    "title": "建设更高水平平安中国",
+    "period_date": "2025-02-28",
+    "public_date": "2025-03-02",
+    "date_basis": "目录通稿发表日期",
+    "usable_date": "2025-03-02",
+    "event_date": "2025-02-28",
+    "event_context": "习近平在中共中央政治局第十九次集体学习时强调  坚定不移贯彻总体国家安全观  把平安中国建设推向更高水平",
+    "url": "http://jhsjk.people.cn/article/40428850",
+    "topics": {
+      "安全与国防": [
+        "平安中国"
+      ]
+    }
+  },
+  {
+    "id": "STUDY_二十届_20",
+    "source": "政治局集体学习",
+    "year": 2025,
+    "ordinal": 20,
+    "title": "加强人工智能发展和监管",
+    "period_date": "2025-04-25",
+    "public_date": "2025-04-27",
+    "date_basis": "目录通稿发表日期",
+    "usable_date": "2025-04-27",
+    "event_date": "2025-04-25",
+    "event_context": "习近平在中共中央政治局第二十次集体学习时强调  坚持自立自强 突出应用导向 推动人工智能健康有序发展",
+    "url": "http://jhsjk.people.cn/article/40468944",
+    "topics": {
+      "科技与产业": [
+        "人工智能"
+      ]
+    }
+  },
+  {
+    "id": "STUDY_二十届_21",
+    "source": "政治局集体学习",
+    "year": 2025,
+    "ordinal": 21,
+    "title": "健全落实中央八项规定精神、纠治“四风”长效机制",
+    "period_date": "2025-06-30",
+    "public_date": "2025-07-01",
+    "date_basis": "目录通稿发表日期",
+    "usable_date": "2025-07-01",
+    "event_date": "2025-06-30",
+    "event_context": "习近平在中共中央政治局第二十一次集体学习时强调 坚持从抓作风入手推进全面从严治党 把新时代党的自我革命要求进一步落实到位",
+    "url": "http://jhsjk.people.cn/article/40512375",
+    "topics": {
+      "党的建设": [
+        "八项规定"
+      ]
+    }
+  },
+  {
+    "id": "STUDY_二十届_22",
+    "source": "政治局集体学习",
+    "year": 2025,
+    "ordinal": 22,
+    "title": "系统推进我国宗教中国化",
+    "period_date": "2025-09-29",
+    "public_date": "2025-09-30",
+    "date_basis": "目录通稿发表日期",
+    "usable_date": "2025-09-30",
+    "event_date": "2025-09-29",
+    "event_context": "习近平在中共中央政治局第二十二次集体学习时强调  系统推进我国宗教中国化  积极引导宗教与社会主义社会相适应",
+    "url": "http://jhsjk.people.cn/article/40575062",
+    "topics": {
+      "民族与统战": [
+        "宗教"
+      ],
+      "认识与方法": [
+        "系统"
+      ]
+    }
+  },
+  {
+    "id": "STUDY_二十届_23",
+    "source": "政治局集体学习",
+    "year": 2025,
+    "ordinal": 23,
+    "title": "加强网络生态治理",
+    "period_date": "2025-11-28",
+    "public_date": "2025-11-30",
+    "date_basis": "目录通稿发表日期",
+    "usable_date": "2025-11-30",
+    "event_date": "2025-11-28",
+    "event_context": "习近平在中共中央政治局第二十三次集体学习时强调健全网络生态治理长效机制  持续营造风清气正的网络空间",
+    "url": "http://jhsjk.people.cn/article/40614235",
+    "topics": {
+      "生态与绿色": [
+        "生态"
+      ],
+      "法治与制度治理": [
+        "治理"
+      ]
+    }
+  },
+  {
+    "id": "STUDY_二十届_24",
+    "source": "政治局集体学习",
+    "year": 2026,
+    "ordinal": 24,
+    "title": "前瞻布局和发展未来产业",
+    "period_date": "2026-01-30",
+    "public_date": "2026-02-01",
+    "date_basis": "目录通稿发表日期",
+    "usable_date": "2026-02-01",
+    "event_date": "2026-01-30",
+    "event_context": "习近平在中共中央政治局第二十四次集体学习时强调  发挥比较优势  坚持稳中求进  推动我国未来产业发展不断取得新突破",
+    "url": "http://jhsjk.people.cn/article/40657081",
+    "topics": {
+      "科技与产业": [
+        "产业"
+      ]
+    }
+  },
+  {
+    "id": "STUDY_二十届_25",
+    "source": "政治局集体学习",
+    "year": 2026,
+    "ordinal": 25,
+    "title": "提高防灾减灾救灾能力",
+    "period_date": "2026-04-28",
+    "public_date": "2026-04-30",
+    "date_basis": "目录通稿发表日期",
+    "usable_date": "2026-04-30",
+    "event_date": "2026-04-28",
+    "event_context": "习近平在中共中央政治局第二十五次集体学习时强调  着力提高防范应对自然灾害能力  切实维护人民群众生命财产安全",
+    "url": "http://jhsjk.people.cn/article/40711625",
+    "topics": {
+      "安全与国防": [
+        "防灾",
+        "救灾"
+      ]
+    }
+  },
+  {
+    "id": "STUDY_二十届_27",
+    "source": "政治局集体学习",
+    "year": 2026,
+    "ordinal": 27,
+    "title": "高质量推进国防和军队现代化",
+    "period_date": "2026-07-30",
+    "public_date": "2026-08-01",
+    "date_basis": "目录通稿发表日期",
+    "usable_date": "2026-08-01",
+    "event_date": "2026-07-30",
+    "event_context": "习近平在中共中央政治局第二十七次集体学习时强调  强化政治引领  深化创新发展 高质量推进国防和军队现代化",
+    "url": "http://jhsjk.people.cn/article/40772028",
+    "topics": {
+      "安全与国防": [
+        "国防",
+        "军队"
+      ]
+    }
+  }
+]
