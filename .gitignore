@@ -1,0 +1,13 @@
+# 派生产物：索引 106MB + 英文索引 58MB，可由 analysis/*.py 重建
+analysis/out/
+analysis/logs/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+
+# 编辑器
+.DS_Store
+*.swp
