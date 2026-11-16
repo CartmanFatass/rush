@@ -1,0 +1,55 @@
+{
+  "git_head": "eb67748cc842058ea90cf7a8f5bb7aa4a266ad14",
+  "files": [
+    {
+      "path": "analysis/out/index.jsonl",
+      "sha256": "a1d5510079a01d23e31d962e9de0a1bcf8a77c137f28486e9da9f237185ff95d",
+      "bytes": 106049633
+    },
+    {
+      "path": "analysis/out/register.csv",
+      "sha256": "4c6ea7d79d0c1130cf724f901b1c60dd49eb0665942f7044abc9a1cadafef0c9",
+      "bytes": 466
+    },
+    {
+      "path": "analysis/out/best_pre.csv",
+      "sha256": "9f9b490010af9141259df194ccc37f40dc60693b3d4ce4deccf5738c2b21fcba",
+      "bytes": 18387
+    },
+    {
+      "path": "analysis/out/matches.csv",
+      "sha256": "cdb992bf6c678398cb2318b74f9880beaf32394ad97801fabfd0ff7a49ae4819",
+      "bytes": 241323
+    },
+    {
+      "path": "analysis/out/source_lag.csv",
+      "sha256": "bb8a6037fc73088fbacddb4374fdb5649102c8eedfde42e719ace7fb57cbde56",
+      "bytes": 24651
+    },
+    {
+      "path": "analysis/out/pt.json",
+      "sha256": "e206e7720874e2c9b0c451e9e9245a2e8ae13f9125d3d94f33661ca3182362d9",
+      "bytes": 318314
+    },
+    {
+      "path": "analysis/REPORT.md",
+      "sha256": "74bfc672d0c1485ee9da8ef0c3a0555c9f9bf0ff66c390ee305d1eece262fe69",
+      "bytes": 20186
+    },
+    {
+      "path": "CORPUS.md",
+      "sha256": "51f9e308a520f73f9df4d3faba31600676b98feec6c88b26a8b66026f6765e05",
+      "bytes": 7445
+    },
+    {
+      "path": "素材库/README.md",
+      "sha256": "aac4b5d23fe7d3feed2c5e78ed19ed318045299ca4e09286665c4f8152ca9d57",
+      "bytes": 3906
+    },
+    {
+      "path": "行测/资料分析专项/进度.md",
+      "sha256": "cb5ea8797721e134514a58a86c6a0a2af93051557b30ef10497fe538a611e0b4",
+      "bytes": 2877
+    }
+  ]
+}

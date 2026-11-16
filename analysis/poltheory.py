@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """行测「政治理论」模块 vs 申论 vs 官方文件：同一套政策语汇的三个考试面。
 
-解析 2018–2026 的 23 份政治理论真题，统计：
+默认解析 2022–2026 市地/副省，按同年 qid 去重并保留全部出处，统计：
 1. 每题的政策短语命中（复用 relate.PHRASES）；
 2. 短语在 政治理论 / 申论 / 语料各层 的出现分布；
 3. 短语首次进入政治理论 vs 首次进入语料的时间差。
@@ -13,7 +13,7 @@ from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
 
-from relate import PHRASES, parse_exams, topic_hits, TOPICS
+from relate import PHRASES, parse_exams, topic_hits, TOPICS, PAPERS, YEARS, normalize_paper
 
 MD = HERE.parent / "_build" / "md"
 OUT = HERE / "out"
@@ -32,13 +32,15 @@ Q_RE = re.compile(r"^## 第 (\d+) 题　<sub>qid (\d+) · ([^>]*)</sub>", re.M)
 ANS_RE = re.compile(r"\*\*答案\*\*：([A-D]+)")
 
 
-def parse_poltheory():
+def parse_poltheory(*, md=MD, years=YEARS, papers=PAPERS, deduplicate=True):
     qs = []
-    for p in sorted(MD.glob("01-政治理论__*.md")):
+    for p in sorted(Path(md).glob("01-政治理论__*.md")):
         m = re.match(r"01-政治理论__(\d{4})年.*?（(.+?)）", p.name)
         if not m:
             continue
-        year, paper = int(m.group(1)), m.group(2)
+        year, paper = int(m.group(1)), normalize_paper(m.group(2))
+        if year not in years or paper not in papers:
+            continue
         text = p.read_text(encoding="utf-8")
         parts = Q_RE.split(text)
         # parts: [pre, n, qid, tag, body, n, qid, tag, body, ...]
@@ -51,8 +53,22 @@ def parse_poltheory():
                 "tag": tag.strip(), "stem": stem.strip(),
                 "answer": ans.group(1) if ans else "",
                 "chars": len(stem),
+                "file": str(p.relative_to(HERE.parent)) if p.is_relative_to(HERE.parent) else p.name,
             })
-    return qs
+    qs.sort(key=lambda q: (q["year"], list(papers).index(q["paper"]), q["n"]))
+    if not deduplicate:
+        return qs
+    unique = {}
+    for q in qs:
+        key = (q["year"], q["qid"])
+        appearance = {k: q[k] for k in ("year", "paper", "n", "qid", "file")}
+        if key in unique:
+            if re.sub(r"\s", "", unique[key]["stem"]) != re.sub(r"\s", "", q["stem"]):
+                raise ValueError(f"same qid has conflicting stems: {key}")
+            unique[key]["appearances"].append(appearance)
+        else:
+            unique[key] = {**q, "appearances": [appearance]}
+    return list(unique.values())
 
 
 def main():
@@ -117,7 +133,7 @@ def main():
 
     # ---- 只有政治理论用、申论不用的短语（公文语言 vs 叙事语言）----
     only_pt = [r for r in rows if r["n_sl"] == 0]
-    print(f"\n只出现在政治理论、从未进申论: {len(only_pt)} 个")
+    print(f"\n本轮词表在政治理论命中、在所选申论材料未命中: {len(only_pt)} 个")
     print("  " + "、".join(r["phrase"] for r in only_pt[:30]))
 
     # ---- 理论语汇 vs 政策语汇：三个考试面的分工 ----

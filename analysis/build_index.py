@@ -4,7 +4,7 @@
 Sources
 -------
 A. 官方文件层  : corpus/reference/shenlun-system/manifest.json (channel=policy)
-                + corpus/articles/cn/osint-*  (部委/官网发布)
+                + explicitly identified ministry sources (source_layers.py)
 B. 主流媒体层  : corpus/articles/cn/{renmin-ribao,guangming,banyuetan,...}
 C. 地方实践层  : corpus/articles/cn/local-gov-leaders
 D. 学术/智库层 : corpus/articles/cn/{_academic,aisixiang,osint-cass_news,osint-drc_news,...}
@@ -17,6 +17,8 @@ import re
 import sys
 from pathlib import Path
 
+from source_layers import layer_of, sublayer_of
+
 HERE = Path(__file__).resolve().parent
 
 ROOT = Path("/home/fires/projects/Learn-to-Write")
@@ -24,54 +26,6 @@ OUT = HERE / "out"
 OUT.mkdir(parents=True, exist_ok=True)
 
 DATE_RE = re.compile(r"(20\d{2})-(\d{2})-(\d{2})")
-
-# ---- layer classification -------------------------------------------------
-MINISTRY = {
-    "osint-ndrc_news", "osint-mof_news", "osint-miit_news", "osint-pbc_news",
-    "osint-cac_news", "osint-sasac_news", "osint-stats_nbs", "osint-csrc_news",
-    "osint-mofcom_news", "osint-mfa_presser", "osint-nea_news", "osint-safe_news",
-    "osint-drc_news", "osint-cass_news", "osint-stcn_news", "osint-people_daily",
-    "osint-gmw", "osint-economic_daily", "osint-21jingji_news", "osint-yicai_news",
-    "_primary-sources", "_web",
-}
-MEDIA = {
-    "renmin-ribao", "guangming", "banyuetan", "liaowang", "jingjiwang",
-    "huanqiu", "qiushi", "xuexi-shibao", "chao-news", "rss", "wechat",
-    "thepaper-pinglun", "bjnews", "qiushi-english-edition",
-}
-LOCAL = {"local-gov-leaders", "local-papers"}
-ACADEMIC = {"_academic", "aisixiang"}
-
-
-def sublayer_of(src: str, path: str) -> str:
-    if "_primary-sources" in path:
-        return "A0_中央文件"
-    if src.startswith("osint-") or src in {"_web"}:
-        return "A1_部委发布"
-    if src == "local-papers":
-        return "C1_地方党报"
-    if src in LOCAL:
-        return "C_地方实践"
-    if src in ACADEMIC:
-        return "D_学术智库"
-    if src in MEDIA:
-        return "B_主流媒体"
-    return "Z_其他"
-
-
-def layer_of(src: str) -> str:
-    if src in MINISTRY:
-        return "A_官方发布"
-    if src in MEDIA:
-        return "B_主流媒体"
-    if src == "local-papers":
-        return "C1_地方党报"
-    if src in LOCAL:
-        return "C_地方实践"
-    if src in ACADEMIC:
-        return "D_学术智库"
-    return "Z_其他"
-
 
 def read_text(p: Path, limit: int = 20000) -> str:
     try:

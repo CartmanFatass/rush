@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-16",
+  "regression_tests": {
+    "command": "PYTHONPATH=analysis python3 -m unittest discover -s analysis -p 'test_recheck.py' -v",
+    "passed": 10,
+    "failed": 0
+  },
+  "current_input_hashes_verified": true,
+  "original_exam_hashes_verified": 10,
+  "original_papers_and_excerpts_unmodified": true,
+  "changed_document_links_verified": 11,
+  "single_active_progress_preserves_prior_state": true,
+  "limits": [
+    "Not a factual certification of all source content.",
+    "Historical 885/668 phrase labels and 31 essay judgements were not fully reannotated.",
+    "No learner answers or learning gains fabricated."
+  ]
+}

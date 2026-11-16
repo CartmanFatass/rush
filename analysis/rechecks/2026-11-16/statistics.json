@@ -1,0 +1,209 @@
+{
+  "as_of": "2026-11-16",
+  "scope": "2022–2026; city primary, province auxiliary; no prediction weights",
+  "index_records": 20311,
+  "source_records": 20299,
+  "source_group_counts": {
+    "A0_中央文件": 77,
+    "A1_部委发布": 355,
+    "B_主流媒体": 7711,
+    "C1_地方党报": 11489,
+    "C_地方实践": 472,
+    "D_学术智库": 192,
+    "Z_其他": 3
+  },
+  "samples": {
+    "地市级": {
+      "papers": 5,
+      "materials": 24,
+      "questions": 25,
+      "first_answers": 25,
+      "political_unique": 62
+    },
+    "副省级": {
+      "papers": 5,
+      "materials": 23,
+      "questions": 25,
+      "first_answers": 25,
+      "political_unique": 62
+    }
+  },
+  "political_unique": 74,
+  "political_appearances": 124,
+  "profiles": {
+    "地市级材料": {
+      "units": 24,
+      "chars": 36308,
+      "narrative": 4.407,
+      "policy": 2.589,
+      "instruction": 0.468
+    },
+    "地市级题干": {
+      "units": 25,
+      "chars": 2788,
+      "narrative": 0.0,
+      "policy": 9.684,
+      "instruction": 31.923
+    },
+    "地市级参考答案": {
+      "units": 25,
+      "chars": 12863,
+      "narrative": 2.021,
+      "policy": 5.986,
+      "instruction": 0.233
+    },
+    "地市级政治理论题干": {
+      "units": 62,
+      "chars": 7633,
+      "narrative": 0.262,
+      "policy": 15.983,
+      "instruction": 0.917
+    },
+    "副省级材料": {
+      "units": 23,
+      "chars": 35712,
+      "narrative": 6.048,
+      "policy": 1.876,
+      "instruction": 0.448
+    },
+    "副省级题干": {
+      "units": 25,
+      "chars": 2772,
+      "narrative": 0.722,
+      "policy": 9.38,
+      "instruction": 29.221
+    },
+    "副省级参考答案": {
+      "units": 25,
+      "chars": 12967,
+      "narrative": 3.779,
+      "policy": 4.781,
+      "instruction": 0.386
+    },
+    "副省级政治理论题干": {
+      "units": 62,
+      "chars": 7724,
+      "narrative": 0.129,
+      "policy": 16.96,
+      "instruction": 0.647
+    },
+    "合并材料": {
+      "units": 47,
+      "chars": 72021,
+      "narrative": 5.221,
+      "policy": 2.235,
+      "instruction": 0.458
+    },
+    "合并参考答案": {
+      "units": 50,
+      "chars": 25831,
+      "narrative": 2.903,
+      "policy": 5.381,
+      "instruction": 0.31
+    },
+    "D_学术智库": {
+      "units": 192,
+      "chars": 2092855,
+      "narrative": 0.359,
+      "policy": 4.264,
+      "instruction": 0.782
+    },
+    "A0_中央文件": {
+      "units": 77,
+      "chars": 624039,
+      "narrative": 0.963,
+      "policy": 17.215,
+      "instruction": 0.535
+    },
+    "Z_其他": {
+      "units": 3,
+      "chars": 13118,
+      "narrative": 0.534,
+      "policy": 2.592,
+      "instruction": 1.067
+    },
+    "B_主流媒体": {
+      "units": 7711,
+      "chars": 15547172,
+      "narrative": 1.377,
+      "policy": 7.132,
+      "instruction": 0.454
+    },
+    "C_地方实践": {
+      "units": 472,
+      "chars": 547242,
+      "narrative": 2.076,
+      "policy": 10.61,
+      "instruction": 0.338
+    },
+    "C1_地方党报": {
+      "units": 11489,
+      "chars": 17728041,
+      "narrative": 2.368,
+      "policy": 6.395,
+      "instruction": 0.495
+    },
+    "A1_部委发布": {
+      "units": 355,
+      "chars": 561452,
+      "narrative": 1.637,
+      "policy": 8.339,
+      "instruction": 0.461
+    },
+    "深阅读栏目样本": {
+      "units": 240,
+      "chars": 634405,
+      "narrative": 4.902,
+      "policy": 3.777,
+      "instruction": 0.567
+    }
+  },
+  "nearest": {
+    "地市级": {
+      "materials": 24,
+      "positive_similarity_candidates": 24,
+      "threshold_counts": {
+        "0.1": 22,
+        "0.15": 15,
+        "0.2": 8
+      },
+      "median_lead_months": 12.0,
+      "top_source_groups": {
+        "C1_地方党报": 19,
+        "B_主流媒体": 5
+      }
+    },
+    "副省级": {
+      "materials": 23,
+      "positive_similarity_candidates": 23,
+      "threshold_counts": {
+        "0.1": 18,
+        "0.15": 18,
+        "0.2": 5
+      },
+      "median_lead_months": 12,
+      "top_source_groups": {
+        "C1_地方党报": 19,
+        "B_主流媒体": 4
+      }
+    }
+  },
+  "input_sha256": {
+    "out/index.jsonl": "937d2e2f24c6af5d4466911c71da0673c729511e6d8e0320b021a95442550344",
+    "out/best_pre.csv": "218a19da8024f7c1b13816d43cc4bcc2b2417e695ec23dcc73794e7698c01db2",
+    "build_index.py": "91081aa11c08b7ed6ac61356d3ceef71ebd962a8576d6c7f2ca2d5f09928933a",
+    "source_layers.py": "f23e6731d142b62d78cdd321e0b8ff147f85e1f976e32338fd80fcbb27368cec",
+    "relate.py": "6de94701623fb0f7631bfed9f3243a4f8f32d4947785bc8b0d4121b106a03c24",
+    "dynamics.py": "ba55e3b15e671d772268acbf6c6e02a2699e83c7eef44cb581abfc61e99deace",
+    "poltheory.py": "8992f654ac7922294dd3d3f9b25b6ad0c35ec5e7a2cce9c807dc6034c63c68b0",
+    "recheck.py": "1180a2ddc856b93a28614be4a2b2ce2ab0b138cf1a4868feb4195768eb1dd7ba"
+  },
+  "limitations": [
+    "Source groups classify capture directories, not every article's verified publisher.",
+    "Corpus records include reposts and versions; not independent article counts.",
+    "Original index truncation remains: article input 20000 chars, retrieval 9000 chars; bilingual texts affect character-based denominators.",
+    "Similarity is not source attribution, confidence, propagation or exam probability.",
+    "Handbook phrase/essay judgements were not independently reannotated in this pass.",
+    "No human learning outcome or official marking calibration is asserted."
+  ]
+}

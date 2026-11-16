@@ -1,0 +1,48 @@
+exam_year,paper,exam_date,material,rank,score,doc_date,sublayer,source,outlet,title,path,lead_months,n_pre
+2022,地市级,2021-11-28,1,1,0.0893,2021-06-04,C1_地方党报,local-papers,太原日报,加快建设社会主义 文化强国的任务书,corpus/articles/cn/local-papers/taiyuandaily/2021-06-04_加快建设社会主义 文化强国的任务书.txt,5,12
+2022,地市级,2021-11-28,2,1,0.1453,2021-07-04,C1_地方党报,local-papers,湖南日报,“改一条溜索、修一段公路就能给群众打开一扇脱贫致富的大门”,corpus/articles/cn/local-papers/hunandaily/2021-07-04_“改一条溜索、修一段公路就能给群众打开一扇脱贫致富的大门”.txt,4,12
+2022,地市级,2021-11-28,3,1,0.1996,2020-09-04,C1_地方党报,local-papers,青岛日报,以红色文化传承为载体 构建“五全”育人模式,corpus/articles/cn/local-papers/qingdaodaily/2020-09-04_以红色文化传承为载体 构建“五全”育人模式.txt,14,12
+2022,地市级,2021-11-28,4,1,0.1475,2021-05-17,B_主流媒体,renmin-ribao,人民日报,推动大湾区建设取得新的更大进展,corpus/articles/cn/renmin-ribao/pinglunyuan/2021-05-17_推动大湾区建设取得新的更大进展.txt,6,12
+2022,地市级,2021-11-28,5,1,0.1788,2021-03-02,C1_地方党报,local-papers,青岛日报,加快培育农业全产业链,corpus/articles/cn/local-papers/qingdaodaily/2021-03-02_加快培育农业全产业链.txt,8,12
+2022,副省级,2021-11-28,1,1,0.0959,2021-11-24,C1_地方党报,local-papers,创新,创新·融合·开放,corpus/articles/cn/local-papers/taiyuandaily/2021-11-24_创新·融合·开放.txt,0,12
+2022,副省级,2021-11-28,2,1,0.1812,2020-07-24,C1_地方党报,local-papers,河南日报,坚持“三链同构” 促进粮食产业高质量发展,corpus/articles/cn/local-papers/henandaily/2020-07-24_坚持“三链同构” 促进粮食产业高质量发展.txt,16,12
+2022,副省级,2021-11-28,3,1,0.1818,2020-12-23,B_主流媒体,renmin-ribao,人民日报,人民日报人民时评：乡村旅游展现广阔前景,corpus/articles/cn/renmin-ribao/renminshiping/2020-12-23_人民日报人民时评：乡村旅游展现广阔前景.txt,11,12
+2022,副省级,2021-11-28,4,1,0.1613,2020-09-04,C1_地方党报,local-papers,青岛日报,以红色文化传承为载体 构建“五全”育人模式,corpus/articles/cn/local-papers/qingdaodaily/2020-09-04_以红色文化传承为载体 构建“五全”育人模式.txt,14,12
+2022,副省级,2021-11-28,5,1,0.0607,2020-08-23,C1_地方党报,local-papers,青岛日报,AI与金融从业者 “和谐相处”,corpus/articles/cn/local-papers/qingdaodaily/2020-08-23_AI与金融从业者 “和谐相处”.txt,15,12
+2023,地市级,2023-01-08,1,1,0.1719,2022-10-08,C1_地方党报,local-papers,青岛日报,加快构建高度韧性的碳中和体系,corpus/articles/cn/local-papers/qingdaodaily/2022-10-08_加快构建高度韧性的碳中和体系.txt,3,12
+2023,地市级,2023-01-08,2,1,0.3919,2022-04-18,C1_地方党报,local-papers,湖南日报,企业上市如何跨越知识产权门槛,corpus/articles/cn/local-papers/hunandaily/2022-04-18_企业上市如何跨越知识产权门槛.txt,9,12
+2023,地市级,2023-01-08,3,1,0.1628,2021-12-02,C1_地方党报,local-papers,湖南日报,一块光伏板的发电之旅,corpus/articles/cn/local-papers/hunandaily/2021-12-02_一块光伏板的发电之旅.txt,13,12
+2023,地市级,2023-01-08,4,1,0.2074,2022-03-22,C1_地方党报,local-papers,太原日报,精准施策   为小微企业纾困解难,corpus/articles/cn/local-papers/taiyuandaily/2022-03-22_精准施策 为小微企业纾困解难.txt,10,12
+2023,地市级,2023-01-08,5,1,0.0733,2020-08-20,B_主流媒体,renmin-ribao,人民日报,人民日报人民论坛：用确定性战胜“不确定”,corpus/articles/cn/renmin-ribao/renminluntan/2020-08-20_人民日报人民论坛：用确定性战胜“不确定”.txt,29,12
+2023,副省级,2023-01-08,1,1,0.0857,2022-11-14,C1_地方党报,local-papers,湖南日报,百米云端起长虹,corpus/articles/cn/local-papers/hunandaily/2022-11-14_百米云端起长虹.txt,2,12
+2023,副省级,2023-01-08,2,1,0.0706,2021-10-18,C1_地方党报,local-papers,太原日报,光大银行太原分行入村救灾,corpus/articles/cn/local-papers/taiyuandaily/2021-10-18_光大银行太原分行入村救灾.txt,15,12
+2023,副省级,2023-01-08,3,1,0.235,2022-07-11,B_主流媒体,renmin-ribao,人民日报,锲而不舍抓好黄河生态保护工作（人民时评）,corpus/articles/cn/renmin-ribao/renminshiping/2022-07-11_锲而不舍抓好黄河生态保护工作（人民时评）.txt,6,12
+2023,副省级,2023-01-08,4,1,0.1934,2021-06-15,C1_地方党报,local-papers,湖南日报,勇立潮头竞风流 争当园区排头兵,corpus/articles/cn/local-papers/hunandaily/2021-06-15_勇立潮头竞风流 争当园区排头兵.txt,19,12
+2023,副省级,2023-01-08,5,1,0.1937,2022-03-17,C1_地方党报,local-papers,太原日报,AR隐形眼镜从科幻走入现实了吗,corpus/articles/cn/local-papers/taiyuandaily/2022-03-17_AR隐形眼镜从科幻走入现实了吗.txt,10,12
+2024,地市级,2023-11-26,1,1,0.2109,2023-05-08,C1_地方党报,local-papers,河南日报,艺术如何赋能乡村振兴,corpus/articles/cn/local-papers/henandaily/2023-05-08_艺术如何赋能乡村振兴.txt,6,12
+2024,地市级,2023-11-26,2,1,0.1684,2021-11-24,C1_地方党报,local-papers,创新,创新·融合·开放,corpus/articles/cn/local-papers/taiyuandaily/2021-11-24_创新·融合·开放.txt,24,12
+2024,地市级,2023-11-26,3,1,0.2586,2023-11-14,C1_地方党报,local-papers,太原日报,“家门口”就医，不仅要“有”还要“优”,corpus/articles/cn/local-papers/taiyuandaily/2023-11-14_“家门口”就医，不仅要“有”还要“优”.txt,0,12
+2024,地市级,2023-11-26,4,1,0.2475,2020-12-19,C1_地方党报,local-papers,青岛日报,大力推进文化建设,corpus/articles/cn/local-papers/qingdaodaily/2020-12-19_大力推进文化建设.txt,35,12
+2024,地市级,2023-11-26,5,1,0.1923,2021-11-28,C1_地方党报,local-papers,湖南日报,从空馆开馆到藏书5.2万册,corpus/articles/cn/local-papers/hunandaily/2021-11-28_从空馆开馆到藏书5.2万册.txt,24,12
+2024,副省级,2023-11-26,1,1,0.1546,2022-11-16,C1_地方党报,local-papers,青岛日报,易来：寻找发展新曲线,corpus/articles/cn/local-papers/qingdaodaily/2022-11-16_易来：寻找发展新曲线.txt,12,12
+2024,副省级,2023-11-26,2,1,0.1572,2022-08-21,C1_地方党报,local-papers,青岛日报,浅议山东琴书伴奏乐器坠琴的“活态传承”,corpus/articles/cn/local-papers/qingdaodaily/2022-08-21_浅议山东琴书伴奏乐器坠琴的“活态传承”.txt,15,12
+2024,副省级,2023-11-26,3,1,0.16,2023-01-03,C1_地方党报,local-papers,太原日报,产业变革加速 产销振奋信心,corpus/articles/cn/local-papers/taiyuandaily/2023-01-03_产业变革加速 产销振奋信心.txt,10,12
+2024,副省级,2023-11-26,4,1,0.4161,2023-02-09,C1_地方党报,local-papers,太原日报,高标准农田里的“丰收密码”,corpus/articles/cn/local-papers/taiyuandaily/2023-02-09_高标准农田里的“丰收密码”.txt,9,12
+2024,副省级,2023-11-26,5,1,0.153,2023-07-19,B_主流媒体,renmin-ribao,再生变成宝 资源尽其用（深阅读,再生变成宝 资源尽其用（深阅读·实施全面节约战略）,corpus/articles/cn/renmin-ribao/deep-reading/2023-07-19_再生变成宝 资源尽其用（深阅读·实施全面节约战略）.txt,4,12
+2025,地市级,2024-12-01,1,1,0.4326,2022-07-07,C1_地方党报,local-papers,湖南日报,世界最高海拔葡萄园,corpus/articles/cn/local-papers/hunandaily/2022-07-07_世界最高海拔葡萄园.txt,29,12
+2025,地市级,2024-12-01,2,1,0.1201,2022-05-31,C1_地方党报,local-papers,太原日报,借鉴经验 结合实际 持续坚持“四治”一体推进,corpus/articles/cn/local-papers/taiyuandaily/2022-05-31_借鉴经验 结合实际 持续坚持“四治”一体推进.txt,31,12
+2025,地市级,2024-12-01,3,1,0.1455,2024-05-29,B_主流媒体,renmin-ribao,人民日报,让林木成材也“生财”（深阅读）,corpus/articles/cn/renmin-ribao/deep-reading/2024-05-29_让林木成材也“生财”（深阅读）.txt,7,12
+2025,地市级,2024-12-01,4,1,0.5194,2024-02-20,B_主流媒体,renmin-ribao,人民日报,让科学普及与科技创新“两翼齐飞”（人民时评）,corpus/articles/cn/renmin-ribao/renminshiping/2024-02-20_让科学普及与科技创新“两翼齐飞”（人民时评）.txt,10,12
+2025,副省级,2024-12-01,1,1,0.4701,2023-06-12,C1_地方党报,local-papers,太原日报,数字孪生为黄河防汛装上“智慧大脑”,corpus/articles/cn/local-papers/taiyuandaily/2023-06-12_数字孪生为黄河防汛装上“智慧大脑”.txt,18,12
+2025,副省级,2024-12-01,2,1,0.0829,2023-11-15,B_主流媒体,renmin-ribao,人民日报,积极稳步推进城中村改造（人民时评）,corpus/articles/cn/renmin-ribao/renminshiping/2023-11-15_积极稳步推进城中村改造（人民时评）.txt,13,12
+2025,副省级,2024-12-01,3,1,0.1557,2024-05-17,C1_地方党报,local-papers,太原日报,来自“大国粮仓”的报告,corpus/articles/cn/local-papers/taiyuandaily/2024-05-17_来自“大国粮仓”的报告.txt,7,12
+2025,副省级,2024-12-01,4,1,0.1798,2024-07-08,C1_地方党报,local-papers,青岛日报,新职业：机遇与挑战共生的就业“新空间”,corpus/articles/cn/local-papers/qingdaodaily/2024-07-08_新职业：机遇与挑战共生的就业“新空间”.txt,5,12
+2026,地市级,2025-11-30,1,1,0.3114,2024-12-27,C1_地方党报,local-papers,太原日报,一路向前，驶向更美好的未来,corpus/articles/cn/local-papers/taiyuandaily/2024-12-27_一路向前，驶向更美好的未来.txt,11,12
+2026,地市级,2025-11-30,2,1,0.1489,2021-03-02,C1_地方党报,local-papers,青岛日报,加快培育农业全产业链,corpus/articles/cn/local-papers/qingdaodaily/2021-03-02_加快培育农业全产业链.txt,56,12
+2026,地市级,2025-11-30,3,1,0.1482,2020-09-24,B_主流媒体,renmin-ribao,人民日报,人民日报人民时评：把科学种子播种到孩子心中,corpus/articles/cn/renmin-ribao/renminshiping/2020-09-24_人民日报人民时评：把科学种子播种到孩子心中.txt,62,12
+2026,地市级,2025-11-30,4,1,0.113,2023-05-08,C1_地方党报,local-papers,河南日报,用好6种类型把握12项内容(学思想 强党性 重实践 建新功),corpus/articles/cn/local-papers/henandaily/2023-05-08_用好6种类型把握12项内容(学思想 强党性 重实践 建新功).txt,30,12
+2026,地市级,2025-11-30,5,1,0.1752,2023-07-31,C1_地方党报,local-papers,湖南日报,习近平总书记关心考古的故事,corpus/articles/cn/local-papers/hunandaily/2023-07-31_习近平总书记关心考古的故事.txt,28,12
+2026,副省级,2025-11-30,1,1,0.2025,2022-11-16,C1_地方党报,local-papers,青岛日报,易来：寻找发展新曲线,corpus/articles/cn/local-papers/qingdaodaily/2022-11-16_易来：寻找发展新曲线.txt,36,12
+2026,副省级,2025-11-30,2,1,0.1951,2024-11-29,C1_地方党报,local-papers,青岛日报,从“手艺”到“手造”：传统手工艺的现代化转型,corpus/articles/cn/local-papers/qingdaodaily/2024-11-29_从“手艺”到“手造”：传统手工艺的现代化转型.txt,12,12
+2026,副省级,2025-11-30,3,1,0.1869,2024-04-11,C1_地方党报,local-papers,太原日报,在南极“冰盖之巅”仰望苍穹,corpus/articles/cn/local-papers/taiyuandaily/2024-04-11_在南极“冰盖之巅”仰望苍穹.txt,19,12
+2026,副省级,2025-11-30,4,1,0.4008,2021-12-25,C1_地方党报,local-papers,青岛日报,加快完善养老服务体系,corpus/articles/cn/local-papers/qingdaodaily/2021-12-25_加快完善养老服务体系.txt,47,12

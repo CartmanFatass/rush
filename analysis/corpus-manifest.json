@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-15",
+  "generated": "2026-11-16",
   "corpus_repo": "/home/fires/projects/Learn-to-Write",
   "total_files": 29195,
   "total_bytes": 174994825,
@@ -32,8 +32,8 @@
     },
     {
       "source": "_web",
-      "name": "网页快照",
-      "layer": "A1_部委发布",
+      "name": "网页快照（发布者待逐项核验）",
+      "layer": "Z_其他",
       "path": "corpus/articles/cn/_web",
       "files": 3,
       "bytes": 36073,
@@ -176,7 +176,7 @@
     {
       "source": "osint-21jingji_news",
       "name": "21jingji_news",
-      "layer": "A1_部委发布",
+      "layer": "B_主流媒体",
       "path": "corpus/articles/cn/osint-21jingji_news",
       "files": 130,
       "bytes": 979072,
@@ -202,7 +202,7 @@
     {
       "source": "osint-cass_news",
       "name": "cass_news",
-      "layer": "A1_部委发布",
+      "layer": "D_学术智库",
       "path": "corpus/articles/cn/osint-cass_news",
       "files": 8,
       "bytes": 78058,
@@ -228,7 +228,7 @@
     {
       "source": "osint-drc_news",
       "name": "drc_news",
-      "layer": "A1_部委发布",
+      "layer": "D_学术智库",
       "path": "corpus/articles/cn/osint-drc_news",
       "files": 6,
       "bytes": 58759,
@@ -241,7 +241,7 @@
     {
       "source": "osint-economic_daily",
       "name": "economic_daily",
-      "layer": "A1_部委发布",
+      "layer": "B_主流媒体",
       "path": "corpus/articles/cn/osint-economic_daily",
       "files": 20,
       "bytes": 165173,
@@ -254,7 +254,7 @@
     {
       "source": "osint-gmw",
       "name": "gmw",
-      "layer": "A1_部委发布",
+      "layer": "B_主流媒体",
       "path": "corpus/articles/cn/osint-gmw",
       "files": 24,
       "bytes": 211730,
@@ -358,7 +358,7 @@
     {
       "source": "osint-people_daily",
       "name": "people_daily",
-      "layer": "A1_部委发布",
+      "layer": "B_主流媒体",
       "path": "corpus/articles/cn/osint-people_daily",
       "files": 30,
       "bytes": 288041,
@@ -410,7 +410,7 @@
     {
       "source": "osint-stcn_news",
       "name": "stcn_news",
-      "layer": "A1_部委发布",
+      "layer": "B_主流媒体",
       "path": "corpus/articles/cn/osint-stcn_news",
       "files": 56,
       "bytes": 422307,
@@ -423,7 +423,7 @@
     {
       "source": "osint-yicai_news",
       "name": "yicai_news",
-      "layer": "A1_部委发布",
+      "layer": "B_主流媒体",
       "path": "corpus/articles/cn/osint-yicai_news",
       "files": 156,
       "bytes": 1159446,

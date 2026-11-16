@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Second pass: phrase lifecycle, register (语体) profile, quarterly heat, 2027 candidates."""
+"""Descriptive phrase/register statistics and a reading list, not exam prediction."""
 import json
 import re
 from collections import Counter, defaultdict
@@ -8,7 +8,7 @@ from pathlib import Path
 HERE = Path(__file__).resolve().parent
 
 from relate import (TOPICS, TOPIC_RE, PHRASES, EXAM_DIR, EXAM_DATE,
-                    parse_exams, topic_hits)
+                    parse_exams, topic_hits, first_answers)
 
 BASE = HERE
 OUT = BASE / "out"
@@ -95,9 +95,7 @@ def register(exams):
         for m in e["materials"]:
             groups["申论材料"].append(m["text"])
         groups["题干"].extend(e["questions"])
-        ans = e.get("answers", "")
-        if ans:
-            groups["参考答案"].append(ans)
+        groups["参考答案"].extend(e.get("answer_texts", []))
     return groups
 
 
@@ -170,7 +168,7 @@ def candidates(docs, exams):
         for m in e["materials"]:
             for t in topic_hits(m["text"]):
                 used[t].add(e["year"])
-    win = [d for d in docs if "2026-04" <= d["date"] <= "2026-10"]
+    win = [d for d in docs if "2026-04-01" <= d["date"] < "2026-11-01"]
     rows = []
     for t in TOPICS:
         hits = [d for d in win if t in topic_hits(d["text"])]
@@ -188,20 +186,19 @@ def candidates(docs, exams):
             "exam_years": "/".join(str(y) for y in sorted(yrs)) or "-",
             "n_exam_years": len(yrs),
             "last_exam": max(yrs) if yrs else 0,
-            # 热度 × 新鲜度（越久没考越新鲜）
-            "score": round(len(hits) / len(win) * (1 + (2027 - (max(yrs) if yrs else 2020)) / 10), 3),
+            "use": "reading_inventory_not_exam_probability",
         })
-    rows.sort(key=lambda r: -r["score"])
+    rows.sort(key=lambda r: (-r["docs"], r["topic"]))
     with open(OUT / "candidates_2027.csv", "w", encoding="utf-8") as f:
         cols = list(rows[0].keys())
         f.write(",".join(cols) + "\n")
         for r in rows:
             f.write(",".join(str(r[c]) for c in cols) + "\n")
-    print("\n== 2027 topic candidates (heat x freshness) ==")
+    print("\n== 2027 reading inventory (corpus frequency only; not prediction) ==")
     for r in rows[:16]:
         print(f"  {r['topic']:14s} share={r['share']:.3f} pol={r['policy']:3d} "
               f"med={r['media']:4d} loc={r['local']:3d} exams={r['exam_years']:24s} "
-              f"score={r['score']}")
+              "not an exam score")
     return rows
 
 
@@ -211,7 +208,7 @@ def main():
     # pull 参考答案 out of the exam files
     for e in exams:
         t = (EXAM_DIR / e["file"]).read_text(encoding="utf-8")
-        e["answers"] = t.split("## 参考答案", 1)[1] if "## 参考答案" in t else ""
+        e["answer_texts"] = [a["text"] for a in first_answers(t)]
     lifecycle(docs)
     register_table(docs, exams)
     quarterly(docs)

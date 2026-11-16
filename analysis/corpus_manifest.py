@@ -17,6 +17,8 @@ from collections import Counter, defaultdict
 from datetime import date
 from pathlib import Path
 
+from source_layers import sublayer_of
+
 HERE = Path(__file__).resolve().parent
 REPO = HERE.parent
 CORPUS_REPO = Path("/home/fires/projects/Learn-to-Write")
@@ -52,7 +54,7 @@ SOURCES = {
     "_primary-sources": ("A0_中央文件", "中央文件（政府工作报告/五年规划/党代会报告/国务院文件）",
                          "python -m tools.collect.download_primary_sources"),
     "_academic": ("D_学术智库", "学术期刊", "—"),
-    "_web": ("A1_部委发布", "网页快照", "—"),
+    "_web": ("Z_其他", "网页快照（发布者待逐项核验）", "—"),
     "rss": ("B_主流媒体", "RSS 聚合", "python -m tools.collect.download_rss_feeds"),
     "wechat": ("B_主流媒体", "微信公众号", "python -m tools.collect.download_wechat_articles"),
     "chao-news": ("B_主流媒体", "潮新闻", "—"),
@@ -101,7 +103,7 @@ def scan():
                 pass
             n += 1
         if d.name.startswith("osint-"):
-            layer, name, fetch = "A1_部委发布", d.name[6:], "osint 采集器"
+            layer, name, fetch = sublayer_of(d.name), d.name[6:], "osint 采集器"
         else:
             layer, name, fetch = SOURCES.get(d.name, ("Z_其他", d.name, "—"))
         rows.append({
@@ -150,9 +152,10 @@ def write_md(rows, path):
         "# 参考资料索引",
         "",
         f"语料本体在 `{CORPUS_REPO}/corpus/`，**不在本仓库**。本文件是它的索引，由 "
-        "`analysis/corpus_manifest.py` 生成，保证分析可复现。",
+        "`analysis/corpus_manifest.py` 生成。它记录本机语料范围；复现历史结果还需要同一原文快照与分析代码。",
         "",
         f"合计 **{total_f:,} 个文件 / {total_b / 1048576:.0f} MB**。",
+        "文件数包含版本快照，不等于去重文章数。层级按已识别的来源目录分类；采集工具前缀不代表发布者身份，目录分类也不认证每篇文章的权威性。",
         "",
         "## 按层",
         "",
@@ -166,7 +169,7 @@ def write_md(rows, path):
         "",
         "## 按源",
         "",
-        "| 源 | 层 | 文件 | 大小 | 日期范围 | 已提交 |",
+        "| 源 | 层 | 文件 | 大小 | 日期范围 | 已跟踪 |",
         "|---|---|---:|---:|---|---:|",
     ]
     for r in sorted(rows, key=lambda x: -x["files"]):
@@ -210,9 +213,15 @@ def main():
                 diffs.append(f"+ {k} ({b['files']} 篇)")
             elif b is None:
                 diffs.append(f"- {k}")
-            elif a["files"] != b["files"]:
-                diffs.append(f"~ {k}: {a['files']} → {b['files']}")
+            else:
+                changed = [field for field in ("layer", "files", "bytes", "date_min", "date_max")
+                           if a.get(field) != b.get(field)]
+                if changed:
+                    diffs.append(f"~ {k}: " + ", ".join(
+                        f"{field}={a.get(field)} → {b.get(field)}" for field in changed))
         print("无变化" if not diffs else "变化:\n  " + "\n  ".join(diffs))
+        if diffs:
+            sys.exit(1)
         return
 
     payload = {

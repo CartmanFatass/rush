@@ -1,0 +1,156 @@
+{
+  "index_sha256": "a1d5510079a01d23e31d962e9de0a1bcf8a77c137f28486e9da9f237185ff95d",
+  "index_records": 20227,
+  "source_records": 20215,
+  "before": {
+    "A0_中央文件": {
+      "units": 42,
+      "chars": 423800,
+      "narrative": 1.097,
+      "policy": 14.759,
+      "instruction": 0.337
+    },
+    "A1_部委发布": {
+      "units": 788,
+      "chars": 1788255,
+      "narrative": 1.82,
+      "policy": 6.07,
+      "instruction": 0.553
+    },
+    "B_主流媒体": {
+      "units": 7246,
+      "chars": 14146622,
+      "narrative": 1.338,
+      "policy": 7.207,
+      "instruction": 0.438
+    },
+    "C1_地方党报": {
+      "units": 11489,
+      "chars": 17728041,
+      "narrative": 2.368,
+      "policy": 6.395,
+      "instruction": 0.495
+    },
+    "C_地方实践": {
+      "units": 472,
+      "chars": 547242,
+      "narrative": 2.076,
+      "policy": 10.61,
+      "instruction": 0.338
+    },
+    "D_学术智库": {
+      "units": 178,
+      "chars": 2045659,
+      "narrative": 0.344,
+      "policy": 4.065,
+      "instruction": 0.78
+    }
+  },
+  "after_classification_only": {
+    "A0_中央文件": {
+      "units": 42,
+      "chars": 423800,
+      "narrative": 1.097,
+      "policy": 14.759,
+      "instruction": 0.337
+    },
+    "A1_部委发布": {
+      "units": 355,
+      "chars": 561452,
+      "narrative": 1.637,
+      "policy": 8.339,
+      "instruction": 0.461
+    },
+    "B_主流媒体": {
+      "units": 7662,
+      "chars": 15313110,
+      "narrative": 1.385,
+      "policy": 7.019,
+      "instruction": 0.449
+    },
+    "C1_地方党报": {
+      "units": 11489,
+      "chars": 17728041,
+      "narrative": 2.368,
+      "policy": 6.395,
+      "instruction": 0.495
+    },
+    "C_地方实践": {
+      "units": 472,
+      "chars": 547242,
+      "narrative": 2.076,
+      "policy": 10.61,
+      "instruction": 0.338
+    },
+    "D_学术智库": {
+      "units": 192,
+      "chars": 2092855,
+      "narrative": 0.359,
+      "policy": 4.264,
+      "instruction": 0.782
+    },
+    "Z_其他": {
+      "units": 3,
+      "chars": 13118,
+      "narrative": 0.534,
+      "policy": 2.592,
+      "instruction": 1.067
+    }
+  },
+  "changes": [
+    {
+      "source": "_web",
+      "old": "A1_部委发布",
+      "new": "Z_其他",
+      "records": 3
+    },
+    {
+      "source": "osint-21jingji_news",
+      "old": "A1_部委发布",
+      "new": "B_主流媒体",
+      "records": 130
+    },
+    {
+      "source": "osint-cass_news",
+      "old": "A1_部委发布",
+      "new": "D_学术智库",
+      "records": 8
+    },
+    {
+      "source": "osint-drc_news",
+      "old": "A1_部委发布",
+      "new": "D_学术智库",
+      "records": 6
+    },
+    {
+      "source": "osint-economic_daily",
+      "old": "A1_部委发布",
+      "new": "B_主流媒体",
+      "records": 20
+    },
+    {
+      "source": "osint-gmw",
+      "old": "A1_部委发布",
+      "new": "B_主流媒体",
+      "records": 24
+    },
+    {
+      "source": "osint-people_daily",
+      "old": "A1_部委发布",
+      "new": "B_主流媒体",
+      "records": 30
+    },
+    {
+      "source": "osint-stcn_news",
+      "old": "A1_部委发布",
+      "new": "B_主流媒体",
+      "records": 56
+    },
+    {
+      "source": "osint-yicai_news",
+      "old": "A1_部委发布",
+      "new": "B_主流媒体",
+      "records": 156
+    }
+  ]
+}

@@ -3,7 +3,7 @@
 
 Stages
 ------
-1. parse_exams  : split the 15 国考申论 papers into 材料 units + 作答要求
+1. parse_exams  : 2022–2026 city papers (primary) and provincial papers (auxiliary)
 2. tfidf_match  : char-bigram TF-IDF cosine, nearest corpus docs per 材料
 3. topics       : topic taxonomy -> exam matrix + corpus monthly heat
 4. phrases      : policy-phrase transmission (first appearance -> exam usage)
@@ -15,6 +15,7 @@ import math
 import re
 import sys
 from collections import Counter, defaultdict
+from datetime import date
 from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
@@ -32,42 +33,86 @@ EXAM_DATE = {
     2025: "2024-12-01",
     2026: "2025-11-30",
 }
-PAPERS = ["副省级", "地市级", "行政执法"]
+PAPERS = ("地市级", "副省级")
+YEARS = tuple(range(2022, 2027))
+
+
+def normalize_paper(paper):
+    if "地市" in paper or "市地" in paper:
+        return "地市级"
+    if "副省" in paper:
+        return "副省级"
+    return "行政执法" if "行政" in paper else paper
+
+
+def pre_exam(doc_date, exam_date):
+    """Only known, valid dates strictly before the actual exam qualify."""
+    try:
+        return date.fromisoformat(doc_date) < date.fromisoformat(exam_date)
+    except (ValueError, TypeError):
+        return False
 
 
 # ---------------------------------------------------------------- 1. exams
-def parse_exams():
+def parse_exams(*, exam_dir=EXAM_DIR, years=YEARS, papers=PAPERS):
     exams = []
-    for p in sorted(EXAM_DIR.glob("*.md")):
+    for p in sorted(Path(exam_dir).glob("*.md")):
         m = re.match(r"(\d{4})国考申论（(.+?)）", p.name)
         if not m:
             continue
         year, paper = int(m.group(1)), m.group(2)
+        if year not in years or paper not in papers:
+            continue
         text = p.read_text(encoding="utf-8")
         # stop at 参考答案
         body = text.split("## 参考答案")[0]
-        mats = re.split(r"^### 材料\s*(\d+)\s*$", body, flags=re.M)
+        # Some recalled papers omit the level-2 作答要求 heading. In either
+        # form stop at the first question; never index instructions as material.
+        boundary = re.search(r"^##\s+[^\n]*作答要求[^\n]*$|^###\s+第一题\s*$", body, re.M)
+        material_body = body[:boundary.start()] if boundary else body
+        mats = re.split(r"^### 材料\s*(\d+)\s*$", material_body, flags=re.M)
         materials = []
         for i in range(1, len(mats) - 1, 2):
             idx, chunk = int(mats[i]), mats[i + 1]
             chunk = re.sub(r"^---\s*$", "", chunk, flags=re.M).strip()
-            if len(chunk) < 200:
+            if not chunk:
                 continue
             materials.append({"n": idx, "text": chunk, "chars": len(chunk)})
         # 作答要求
-        q = body.split("作答要求")
-        qs_src = q[-1] if len(q) > 1 else ""
+        qs_src = body[boundary.start():] if boundary else ""
         questions = re.findall(r"### 第[一二三四五六]题\s*\n(.+?)(?=\n### |\Z)",
                                qs_src, flags=re.S)
         questions = [re.sub(r"\s+", " ", x).strip() for x in questions]
         exams.append({
             "year": year, "paper": paper,
+            "role": "primary" if paper == "地市级" else "auxiliary",
             "exam_date": EXAM_DATE.get(year, ""),
             "file": p.name,
             "materials": materials,
             "questions": questions[:6],
         })
-    return exams
+    return sorted(exams, key=lambda e: (e["year"], list(papers).index(e["paper"])))
+
+
+def first_answers(text):
+    """One clearly delimited institutional answer per question; no repeated prompt.
+
+    Original alternatives remain in the source files. This projection is for
+    descriptive statistics, never an official marking key.
+    """
+    if "## 参考答案" not in text:
+        return []
+    appendix = text.split("## 参考答案", 1)[1]
+    parts = re.split(r"^### 第([一二三四五六])题\s*$", appendix, flags=re.M)
+    answers = []
+    for i in range(1, len(parts) - 1, 2):
+        markers = list(re.finditer(r"\*\*【参考答案[一二三四]?】\*\*", parts[i + 1]))
+        if not markers:
+            raise ValueError(f"question {parts[i]} has no explicit answer boundary")
+        block = parts[i + 1][markers[0].end():markers[1].start() if len(markers) > 1 else None]
+        block = re.split(r"(?m)^参考答案说明[：:]|^\*\*【(?:解析|参考解析)】\*\*", block, maxsplit=1)[0]
+        answers.append({"question": parts[i], "text": block.strip()})
+    return answers
 
 
 # ---------------------------------------------------------------- text prep
@@ -113,9 +158,11 @@ class Tfidf:
         norm = math.sqrt(sum(x * x for x in v.values())) or 1.0
         return {g: x / norm for g, x in v.items()}
 
-    def top(self, qv, k=8):
+    def top(self, qv, k=8, allowed_indices=None):
         out = []
         for i, dv in enumerate(self.vecs):
+            if allowed_indices is not None and i not in allowed_indices:
+                continue
             # iterate the smaller dict
             a, b = (qv, dv) if len(qv) <= len(dv) else (dv, qv)
             s = 0.0
@@ -244,8 +291,11 @@ def main():
     for e in exams:
         for m in e["materials"]:
             qv = tf.query(m["text"])
+            # Filter by exact date before taking top-k, otherwise newer texts
+            # can crowd all valid historical candidates out of the shortlist.
+            eligible = {i for i, d in enumerate(docs) if pre_exam(d["date"], e["exam_date"])}
             got = []
-            for rank, (score, i) in enumerate(tf.top(qv, k=12), 1):
+            for rank, (score, i) in enumerate(tf.top(qv, k=12, allowed_indices=eligible), 1):
                 d = docs[i]
                 rec = {
                     "exam_year": e["year"], "paper": e["paper"],
@@ -257,8 +307,7 @@ def main():
                     "lead_months": month_delta(e["exam_date"], d["date"]),
                 }
                 matches.append(rec)
-                if rec["lead_months"] is not None and rec["lead_months"] >= 0:
-                    got.append(rec)
+                got.append(rec)
             if got:
                 b = dict(got[0])
                 b["n_pre"] = len(got)
@@ -306,8 +355,8 @@ def main():
 
     # ---------------- 2026 heat ranking (leading indicator) ----------------
     # window: 2026-01 .. 2026-10  (pre-2027 国考 material window)
-    win = [d for d in docs if "2026-01" <= d["date"] <= "2026-10"]
-    recent = [d for d in win if "2026-05" <= d["date"] <= "2026-10"]
+    win = [d for d in docs if "2026-01-01" <= d["date"] < "2026-11-01"]
+    recent = [d for d in win if "2026-05-01" <= d["date"] < "2026-11-01"]
     exam_hist = defaultdict(set)
     for r in exam_topics:
         exam_hist[r["topic"]].add(r["year"])
